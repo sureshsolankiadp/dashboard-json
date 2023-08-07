@@ -3,6 +3,19 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "Central",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -157,15 +170,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 99,
-                "DISTRICT": "Central",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "East",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -400,15 +421,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 167,
-                "DISTRICT": "East",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "North East",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -675,15 +704,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 417,
-                "DISTRICT": "North East",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "North",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -922,15 +959,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 413,
-                "DISTRICT": "North",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "North West",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -1349,15 +1394,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 420,
-                "DISTRICT": "North West",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "New Delhi",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -1484,15 +1537,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 411,
-                "DISTRICT": "New Delhi",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "South",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -1879,15 +1940,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 544,
-                "DISTRICT": "South",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "South West",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -2386,15 +2455,23 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 550,
-                "DISTRICT": "South West",
-                "STATE": "Nation Capital Region"
             }
         },
         {
             "type": "Feature",
+            "properties": {
+                "ID_0": 105,
+                "ISO": "IND",
+                "NAME_0": "India",
+                "ID_1": 12,
+                "NAME_1": "Delhi",
+                "ID_2": 124,
+                "NAME_2": "West",
+                "NL_NAME_2": null,
+                "VARNAME_2": null,
+                "TYPE_2": "District",
+                "ENGTYPE_2": "District"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -2665,11 +2742,6 @@
                         ]
                     ]
                 ]
-            },
-            "properties": {
-                "OBJECTID": 613,
-                "DISTRICT": "West",
-                "STATE": "Nation Capital Region"
             }
         }
     ]
