@@ -12,8 +12,8 @@
             "properties": {
                 "index": 224,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "North West Delhi",
                 "shapeISO": "",
@@ -2387,8 +2387,8 @@
             "properties": {
                 "index": 225,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "New Delhi",
                 "shapeISO": "",
@@ -4994,8 +4994,8 @@
             "properties": {
                 "index": 226,
                 "district": "East",
-                "Q1_22": 1.4,
                 "Q1_23": 1.4,
+                "Q1_24": 1.4,
                 "growth": -3.1,
                 "shapeName": "East Delhi",
                 "shapeISO": "",
@@ -7237,8 +7237,8 @@
             "properties": {
                 "index": 227,
                 "district": "South West",
-                "Q1_22": 0.0,
-                "Q1_23": 0.4,
+                "Q1_23": 0.0,
+                "Q1_24": 0.4,
                 "growth": 1716.7,
                 "shapeName": "South West Delhi",
                 "shapeISO": "",
@@ -12564,8 +12564,8 @@
             "properties": {
                 "index": 228,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "West Delhi",
                 "shapeISO": "",
@@ -15291,8 +15291,8 @@
             "properties": {
                 "index": 229,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "South Delhi",
                 "shapeISO": "",
@@ -18286,8 +18286,8 @@
             "properties": {
                 "index": 230,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "North Delhi",
                 "shapeISO": "",
@@ -23093,8 +23093,8 @@
             "properties": {
                 "index": 231,
                 "district": "North East",
-                "Q1_22": 0.1,
                 "Q1_23": 0.1,
+                "Q1_24": 0.1,
                 "growth": -24.1,
                 "shapeName": "North East Delhi",
                 "shapeISO": "",
@@ -25260,8 +25260,8 @@
             "properties": {
                 "index": 232,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "South East Delhi",
                 "shapeISO": "",
@@ -27539,8 +27539,8 @@
             "properties": {
                 "index": 233,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "Central Delhi",
                 "shapeISO": "",
@@ -30530,8 +30530,8 @@
             "properties": {
                 "index": 234,
                 "district": "0",
-                "Q1_22": 0.0,
                 "Q1_23": 0.0,
+                "Q1_24": 0.0,
                 "growth": 0.0,
                 "shapeName": "Shahdara",
                 "shapeISO": "",
