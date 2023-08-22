@@ -1,0 +1,424 @@
+,district,Bill Quantity_July_mt
+0,Adilabad_Telangana,0.28958
+1,Agra_UttarPradesh,0.30875
+2,Ahmadnagar_Maharashtra,1.0928699999999998
+3,Aizawl_Mizoram,3.34265
+4,Akola_Maharashtra,2.7023200000000003
+5,Alappuzha_Kerala,2.2208
+6,Alipurduar_WestBengal,4.644399999999999
+7,Allahabad_UttarPradesh,4.96525
+8,Ambedkar Nagar_UttarPradesh,0.176
+9,Amethi_UttarPradesh,0.53885
+10,Amravati_Maharashtra,3.01904
+11,Anantapur_AndhraPradesh,10.80856
+12,Anugul_Odisha,10.9323
+13,Araria_Bihar,0.7057
+14,Ariyalur_TamilNadu,4.7186
+15,Arwal_Bihar,3.2232999999999996
+16,Aurangabad_Bihar,11.0154
+17,Aurangabad_Maharashtra,4.78576
+18,Azamgarh_UttarPradesh,1.05385
+19,Bagalkot_Karnataka,7.07542
+20,Bahraich_UttarPradesh,1.2417
+21,Baksa_Assam,1.4079000000000002
+22,Balangir_Odisha,3.89182
+23,Baleshwar_Odisha,19.072119999999998
+24,Ballia_UttarPradesh,0.81455
+25,Balrampur_Chhattisgarh,0.15
+26,Balrampur_UttarPradesh,0.049
+27,Banda_UttarPradesh,0.01
+28,Bangalore Rural_Karnataka,17.51584
+29,Bangalore_Karnataka,51.27088
+30,Banka_Bihar,4.46915
+31,Bankura_WestBengal,7.6286499999999995
+32,Bara Banki_UttarPradesh,0.125
+33,Barddhaman_WestBengal,11.35215
+34,Bareilly_UttarPradesh,0.026
+35,Bargarh_Odisha,3.75245
+36,Barpeta_Assam,4.32195
+37,Basti_UttarPradesh,0.0675
+38,Baudh_Odisha,1.8757000000000001
+39,Begusarai_Bihar,7.4497
+40,Belgaum_Karnataka,26.424799999999998
+41,Bellary_Karnataka,1.6466599999999998
+42,Bhadrak_Odisha,10.897
+43,Bhagalpur_Bihar,3.88841
+44,Bhandara_Maharashtra,2.35125
+45,Bhojpur_Bihar,13.440299999999999
+46,Bid_Maharashtra,2.22905
+47,Bijapur_Karnataka,4.617649999999999
+48,Birbhum_WestBengal,7.6855
+49,Bishnupur_Manipur,0.026
+50,Biswanath_Assam,0.9945
+51,Bokaro_Jharkhand,5.5625
+52,Bongaigaon_Assam,2.25014
+53,Buldana_Maharashtra,3.80014
+54,Buxar_Bihar,2.8823499999999997
+55,Cachar_Assam,7.06765
+56,Chamarajanagar_Karnataka,1.98601
+57,Chamoli_Uttarakhand,2.6869
+58,Champawat_Uttarakhand,0.036
+59,Champhai_Mizoram,0.238
+60,Chandauli_UttarPradesh,0.14
+61,Chandrapur_Maharashtra,4.64203
+62,Changlang_ArunachalPradesh,0.4
+63,Charaideo_Assam,1.6434000000000002
+64,Chatra_Jharkhand,5.64419
+65,Chengalputtu_TamilNadu,7.985930000000001
+66,Chennai_TamilNadu,7.48409
+67,Chikkaballapura_Karnataka,1.1279000000000001
+68,Chikmagalur_Karnataka,1.30686
+69,Chirang_Assam,1.13575
+70,Chitradurga_Karnataka,2.0344
+71,Chitrakoot_UttarPradesh,0.2995
+72,Chittoor_AndhraPradesh,16.5015
+73,Coimbatore_TamilNadu,23.891510000000004
+74,Cuddalore_TamilNadu,10.28899
+75,Cuttack_Odisha,7.60914
+76,Dakshin Dinajpur_WestBengal,1.447
+77,Dakshina Kannada_Karnataka,4.62909
+78,Darbhanga_Bihar,1.95405
+79,Darjiling_WestBengal,3.4922
+80,Darrang_Assam,1.9585
+81,Davanagere_Karnataka,2.2274900000000004
+82,Debagarh_Odisha,2.00569
+83,Deoghar_Jharkhand,8.44735
+84,Deoria_UttarPradesh,0.5144500000000001
+85,Dhalai_Tripura,1.1745
+86,Dhanbad_Jharkhand,5.55465
+87,Dharmapuri_TamilNadu,0.89115
+88,Dharwad_Karnataka,4.09438
+89,Dhemaji_Assam,6.3793999999999995
+90,Dhenkanal_Odisha,5.517060000000001
+91,Dhubri_Assam,2.8145
+92,Dhule_Maharashtra,0.4145
+93,Dibrugarh_Assam,5.39595
+94,Dima Hasao_Assam,6.1073
+95,Dimapur_Nagaland,2.26506
+96,Dindigul_TamilNadu,3.2105
+97,Dumka_Jharkhand,2.5755
+98,East District_Sikkim,6.616899999999999
+99,East Garo Hills_Meghalaya,0.225
+100,East Godavari_AndhraPradesh,3.43975
+101,East Jaintia Hills_Meghalaya,0.226
+102,East Khasi Hills_Meghalaya,7.682
+103,East Siang_ArunachalPradesh,1.283
+104,Ernakulam_Kerala,9.128950000000001
+105,Erode_TamilNadu,9.2962
+106,Faizabad_UttarPradesh,0.051
+107,Farrukhabad_UttarPradesh,0.181
+108,Fatehpur_UttarPradesh,0.205
+109,Gadag_Karnataka,2.4694000000000003
+110,Gadchiroli_Maharashtra,2.3199899999999998
+111,Gajapati_Odisha,0.275
+112,Ganjam_Odisha,15.818850000000001
+113,Garhwa_Jharkhand,8.834100000000001
+114,Gaya_Bihar,16.411060000000003
+115,Ghazipur_UttarPradesh,0.25293
+116,Giridih_Jharkhand,8.3506
+117,Goalpara_Assam,7.068
+118,Godda_Jharkhand,1.639
+119,Golaghat_Assam,2.3293600000000003
+120,Gomati_Tripura,0.7615
+121,Gonda_UttarPradesh,0.045
+122,Gondiya_Maharashtra,3.69914
+123,Gopalganj_Bihar,7.375
+124,Gorakhpur_UttarPradesh,4.1355
+125,Gulbarga_Karnataka,0.2253
+126,Gumla_Jharkhand,5.2153
+127,Guntur_AndhraPradesh,3.85156
+128,Gwalior_MadhyaPradesh,0.025
+129,Hailakandi_Assam,3.286
+130,Hamirpur_UttarPradesh,1.02375
+131,Haora_WestBengal,7.06618
+132,Hardoi_UttarPradesh,0.8342999999999999
+133,Hassan_Karnataka,3.78645
+134,Haveri_Karnataka,7.157979999999999
+135,Hazaribagh_Jharkhand,6.65715
+136,Hingoli_Maharashtra,0.6046900000000001
+137,Hnahthial_Mizoram,0.1
+138,Hojai_Assam,6.3225
+139,Hugli_WestBengal,14.09627
+140,Hydrabad_Telangana,2.91765
+141,Idukki_Kerala,1.82075
+142,Imphal East_Manipur,0.731
+143,Imphal West_Manipur,2.815
+144,Jagatsinghapur_Odisha,7.49829
+145,Jajapur_Odisha,14.182799999999999
+146,Jalaun_UttarPradesh,0.653
+147,Jalgaon_Maharashtra,1.8751600000000002
+148,Jalna_Maharashtra,1.51128
+149,Jalpaiguri_WestBengal,10.9037
+150,Jamnagar_Gujarat,0.156
+151,Jamtara_Jharkhand,1.0404
+152,Jamui_Bihar,4.9672
+153,Jaunpur_UttarPradesh,1.449
+154,Jehanabad_Bihar,5.24245
+155,Jhansi_UttarPradesh,0.104
+156,Jhargram_WestBengal,0.2605
+157,Jharsuguda_Odisha,6.806649999999999
+158,Jorhat_Assam,6.36605
+159,Kadapa(YSR)_AndhraPradesh,9.55115
+160,Kaimur (Bhabua)_Bihar,3.50925
+161,Kakching_Manipur,0.241
+162,Kalahandi_Odisha,1.81505
+163,Kallakurichi_TamilNadu,2.977
+164,Kamareddy_Telangana,0.032
+165,Kamle_ArunachalPradesh,0.085
+166,Kamrup Metropolitan_Meghalaya,10.46528
+167,Kamrup_Assam,7.826899999999999
+168,Kancheepuram_TamilNadu,29.81274
+169,Kandhamal_Odisha,2.74034
+170,Kangpokpi_Manipur,1.218
+171,Kannauj_UttarPradesh,0.53675
+172,Kanniyakumari_TamilNadu,9.45485
+173,Kannur_Kerala,4.61038
+174,Kanpur Dehat_UttarPradesh,0.035
+175,Kanpur Nagar_UttarPradesh,1.77681
+176,Karaikal_Puducherry,1.64572
+177,Karbi Anglong East_Assam,4.5809
+178,Karbi Anglong West_Assam,0.23
+179,Karimganj_Assam,4.405
+180,Karimnagar_Telangana,0.031
+181,Karur_TamilNadu,4.60817
+182,Kasaragod_Kerala,1.74762
+183,Katihar_Bihar,2.29125
+184,Kaushambi_UttarPradesh,0.334
+185,Kendrapara_Odisha,4.1482
+186,Kendujhar_Odisha,13.91752
+187,Khagaria_Bihar,2.812
+188,Kheri_UttarPradesh,0.4555
+189,Khordha_Odisha,18.51464
+190,Khowai_Tripura,1.4155
+191,Khunti_Jharkhand,1.3006
+192,Kishanganj_Bihar,0.5323
+193,Koch Bihar_WestBengal,2.762
+194,Kodagu_Karnataka,0.7102999999999999
+195,Kodarma_Jharkhand,3.5129
+196,Kohima_Nagaland,1.685
+197,Kokrajhar_Assam,0.841
+198,Kolar_Karnataka,2.1125
+199,Kolasib_Mizoram,0.4085
+200,Kolhapur_Maharashtra,4.651260000000001
+201,Kolkata_WestBengal,0.72248
+202,Kollam_Kerala,4.68333
+203,Komaram Bheem_Telangana,0.6234500000000001
+204,Koppal_Karnataka,1.9823499999999998
+205,Koraput_Odisha,1.1015
+206,Kottayam_Kerala,6.90958
+207,Kozhikode_Kerala,8.34153
+208,Krishna_AndhraPradesh,1.479
+209,Krishnagiri_TamilNadu,4.1818599999999995
+210,Kurnool_AndhraPradesh,7.94369
+211,Kushinagar_UttarPradesh,0.7055
+212,Lakhimpur_Assam,3.8141
+213,Lakhisarai_Bihar,2.9963
+214,Lalitpur_UttarPradesh,0.105
+215,Latehar_Jharkhand,3.2479
+216,Latur_Maharashtra,0.133
+217,Lawngtlai_Mizoram,0.52825
+218,Leparada_ArunachalPradesh,0.03025
+219,Lohardaga_Jharkhand,1.7916500000000002
+220,Lohit_ArunachalPradesh,0.1
+221,Longding_ArunachalPradesh,0.025
+222,Longleng_Nagaland,0.06
+223,Lower Dibang Valley_ArunachalPradesh,0.609
+224,Lower Subansiri_ArunachalPradesh,0.35395
+225,Lucknow_UttarPradesh,0.46675
+226,Lunglei_Mizoram,0.951
+227,Madhepura_Bihar,4.5265
+228,Madhubani_Bihar,1.56425
+229,Madurai_TamilNadu,16.24375
+230,Mahabubnagar_Telangana,0.3333
+231,Mahoba_UttarPradesh,0.13
+232,Mahrajganj_UttarPradesh,0.451
+233,Mainpuri_UttarPradesh,0.13675
+234,Majuli_Assam,0.11
+235,Malappuram_Kerala,13.256290000000002
+236,Maldah_WestBengal,4.6709499999999995
+237,Malkangiri_Odisha,0.315
+238,Mamit_Mizoram,0.125
+239,Mancherial_Telangana,0.031
+240,Mandya_Karnataka,3.75975
+241,Mau_UttarPradesh,1.2333
+242,Mayiladuthurai_TamilNadu,7.88007
+243,Mayurbhanj_Odisha,17.33804
+244,Medchal_Telangana,1.719
+245,Mirzapur_UttarPradesh,0.2875
+246,Mon_Nagaland,0.435
+247,Morigaon_Assam,5.122
+248,Mumbai Suburban_Maharashtra,0.12990000000000002
+249,Mumbai_Maharashtra,0.413
+250,Munger_Bihar,2.3698
+251,Murshidabad_WestBengal,8.93325
+252,Muzaffarpur_Bihar,3.69045
+253,Mysore_Karnataka,4.84527
+254,Nabarangapur_Odisha,0.9808
+255,Nadia_WestBengal,9.57685
+256,Nagaon_Assam,8.52445
+257,Nagapattinam_TamilNadu,8.04815
+258,Nagarkurnool_Telangana,1.00123
+259,Nagpur_Maharashtra,8.87585
+260,Nainital_Uttarakhand,0.107
+261,Nalanda_Bihar,7.51485
+262,Nalbari_Assam,3.4765
+263,Namakkal_TamilNadu,5.396229999999999
+264,Namsai_ArunachalPradesh,0.135
+265,Nanded_Maharashtra,1.31225
+266,Nandurbar_Maharashtra,0.205
+267,Narayanpet_Telangana,0.7162000000000001
+268,Nashik_Maharashtra,1.9866700000000002
+269,Nawada_Bihar,11.6037
+270,Nayagarh_Odisha,8.24173
+271,Nizamabad_Telangana,0.482
+272,Noney_Manipur,0.1613
+273,North District_Sikkim,0.1965
+274,North Goa_Goa,3.41013
+275,North Tripura_Tripura,2.7645
+276,North Twenty Four Parganas_WestBengal,13.18385
+277,Nuapada_Odisha,0.142
+278,Osmanabad_Maharashtra,0.62395
+279,Pakke Kessang_ArunachalPradesh,0.025
+280,Pakur_Jharkhand,1.47575
+281,Palakkad_Kerala,8.362
+282,Palamu_Jharkhand,10.2452
+283,Palghar_Maharashtra,1.17919
+284,Papum Pare_ArunachalPradesh,4.448
+285,Parbhani_Maharashtra,0.69538
+286,Paschim Barddhaman_WestBengal,14.058950000000001
+287,Paschim Medinipur_WestBengal,7.16643
+288,Pashchim Champaran_Bihar,2.26645
+289,Pashchimi Singhbhum_Jharkhand,5.7716
+290,Pathanamthitta_Kerala,2.79195
+291,Patna_Bihar,21.57105
+292,Perambalur_TamilNadu,2.5001100000000003
+293,Peren_Nagaland,0.06
+294,Phek_Manipur,0.2
+295,Pilibhit_UttarPradesh,0.38975
+296,Prakasam_AndhraPradesh,1.8662999999999998
+297,Pratapgarh_UttarPradesh,2.178
+298,Puducherry_TamilNadu,8.757150000000001
+299,Pudukkottai_TamilNadu,6.69772
+300,Pune_Maharashtra,24.254369999999998
+301,Purba Champaran_Bihar,3.17763
+302,Purba Medinipur_WestBengal,10.881770000000001
+303,Purbi Singhbhum_Jharkhand,6.476
+304,Puri_Odisha,14.3292
+305,Purnia_Bihar,5.06925
+306,Puruliya_WestBengal,3.70675
+307,Rae Bareli_UttarPradesh,0.05
+308,Raichur_Karnataka,2.033
+309,Raigarh_Chhattisgarh,0.02
+310,Raigarh_Maharashtra,3.65229
+311,Rajanna Sircilla_Telangana,0.034
+312,Ramanagara_Karnataka,1.87673
+313,Ramanathapuram_TamilNadu,4.28551
+314,Ramgarh_Jharkhand,1.7909000000000002
+315,Rampur_UttarPradesh,0.14695
+316,Ranchi_Jharkhand,12.14773
+317,Rangareddy_Telangana,3.4869299999999996
+318,Ranipet_TamilNadu,4.2445900000000005
+319,Ratnagiri_Maharashtra,3.65564
+320,Rayagada_Odisha,0.285
+321,Ribhoi_Meghalaya,0.42825
+322,Rohtas_Bihar,11.993
+323,Saharsa_Bihar,1.3769500000000001
+324,Sahibganj_Jharkhand,2.16585
+325,Saiha_Mizoram,0.9095
+326,Saitual_Mizoram,0.431
+327,Salem_TamilNadu,3.19365
+328,Samastipur_Bihar,10.6507
+329,Sambalpur_Odisha,10.827119999999999
+330,Sangareddy_Telangana,0.365
+331,Sangli_Maharashtra,7.656770000000001
+332,Sant Ravidas Nagar (Bhadohi)_UttarPradesh,0.086
+333,Saraikela-Kharsawan_Jharkhand,1.0400699999999998
+334,Saran_Bihar,3.3765
+335,Satara_Maharashtra,7.495059
+336,Serchhip_Mizoram,1.349
+337,Shahjahanpur_UttarPradesh,0.781
+338,Sheikhpura_Bihar,1.59395
+339,Sheohar_Bihar,0.02
+340,Shi Yomi_ArunachalPradesh,0.17265
+341,Shimoga_Karnataka,2.06058
+342,Shrawasti_UttarPradesh,0.014
+343,Siang_ArunachalPradesh,0.012
+344,Siddharthnagar_UttarPradesh,0.1095
+345,Simdega_Jharkhand,4.3631
+346,Sindhudurg_Maharashtra,1.0857
+347,Sipahijula_Tripura,0.9315
+348,Sitamarhi_Bihar,6.434399999999999
+349,Sitapur_UttarPradesh,0.4425
+350,Sivaganga_TamilNadu,5.77395
+351,Sivasagar_Assam,3.4310500000000004
+352,Siwan_Bihar,6.1648000000000005
+353,Solapur_Maharashtra,3.84959
+354,Sonbhadra_UttarPradesh,0.9255
+355,Sonitpur_Assam,5.93275
+356,South District_Sikkim,3.218
+357,South Garo Hills_Meghalaya,0.412
+358,South Goa_Goa,1.2794400000000001
+359,South Salmara-Mankachar_Assam,1.32425
+360,South Tripura_Tripura,0.693
+361,South Twenty Four Parganas_WestBengal,14.703550000000002
+362,South West Khasi Hills_Meghalaya,0.497
+363,South West_Delhi,0.48
+364,Sri Potti Sriramulu Nellore_AndhraPradesh,4.06957
+365,Subarnapur_Odisha,1.94415
+366,Sukma_Chhattisgarh,0.025
+367,Sultanpur_UttarPradesh,0.7535
+368,Sundargarh_Odisha,33.054370000000006
+369,Supaul_Bihar,1.9427
+370,Surajpur_Chhattisgarh,0.13
+371,Surat_Gujarat,0.05
+372,Surguja_Chhattisgarh,0.06
+373,Tamenglong_Manipur,0.018
+374,Tawang_ArunachalPradesh,0.04
+375,Tenkasi_TamilNadu,6.5028500000000005
+376,Thane_Maharashtra,3.36059
+377,Thanjavur_TamilNadu,19.92302
+378,The Nilgiris_TamilNadu,0.54025
+379,Theni_TamilNadu,5.2699300000000004
+380,Thiruvallur_TamilNadu,11.00034
+381,Thiruvananthapuram_Kerala,13.33059
+382,Thiruvarur_TamilNadu,11.19415
+383,Thoothukkudi_TamilNadu,16.573330000000002
+384,Thrissur_Kerala,14.49824
+385,Tinsukia_Assam,3.8428
+386,Tirap_ArunachalPradesh,0.1785
+387,Tiruchirappalli_TamilNadu,11.122069999999999
+388,Tirunelveli_TamilNadu,9.09274
+389,Tirupathur_TamilNadu,2.2983000000000002
+390,Tiruppur_TamilNadu,10.86466
+391,Tiruvannamalai_TamilNadu,3.1205
+392,Tuensang_Nagaland,0.1
+393,Tumkur_Karnataka,6.56577
+394,Udalguri_Assam,1.6295
+395,Udham Singh Nagar_Uttarakhand,1.2655
+396,Udupi_Karnataka,1.3180999999999998
+397,Unnao_UttarPradesh,2.622
+398,Unokoti_Tripura,1.599
+399,Upper Siang_ArunachalPradesh,0.192
+400,Upper Subansiri_ArunachalPradesh,0.048
+401,Uttara Kannada_Karnataka,2.7758000000000003
+402,Vaishali_Bihar,6.93775
+403,Varanasi_UttarPradesh,1.56375
+404,Vellore_TamilNadu,2.6481999999999997
+405,Vikarabad_Telangana,0.67
+406,Viluppuram_TamilNadu,6.66278
+407,Virudhunagar_TamilNadu,3.59116
+408,Wardha_Maharashtra,3.0912200000000003
+409,Washim_Maharashtra,1.94676
+410,Wayanad_Kerala,1.33212
+411,West District_Sikkim,0.494
+412,West Garo Hills_Meghalaya,1.866
+413,West Godavari_AndhraPradesh,0.697
+414,West Jaintia Hills_Meghalaya,1.5375
+415,West Kameng_ArunachalPradesh,0.03
+416,West Khasi Hills_Meghalaya,1.0005
+417,West Siang_ArunachalPradesh,1.63825
+418,West Tripura_Tripura,4.9106000000000005
+419,Wokha_Nagaland,0.16
+420,Yadadri Bhongiri_Telangana,0.025
+421,Yadgir_Karnataka,0.121
+422,Yavatmal_Maharashtra,2.07286
