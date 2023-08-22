@@ -11,7 +11,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -19,7 +19,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "North West",
                 "state_name": "Delhi"
             },
@@ -2387,7 +2387,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -2395,7 +2395,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "New Delhi",
                 "state_name": "Delhi"
             },
@@ -4995,7 +4995,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -5003,7 +5003,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "East",
                 "state_name": "Delhi"
             },
@@ -7239,7 +7239,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -7247,7 +7247,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "South West",
                 "state_name": "Delhi"
             },
@@ -12567,7 +12567,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -12575,7 +12575,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "West",
                 "state_name": "Delhi"
             },
@@ -15295,7 +15295,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -15303,7 +15303,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "South",
                 "state_name": "Delhi"
             },
@@ -18291,7 +18291,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -18299,7 +18299,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "North ",
                 "state_name": "Delhi"
             },
@@ -23099,7 +23099,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -23107,7 +23107,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "North East",
                 "state_name": "Delhi"
             },
@@ -25267,7 +25267,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -25275,7 +25275,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "South East",
                 "state_name": "Delhi"
             },
@@ -27547,7 +27547,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -27555,7 +27555,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Central",
                 "state_name": "Delhi"
             },
@@ -30539,7 +30539,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -30547,7 +30547,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Shahdara",
                 "state_name": "Delhi"
             },

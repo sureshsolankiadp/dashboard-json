@@ -11,7 +11,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -19,7 +19,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Daman",
                 "state_name": "DadraandNagarHaveliandDamanandDiu"
             },
@@ -2751,7 +2751,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -2759,7 +2759,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Diu",
                 "state_name": "DadraandNagarHaveliandDamanandDiu"
             },

@@ -11,7 +11,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -19,7 +19,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Una",
                 "state_name": "HimachalPradesh"
             },
@@ -3187,7 +3187,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -3195,7 +3195,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Solan",
                 "state_name": "HimachalPradesh"
             },
@@ -10999,7 +10999,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -11007,7 +11007,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Sirmaur",
                 "state_name": "HimachalPradesh"
             },
@@ -24663,7 +24663,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -24671,7 +24671,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Kinnaur",
                 "state_name": "HimachalPradesh"
             },
@@ -31835,7 +31835,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -31843,7 +31843,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Kullu",
                 "state_name": "HimachalPradesh"
             },
@@ -35899,7 +35899,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -35907,7 +35907,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Chamba",
                 "state_name": "HimachalPradesh"
             },
@@ -42075,7 +42075,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -42083,7 +42083,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Shimla",
                 "state_name": "HimachalPradesh"
             },
@@ -53779,7 +53779,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -53787,7 +53787,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Bilaspur",
                 "state_name": "HimachalPradesh"
             },
@@ -58911,7 +58911,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -58919,7 +58919,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Kangra",
                 "state_name": "HimachalPradesh"
             },
@@ -69075,7 +69075,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -69083,7 +69083,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Lahul & Spiti",
                 "state_name": "HimachalPradesh"
             },
@@ -75635,7 +75635,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -75643,7 +75643,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Mandi",
                 "state_name": "HimachalPradesh"
             },
@@ -81563,7 +81563,7 @@
             "type": "Feature",
             "properties": {
                 "district": "0",
-                "Bill Quantity_July_mt": 0.0,
+                "BillQuantityJuly": 0.0,
                 "Q1_23": 0.0,
                 "Q1_24": 0.0,
                 "growth": 0.0,
@@ -81571,7 +81571,7 @@
                 "Target_mt": 0.0,
                 "Difference_mt": 0.0,
                 "Confidence": 0.0,
-                "shortfall in percent": 0.0,
+                "shortfallinpercent": 0.0,
                 "shapeName": "Hamirpur",
                 "state_name": "HimachalPradesh"
             },

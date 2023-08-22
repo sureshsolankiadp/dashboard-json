@@ -1,4 +1,4 @@
-,district,Predictions_mt,Target_mt,Difference_mt,Confidence,shortfall in percent
+,district,Predictions_mt,Target_mt,Difference_mt,Confidence,shortfallinpercent
 0,Adilabad_Telangana,0.2611099853515625,0.503,-0.2418900146484375,95,-48.08946613289016
 1,Aizawl_Mizoram,2.345148961067196,2.399,-0.05385103893280393,95,-2.2447285924470166
 2,Akola_Maharashtra,0.8712858440876003,1.025,-0.15371415591239962,95,-14.996503015843867
