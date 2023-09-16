@@ -1,1012 +1,1010 @@
-{
-    "goa": [
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7015228,
-            "DealerName": "KAKODE TRADING LLP",
-            "Position": [
-                15.2622864,
-                73.9575139
-            ],
-            "Volume": {
-                "Q1_23": 602.3333333333334,
-                "Q1_24": 1171.4
-            },
-            "SOW": {
-                "Q1_23": 0.12674044545724578,
-                "Q1_24": 0.2464810588964323
-            },
-            "Discount": {
-                "Q1_23": 597.2442996076844,
-                "Q1_24": 415.26064283303987
-            }
+[
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7015228,
+        "DealerName": "KAKODE TRADING LLP",
+        "Position": [
+            15.2622864,
+            73.9575139
+        ],
+        "Volume": {
+            "Q1_23": 602.3333333333334,
+            "Q1_24": 1171.4
         },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7031240,
-            "DealerName": "BHANU ENTERPRISES",
-            "Position": [
-                15.4032482,
-                74.008611
-            ],
-            "Volume": {
-                "Q1_23": 1158.8000000000002,
-                "Q1_24": 1182.9666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.2414166666666667,
-                "Q1_24": 0.2464513888888889
-            },
-            "Discount": {
-                "Q1_23": 716.373253299963,
-                "Q1_24": 438.0564630059186
-            }
+        "SOW": {
+            "Q1_23": 0.12674044545724578,
+            "Q1_24": 0.2464810588964323
         },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7015022,
-            "DealerName": "NANDADEEP ENTERPRISES",
-            "Position": [
-                15.5137473,
-                73.8372214
-            ],
-            "Volume": {
-                "Q1_23": 624.6166666666667,
-                "Q1_24": 782.2666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.21801628853984875,
-                "Q1_24": 0.27304246655032
-            },
-            "Discount": {
-                "Q1_23": 429.7013060579956,
-                "Q1_24": 372.79118010813096
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7034296,
-            "DealerName": "NEELKANTH  AGENCIES",
-            "Position": [
-                15.497957366495,
-                73.826101943851
-            ],
-            "Volume": {
-                "Q1_23": 292.6666666666667,
-                "Q1_24": 438.0
-            },
-            "SOW": {
-                "Q1_23": 0.12194444444444445,
-                "Q1_24": 0.1825
-            },
-            "Discount": {
-                "Q1_23": 416.90079048219906,
-                "Q1_24": 431.51309861989967
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7026687,
-            "DealerName": "CONCRETE CONCEPTS",
-            "Position": [
-                15.4845211,
-                73.8204264
-            ],
-            "Volume": {
-                "Q1_23": 271.05,
-                "Q1_24": 173.08333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.26573529411764707,
-                "Q1_24": 0.16968954248366014
-            },
-            "Discount": {
-                "Q1_23": 430.95208080484645,
-                "Q1_24": 288.07994731042726
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7036154,
-            "DealerName": "OMKAR INDUSTRIES",
-            "Position": [
-                15.460210106766,
-                73.962459750474
-            ],
-            "Volume": {
-                "Q1_23": 155.66666666666666,
-                "Q1_24": 72.83333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.3459259259259259,
-                "Q1_24": 0.16185185185185183
-            },
-            "Discount": {
-                "Q1_23": 583.4369363804069,
-                "Q1_24": 296.9657013584067
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7028829,
-            "DealerName": "KHOPE AGENCIES PVT LTD",
-            "Position": [
-                15.2689903,
-                73.9568474
-            ],
-            "Volume": {
-                "Q1_23": 131.41666666666666,
-                "Q1_24": 94.16666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.014553340716131413,
-                "Q1_24": 0.010428202288667405
-            },
-            "Discount": {
-                "Q1_23": 413.10435733713746,
-                "Q1_24": 426.88297173324065
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "SOUTH GOA",
-            "Code": 7031479,
-            "DealerName": "JAGADISH DISTRIBUTORS",
-            "Position": [
-                15.3991591,
-                73.8182998
-            ],
-            "Volume": {
-                "Q1_23": 95.08333333333333,
-                "Q1_24": 96.33333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.2112962962962963,
-                "Q1_24": 0.21407407407407406
-            },
-            "Discount": {
-                "Q1_23": 194.12686605487707,
-                "Q1_24": 336.3987772358056
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "NORTH GOA",
-            "Code": 7027019,
-            "DealerName": "MANOJ ENTERPRISES",
-            "Position": [
-                15.4054878,
-                74.019179
-            ],
-            "Volume": {
-                "Q1_23": 77.45,
-                "Q1_24": 97.01666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.16135416666666666,
-                "Q1_24": 0.20211805555555556
-            },
-            "Discount": {
-                "Q1_23": 221.33743135130817,
-                "Q1_24": 148.97462923093838
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7039980,
-            "DealerName": "HABLOT PRIVATE LIMITED",
-            "Position": [
-                15.308761137638,
-                73.978675715625
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 51.416666666666664
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.08569444444444445
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 317.39643435980554
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7028307,
-            "DealerName": "ARAV INFRATECH PVT LTD",
-            "Position": [
-                15.5248716,
-                73.8257816
-            ],
-            "Volume": {
-                "Q1_23": 33.666666666666664,
-                "Q1_24": 41.0
-            },
-            "SOW": {
-                "Q1_23": 0.04488888888888889,
-                "Q1_24": 0.05466666666666666
-            },
-            "Discount": {
-                "Q1_23": 217.24479776865473,
-                "Q1_24": 286.0218942358337
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7037120,
-            "DealerName": "SHREE GAJANAN MARKETING",
-            "Position": [
-                15.375559,
-                73.882963
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 51.98333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.17327777777777775
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 138.7873036229561
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "NORTH GOA",
-            "Code": 7015557,
-            "DealerName": "NOBEL GENERAL TRADING",
-            "Position": [
-                15.401924,
-                74.0066173
-            ],
-            "Volume": {
-                "Q1_23": 34.5,
-                "Q1_24": 33.833333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.115,
-                "Q1_24": 0.11277777777777778
-            },
-            "Discount": {
-                "Q1_23": 220.00404811824214,
-                "Q1_24": 104.517267698928
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7036062,
-            "DealerName": "RD ENTERPRISES",
-            "Position": [
-                15.494563648745,
-                73.937224186957
-            ],
-            "Volume": {
-                "Q1_23": 6.666666666666667,
-                "Q1_24": 42.0
-            },
-            "SOW": {
-                "Q1_23": 0.04636874746420913,
-                "Q1_24": 0.2921231090245175
-            },
-            "Discount": {
-                "Q1_23": 28.45815439843536,
-                "Q1_24": 199.61434487462586
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7039792,
-            "DealerName": "ANKUSH ENTERPRISES",
-            "Position": [
-                15.429310672409,
-                73.985757753253
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 43.583333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.14527777777777778
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 299.2093307839388
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7031940,
-            "DealerName": "MAHALAXMI HARDWARES",
-            "Position": [
-                15.5304791,
-                74.1365964
-            ],
-            "Volume": {
-                "Q1_23": 36.666666666666664,
-                "Q1_24": 24.95
-            },
-            "SOW": {
-                "Q1_23": 0.06111111111111111,
-                "Q1_24": 0.04158333333333333
-            },
-            "Discount": {
-                "Q1_23": 126.23997258025355,
-                "Q1_24": 253.27498806577006
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7034409,
-            "DealerName": "HAPPY CEMENT DEALERS,",
-            "Position": [
-                15.474295,
-                73.846598
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 15.333333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0037307380373073806
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 310.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7027365,
-            "DealerName": "SAVARI ENTERPRISES",
-            "Position": [
-                15.2883478,
-                73.977524
-            ],
-            "Volume": {
-                "Q1_23": 33.5,
-                "Q1_24": 48.333333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.021895424836601306,
-                "Q1_24": 0.03159041394335512
-            },
-            "Discount": {
-                "Q1_23": 223.64051597186318,
-                "Q1_24": 231.509188881194
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7033523,
-            "DealerName": "PARESH M. PAI KUCHELKAR",
-            "Position": [
-                15.56302427548,
-                74.011212922633
-            ],
-            "Volume": {
-                "Q1_23": 10.666666666666666,
-                "Q1_24": 13.0
-            },
-            "SOW": {
-                "Q1_23": 0.017344173441734417,
-                "Q1_24": 0.02113821138211382
-            },
-            "Discount": {
-                "Q1_23": 119.70815439843537,
-                "Q1_24": 63.84276978305075
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7039553,
-            "DealerName": "SHREE STEELS  & HARDWARE",
-            "Position": [
-                15.27757339,
-                73.97604447
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 34.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.07555555555555556
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 150.72549019607843
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7034667,
-            "DealerName": "APURVA STEELS",
-            "Position": [
-                15.530242066755,
-                73.822440057993
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 8.666666666666666
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.020634920634920634
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "NORTH GOA",
-            "Code": 7036016,
-            "DealerName": "PANKAJ CERAMICS",
-            "Position": [
-                15.3877,
-                74.0014
-            ],
-            "Volume": {
-                "Q1_23": 4.366666666666666,
-                "Q1_24": 4.0
-            },
-            "SOW": {
-                "Q1_23": 0.07277777777777777,
-                "Q1_24": 0.06666666666666667
-            },
-            "Discount": {
-                "Q1_23": 29.526856688511703,
-                "Q1_24": 58.45815439843537
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7040202,
-            "DealerName": "KRISHI KENDRA",
-            "Position": [
-                15.22773438,
-                74.15172447
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 12.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0044444444444444444
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 165.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7035114,
-            "DealerName": "M/S SHIV SHAKTI CORPORATION",
-            "Position": [
-                15.553249915634,
-                74.034610837698
-            ],
-            "Volume": {
-                "Q1_23": 9.666666666666666,
-                "Q1_24": 8.0
-            },
-            "SOW": {
-                "Q1_23": 0.06444444444444444,
-                "Q1_24": 0.05333333333333333
-            },
-            "Discount": {
-                "Q1_23": 28.45815439843536,
-                "Q1_24": 140.12482106510203
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7035108,
-            "DealerName": "M/S. B. P. G. ENTERPRISES.",
-            "Position": [
-                15.008914154646,
-                74.040416479111
-            ],
-            "Volume": {
-                "Q1_23": 10.0,
-                "Q1_24": 5.333333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.014184397163120569,
-                "Q1_24": 0.007565011820330969
-            },
-            "Discount": {
-                "Q1_23": 33.55815439843536,
-                "Q1_24": 28.45815439843536
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7037773,
-            "DealerName": "JITENDRA ENTERPRISES",
-            "Position": [
-                15.388694969484,
-                73.860448300838
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 6.166666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.10277777777777779
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 57.500540540540555
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7029248,
-            "DealerName": "MARTIN & SONS",
-            "Position": [
-                15.2024541,
-                73.9942054
-            ],
-            "Volume": {
-                "Q1_23": 12.5,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.03531073446327684,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 138.4581543984354,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7040318,
-            "DealerName": "BORGES AGENCIES",
-            "Position": [
-                15.30677849,
-                73.94916538
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 2.8333333333333335
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0020757020757020757
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7040840,
-            "DealerName": "SN ENTERPRISES",
-            "Position": [
-                15.50370756,
-                74.13924012
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 3.3333333333333335
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.011111111111111112
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "NORTH GOA",
-            "Code": 7026324,
-            "DealerName": "MAHALAXMI STEELS AND HARDWARE",
-            "Position": [
-                15.4157699,
-                74.0084876
-            ],
-            "Volume": {
-                "Q1_23": 1.6666666666666667,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.0925925925925926,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 28.45815439843536,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7033789,
-            "DealerName": "M/S DIAMOND HARDWARE & ELECTRICALS.",
-            "Position": [
-                15.5262008,
-                73.8365764
-            ],
-            "Volume": {
-                "Q1_23": 5.5,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.09166666666666666,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 46.63997258025354,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7015231,
-            "DealerName": "SHRI MAHALAXMI INDUSTRIES",
-            "Position": [
-                15.5384755,
-                73.8330333
-            ],
-            "Volume": {
-                "Q1_23": 2.0833333333333335,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.034722222222222224,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 28.45815439843536,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7027939,
-            "DealerName": "SUPREME AGENCIES",
-            "Position": [
-                15.6042934,
-                73.8216441
-            ],
-            "Volume": {
-                "Q1_23": 4.0,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.00392156862745098,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 28.458154398435365,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7036259,
-            "DealerName": "SHANTADURGA TRADE LINKS",
-            "Position": [
-                15.178462460396,
-                73.997726105154
-            ],
-            "Volume": {
-                "Q1_23": 22.666666666666668,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.02578687902919985,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 249.1578994957183,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SANJAY R",
-            "State": "GOA",
-            "SH": "SUNIL AGGARWAL",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "AVANESH VYAGHRA",
-            "District": "NORTH GOA",
-            "Code": 7036236,
-            "DealerName": "WEST - COAST MARKETING",
-            "Position": [
-                15.386286053816,
-                74.018811956048
-            ],
-            "Volume": {
-                "Q1_23": 10.333333333333334,
-                "Q1_24": 1.5
-            },
-            "SOW": {
-                "Q1_23": 0.06888888888888889,
-                "Q1_24": 0.01
-            },
-            "Discount": {
-                "Q1_23": 222.7475644605277,
-                "Q1_24": 1139.0619730626784
-            }
-        },
-        {
-            "Reg": "S",
-            "Zone": "goa",
-            "ZH": "SUNIL AGGARWAL",
-            "State": "GOA",
-            "SH": "VISHAL BIPIN SANGHANI",
-            "ASM": "VISHAL BIPIN SANGHANI",
-            "ASO": "ADIR GURUDAS NAIK",
-            "District": "SOUTH GOA",
-            "Code": 7027855,
-            "DealerName": "LAKSHMI ENTERPRISES",
-            "Position": [
-                15.3876085,
-                73.8458663
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            }
+        "Discount": {
+            "Q1_23": 597.2442996076844,
+            "Q1_24": 415.26064283303987
         }
-    ]
-}
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7031240,
+        "DealerName": "BHANU ENTERPRISES",
+        "Position": [
+            15.4032482,
+            74.008611
+        ],
+        "Volume": {
+            "Q1_23": 1158.8000000000002,
+            "Q1_24": 1182.9666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.2414166666666667,
+            "Q1_24": 0.2464513888888889
+        },
+        "Discount": {
+            "Q1_23": 716.373253299963,
+            "Q1_24": 438.0564630059186
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7015022,
+        "DealerName": "NANDADEEP ENTERPRISES",
+        "Position": [
+            15.5137473,
+            73.8372214
+        ],
+        "Volume": {
+            "Q1_23": 624.6166666666667,
+            "Q1_24": 782.2666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.21801628853984875,
+            "Q1_24": 0.27304246655032
+        },
+        "Discount": {
+            "Q1_23": 429.7013060579956,
+            "Q1_24": 372.79118010813096
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7034296,
+        "DealerName": "NEELKANTH  AGENCIES",
+        "Position": [
+            15.497957366495,
+            73.826101943851
+        ],
+        "Volume": {
+            "Q1_23": 292.6666666666667,
+            "Q1_24": 438.0
+        },
+        "SOW": {
+            "Q1_23": 0.12194444444444445,
+            "Q1_24": 0.1825
+        },
+        "Discount": {
+            "Q1_23": 416.90079048219906,
+            "Q1_24": 431.51309861989967
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7026687,
+        "DealerName": "CONCRETE CONCEPTS",
+        "Position": [
+            15.4845211,
+            73.8204264
+        ],
+        "Volume": {
+            "Q1_23": 271.05,
+            "Q1_24": 173.08333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.26573529411764707,
+            "Q1_24": 0.16968954248366014
+        },
+        "Discount": {
+            "Q1_23": 430.95208080484645,
+            "Q1_24": 288.07994731042726
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7036154,
+        "DealerName": "OMKAR INDUSTRIES",
+        "Position": [
+            15.460210106766,
+            73.962459750474
+        ],
+        "Volume": {
+            "Q1_23": 155.66666666666666,
+            "Q1_24": 72.83333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.3459259259259259,
+            "Q1_24": 0.16185185185185183
+        },
+        "Discount": {
+            "Q1_23": 583.4369363804069,
+            "Q1_24": 296.9657013584067
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7028829,
+        "DealerName": "KHOPE AGENCIES PVT LTD",
+        "Position": [
+            15.2689903,
+            73.9568474
+        ],
+        "Volume": {
+            "Q1_23": 131.41666666666666,
+            "Q1_24": 94.16666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.014553340716131413,
+            "Q1_24": 0.010428202288667405
+        },
+        "Discount": {
+            "Q1_23": 413.10435733713746,
+            "Q1_24": 426.88297173324065
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "SOUTH GOA",
+        "Code": 7031479,
+        "DealerName": "JAGADISH DISTRIBUTORS",
+        "Position": [
+            15.3991591,
+            73.8182998
+        ],
+        "Volume": {
+            "Q1_23": 95.08333333333333,
+            "Q1_24": 96.33333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.2112962962962963,
+            "Q1_24": 0.21407407407407406
+        },
+        "Discount": {
+            "Q1_23": 194.12686605487707,
+            "Q1_24": 336.3987772358056
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "NORTH GOA",
+        "Code": 7027019,
+        "DealerName": "MANOJ ENTERPRISES",
+        "Position": [
+            15.4054878,
+            74.019179
+        ],
+        "Volume": {
+            "Q1_23": 77.45,
+            "Q1_24": 97.01666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.16135416666666666,
+            "Q1_24": 0.20211805555555556
+        },
+        "Discount": {
+            "Q1_23": 221.33743135130817,
+            "Q1_24": 148.97462923093838
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7039980,
+        "DealerName": "HABLOT PRIVATE LIMITED",
+        "Position": [
+            15.308761137638,
+            73.978675715625
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 51.416666666666664
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.08569444444444445
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 317.39643435980554
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7028307,
+        "DealerName": "ARAV INFRATECH PVT LTD",
+        "Position": [
+            15.5248716,
+            73.8257816
+        ],
+        "Volume": {
+            "Q1_23": 33.666666666666664,
+            "Q1_24": 41.0
+        },
+        "SOW": {
+            "Q1_23": 0.04488888888888889,
+            "Q1_24": 0.05466666666666666
+        },
+        "Discount": {
+            "Q1_23": 217.24479776865473,
+            "Q1_24": 286.0218942358337
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7037120,
+        "DealerName": "SHREE GAJANAN MARKETING",
+        "Position": [
+            15.375559,
+            73.882963
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 51.98333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.17327777777777775
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 138.7873036229561
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "NORTH GOA",
+        "Code": 7015557,
+        "DealerName": "NOBEL GENERAL TRADING",
+        "Position": [
+            15.401924,
+            74.0066173
+        ],
+        "Volume": {
+            "Q1_23": 34.5,
+            "Q1_24": 33.833333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.115,
+            "Q1_24": 0.11277777777777778
+        },
+        "Discount": {
+            "Q1_23": 220.00404811824214,
+            "Q1_24": 104.517267698928
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7036062,
+        "DealerName": "RD ENTERPRISES",
+        "Position": [
+            15.494563648745,
+            73.937224186957
+        ],
+        "Volume": {
+            "Q1_23": 6.666666666666667,
+            "Q1_24": 42.0
+        },
+        "SOW": {
+            "Q1_23": 0.04636874746420913,
+            "Q1_24": 0.2921231090245175
+        },
+        "Discount": {
+            "Q1_23": 28.45815439843536,
+            "Q1_24": 199.61434487462586
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7039792,
+        "DealerName": "ANKUSH ENTERPRISES",
+        "Position": [
+            15.429310672409,
+            73.985757753253
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 43.583333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.14527777777777778
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 299.2093307839388
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7031940,
+        "DealerName": "MAHALAXMI HARDWARES",
+        "Position": [
+            15.5304791,
+            74.1365964
+        ],
+        "Volume": {
+            "Q1_23": 36.666666666666664,
+            "Q1_24": 24.95
+        },
+        "SOW": {
+            "Q1_23": 0.06111111111111111,
+            "Q1_24": 0.04158333333333333
+        },
+        "Discount": {
+            "Q1_23": 126.23997258025355,
+            "Q1_24": 253.27498806577006
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7034409,
+        "DealerName": "HAPPY CEMENT DEALERS,",
+        "Position": [
+            15.474295,
+            73.846598
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 15.333333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0037307380373073806
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 310.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7027365,
+        "DealerName": "SAVARI ENTERPRISES",
+        "Position": [
+            15.2883478,
+            73.977524
+        ],
+        "Volume": {
+            "Q1_23": 33.5,
+            "Q1_24": 48.333333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.021895424836601306,
+            "Q1_24": 0.03159041394335512
+        },
+        "Discount": {
+            "Q1_23": 223.64051597186318,
+            "Q1_24": 231.509188881194
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7033523,
+        "DealerName": "PARESH M. PAI KUCHELKAR",
+        "Position": [
+            15.56302427548,
+            74.011212922633
+        ],
+        "Volume": {
+            "Q1_23": 10.666666666666666,
+            "Q1_24": 13.0
+        },
+        "SOW": {
+            "Q1_23": 0.017344173441734417,
+            "Q1_24": 0.02113821138211382
+        },
+        "Discount": {
+            "Q1_23": 119.70815439843537,
+            "Q1_24": 63.84276978305075
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7039553,
+        "DealerName": "SHREE STEELS  & HARDWARE",
+        "Position": [
+            15.27757339,
+            73.97604447
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 34.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.07555555555555556
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 150.72549019607843
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7034667,
+        "DealerName": "APURVA STEELS",
+        "Position": [
+            15.530242066755,
+            73.822440057993
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 8.666666666666666
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.020634920634920634
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "NORTH GOA",
+        "Code": 7036016,
+        "DealerName": "PANKAJ CERAMICS",
+        "Position": [
+            15.3877,
+            74.0014
+        ],
+        "Volume": {
+            "Q1_23": 4.366666666666666,
+            "Q1_24": 4.0
+        },
+        "SOW": {
+            "Q1_23": 0.07277777777777777,
+            "Q1_24": 0.06666666666666667
+        },
+        "Discount": {
+            "Q1_23": 29.526856688511703,
+            "Q1_24": 58.45815439843537
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7040202,
+        "DealerName": "KRISHI KENDRA",
+        "Position": [
+            15.22773438,
+            74.15172447
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 12.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0044444444444444444
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 165.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7035114,
+        "DealerName": "M/S SHIV SHAKTI CORPORATION",
+        "Position": [
+            15.553249915634,
+            74.034610837698
+        ],
+        "Volume": {
+            "Q1_23": 9.666666666666666,
+            "Q1_24": 8.0
+        },
+        "SOW": {
+            "Q1_23": 0.06444444444444444,
+            "Q1_24": 0.05333333333333333
+        },
+        "Discount": {
+            "Q1_23": 28.45815439843536,
+            "Q1_24": 140.12482106510203
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7035108,
+        "DealerName": "M/S. B. P. G. ENTERPRISES.",
+        "Position": [
+            15.008914154646,
+            74.040416479111
+        ],
+        "Volume": {
+            "Q1_23": 10.0,
+            "Q1_24": 5.333333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.014184397163120569,
+            "Q1_24": 0.007565011820330969
+        },
+        "Discount": {
+            "Q1_23": 33.55815439843536,
+            "Q1_24": 28.45815439843536
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7037773,
+        "DealerName": "JITENDRA ENTERPRISES",
+        "Position": [
+            15.388694969484,
+            73.860448300838
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 6.166666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.10277777777777779
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 57.500540540540555
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7029248,
+        "DealerName": "MARTIN & SONS",
+        "Position": [
+            15.2024541,
+            73.9942054
+        ],
+        "Volume": {
+            "Q1_23": 12.5,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.03531073446327684,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 138.4581543984354,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7040318,
+        "DealerName": "BORGES AGENCIES",
+        "Position": [
+            15.30677849,
+            73.94916538
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 2.8333333333333335
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0020757020757020757
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7040840,
+        "DealerName": "SN ENTERPRISES",
+        "Position": [
+            15.50370756,
+            74.13924012
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 3.3333333333333335
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.011111111111111112
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "NORTH GOA",
+        "Code": 7026324,
+        "DealerName": "MAHALAXMI STEELS AND HARDWARE",
+        "Position": [
+            15.4157699,
+            74.0084876
+        ],
+        "Volume": {
+            "Q1_23": 1.6666666666666667,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.0925925925925926,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 28.45815439843536,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7033789,
+        "DealerName": "M/S DIAMOND HARDWARE & ELECTRICALS.",
+        "Position": [
+            15.5262008,
+            73.8365764
+        ],
+        "Volume": {
+            "Q1_23": 5.5,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.09166666666666666,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 46.63997258025354,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7015231,
+        "DealerName": "SHRI MAHALAXMI INDUSTRIES",
+        "Position": [
+            15.5384755,
+            73.8330333
+        ],
+        "Volume": {
+            "Q1_23": 2.0833333333333335,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.034722222222222224,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 28.45815439843536,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7027939,
+        "DealerName": "SUPREME AGENCIES",
+        "Position": [
+            15.6042934,
+            73.8216441
+        ],
+        "Volume": {
+            "Q1_23": 4.0,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.00392156862745098,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 28.458154398435365,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7036259,
+        "DealerName": "SHANTADURGA TRADE LINKS",
+        "Position": [
+            15.178462460396,
+            73.997726105154
+        ],
+        "Volume": {
+            "Q1_23": 22.666666666666668,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.02578687902919985,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 249.1578994957183,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SANJAY R",
+        "State": "GOA",
+        "SH": "SUNIL AGGARWAL",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "AVANESH VYAGHRA",
+        "District": "NORTH GOA",
+        "Code": 7036236,
+        "DealerName": "WEST - COAST MARKETING",
+        "Position": [
+            15.386286053816,
+            74.018811956048
+        ],
+        "Volume": {
+            "Q1_23": 10.333333333333334,
+            "Q1_24": 1.5
+        },
+        "SOW": {
+            "Q1_23": 0.06888888888888889,
+            "Q1_24": 0.01
+        },
+        "Discount": {
+            "Q1_23": 222.7475644605277,
+            "Q1_24": 1139.0619730626784
+        }
+    },
+    {
+        "Reg": "S",
+        "Zone": "goa",
+        "ZH": "SUNIL AGGARWAL",
+        "State": "GOA",
+        "SH": "VISHAL BIPIN SANGHANI",
+        "ASM": "VISHAL BIPIN SANGHANI",
+        "ASO": "ADIR GURUDAS NAIK",
+        "District": "SOUTH GOA",
+        "Code": 7027855,
+        "DealerName": "LAKSHMI ENTERPRISES",
+        "Position": [
+            15.3876085,
+            73.8458663
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        }
+    }
+]

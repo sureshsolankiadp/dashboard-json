@@ -1,3028 +1,3026 @@
-{
-    "tripura": [
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7023242,
-            "DealerName": "BANTI ROY CHOWDHURY",
-            "Position": [
-                23.8267254,
-                91.2819696
-            ],
-            "Volume": {
-                "Q1_23": 918.3333333333334,
-                "Q1_24": 1142.4833333333333
-            },
-            "SOW": {
-                "Q1_23": 0.30611111111111117,
-                "Q1_24": 0.38082777777777777
-            },
-            "Discount": {
-                "Q1_23": 606.905668598407,
-                "Q1_24": 526.2748586013246
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7009125,
-            "DealerName": "KANMAL SHANTILAL",
-            "Position": [
-                24.3796146,
-                92.165786
-            ],
-            "Volume": {
-                "Q1_23": 524.0,
-                "Q1_24": 552.6666666666666
-            },
-            "SOW": {
-                "Q1_23": 0.34933333333333333,
-                "Q1_24": 0.3684444444444444
-            },
-            "Discount": {
-                "Q1_23": 565.1249132337006,
-                "Q1_24": 465.8388076833118
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "DHALAI",
-            "Code": 7009405,
-            "DealerName": "SANTOSHI TRADERS",
-            "Position": [
-                23.9974225,
-                91.9928424
-            ],
-            "Volume": {
-                "Q1_23": 293.5,
-                "Q1_24": 430.1666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.11442495126705653,
-                "Q1_24": 0.1677063027940221
-            },
-            "Discount": {
-                "Q1_23": 489.1888791560618,
-                "Q1_24": 435.33722874081616
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7007318,
-            "DealerName": "AJANTA ENTERPRISE",
-            "Position": [
-                23.8317902,
-                91.2909481
-            ],
-            "Volume": {
-                "Q1_23": 839.9833333333332,
-                "Q1_24": 869.4666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.3499930555555555,
-                "Q1_24": 0.3622777777777778
-            },
-            "Discount": {
-                "Q1_23": 566.1210961059513,
-                "Q1_24": 389.25992952015764
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7033521,
-            "DealerName": "PARTHA DAS",
-            "Position": [
-                23.7356116,
-                91.268193
-            ],
-            "Volume": {
-                "Q1_23": 210.75,
-                "Q1_24": 816.1166666666667
-            },
-            "SOW": {
-                "Q1_23": 0.09243421052631579,
-                "Q1_24": 0.35794590643274854
-            },
-            "Discount": {
-                "Q1_23": 518.9380455002168,
-                "Q1_24": 545.7903768807334
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7007876,
-            "DealerName": "SEKHAR CHANDRA DAS",
-            "Position": [
-                24.2650811,
-                92.1520055
-            ],
-            "Volume": {
-                "Q1_23": 426.1666666666667,
-                "Q1_24": 332.1666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.24705314009661838,
-                "Q1_24": 0.19256038647342996
-            },
-            "Discount": {
-                "Q1_23": 476.03829971406634,
-                "Q1_24": 386.54619117461624
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7007874,
-            "DealerName": "SATYARANJAN ROY",
-            "Position": [
-                24.3194531,
-                91.9961127
-            ],
-            "Volume": {
-                "Q1_23": 347.1666666666667,
-                "Q1_24": 366.6666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.23144444444444445,
-                "Q1_24": 0.24444444444444446
-            },
-            "Discount": {
-                "Q1_23": 438.9807262518651,
-                "Q1_24": 407.73388161017704
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7007451,
-            "DealerName": "DAS STORES",
-            "Position": [
-                24.3292146,
-                92.0028066
-            ],
-            "Volume": {
-                "Q1_23": 328.8333333333333,
-                "Q1_24": 259.0
-            },
-            "SOW": {
-                "Q1_23": 0.15438184663536775,
-                "Q1_24": 0.1215962441314554
-            },
-            "Discount": {
-                "Q1_23": 522.3960290851153,
-                "Q1_24": 385.78453716491333
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7008091,
-            "DealerName": "KEYA HARDWARE.",
-            "Position": [
-                24.3207942,
-                91.997794
-            ],
-            "Volume": {
-                "Q1_23": 332.0,
-                "Q1_24": 241.66666666666666
-            },
-            "SOW": {
-                "Q1_23": 0.24592592592592594,
-                "Q1_24": 0.17901234567901234
-            },
-            "Discount": {
-                "Q1_23": 561.6791307838198,
-                "Q1_24": 444.97452070211364
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7034895,
-            "DealerName": "DEY''S HARDWARE",
-            "Position": [
-                24.176569750702,
-                92.015841007233
-            ],
-            "Volume": {
-                "Q1_23": 146.5,
-                "Q1_24": 139.0
-            },
-            "SOW": {
-                "Q1_23": 0.1627777777777778,
-                "Q1_24": 0.15444444444444444
-            },
-            "Discount": {
-                "Q1_23": 432.65973723181816,
-                "Q1_24": 418.6995401369344
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7007973,
-            "DealerName": "TARANGAMAYEE HARDWARE",
-            "Position": [
-                24.1603191,
-                92.0369628
-            ],
-            "Volume": {
-                "Q1_23": 287.8333333333333,
-                "Q1_24": 350.6666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.21805555555555556,
-                "Q1_24": 0.2656565656565657
-            },
-            "Discount": {
-                "Q1_23": 533.6063351494946,
-                "Q1_24": 445.7463743391927
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7009445,
-            "DealerName": "GOMATI IRON",
-            "Position": [
-                23.5369975,
-                91.4822993
-            ],
-            "Volume": {
-                "Q1_23": 465.25,
-                "Q1_24": 378.4166666666667
-            },
-            "SOW": {
-                "Q1_23": 0.2628531073446328,
-                "Q1_24": 0.21379472693032017
-            },
-            "Discount": {
-                "Q1_23": 545.5777548449839,
-                "Q1_24": 434.71903273095006
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7007378,
-            "DealerName": "BANKA BIHARI PAUL",
-            "Position": [
-                23.8259161,
-                91.2792652
-            ],
-            "Volume": {
-                "Q1_23": 408.0,
-                "Q1_24": 373.2
-            },
-            "SOW": {
-                "Q1_23": 0.136,
-                "Q1_24": 0.1244
-            },
-            "Discount": {
-                "Q1_23": 463.9425168998951,
-                "Q1_24": 358.97339683600677
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7007762,
-            "DealerName": "PAUL ENTERPRISE",
-            "Position": [
-                24.082067100194,
-                91.999623700976
-            ],
-            "Volume": {
-                "Q1_23": 190.5,
-                "Q1_24": 203.33333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.11043478260869566,
-                "Q1_24": 0.11787439613526571
-            },
-            "Discount": {
-                "Q1_23": 354.95640152668796,
-                "Q1_24": 369.05368007178777
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7007448,
-            "DealerName": "DAS GUPTA ENTERPRISE",
-            "Position": [
-                24.3846393,
-                92.1672781
-            ],
-            "Volume": {
-                "Q1_23": 185.0,
-                "Q1_24": 153.33333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.037487335359675786,
-                "Q1_24": 0.031070584262073625
-            },
-            "Discount": {
-                "Q1_23": 474.61739361033386,
-                "Q1_24": 420.32168584006365
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7028443,
-            "DealerName": "PAL BROTHERS",
-            "Position": [
-                23.9751228,
-                91.3789713
-            ],
-            "Volume": {
-                "Q1_23": 146.83333333333334,
-                "Q1_24": 360.3333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.07894265232974912,
-                "Q1_24": 0.19372759856630822
-            },
-            "Discount": {
-                "Q1_23": 551.2465028149015,
-                "Q1_24": 550.016928495132
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7033061,
-            "DealerName": "MAA MANI IRON STORES",
-            "Position": [
-                24.058579861133,
-                91.606665663421
-            ],
-            "Volume": {
-                "Q1_23": 270.3333333333333,
-                "Q1_24": 270.8333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.23105413105413103,
-                "Q1_24": 0.23148148148148145
-            },
-            "Discount": {
-                "Q1_23": 572.1559088822104,
-                "Q1_24": 447.6068386365498
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7023508,
-            "DealerName": "RAMTHAKUR TRADING CO",
-            "Position": [
-                23.8252511,
-                91.2702993
-            ],
-            "Volume": {
-                "Q1_23": 344.1666666666667,
-                "Q1_24": 222.08333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.352991452991453,
-                "Q1_24": 0.2277777777777778
-            },
-            "Discount": {
-                "Q1_23": 346.47074273607745,
-                "Q1_24": 271.89084622085227
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7024761,
-            "DealerName": "JOYRAM TRADERS",
-            "Position": [
-                23.788597,
-                91.2754686
-            ],
-            "Volume": {
-                "Q1_23": 314.6666666666667,
-                "Q1_24": 255.5
-            },
-            "SOW": {
-                "Q1_23": 0.1115839243498818,
-                "Q1_24": 0.09060283687943263
-            },
-            "Discount": {
-                "Q1_23": 459.09747881355935,
-                "Q1_24": 396.5634971032759
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7007796,
-            "DealerName": "R.S. ENTERPRISE",
-            "Position": [
-                24.4532809,
-                92.2199203
-            ],
-            "Volume": {
-                "Q1_23": 127.33333333333333,
-                "Q1_24": 160.83333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.2122222222222222,
-                "Q1_24": 0.26805555555555555
-            },
-            "Discount": {
-                "Q1_23": 422.316355507876,
-                "Q1_24": 477.0953673625812
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7031598,
-            "DealerName": "SRISTI CEMENT HOUSE",
-            "Position": [
-                23.8363967,
-                91.2645837
-            ],
-            "Volume": {
-                "Q1_23": 94.5,
-                "Q1_24": 114.26666666666665
-            },
-            "SOW": {
-                "Q1_23": 0.075,
-                "Q1_24": 0.09068783068783066
-            },
-            "Discount": {
-                "Q1_23": 587.2877790335789,
-                "Q1_24": 528.6826555407746
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7015185,
-            "DealerName": "NEW SWARUPANANDA TRADERS",
-            "Position": [
-                24.0671599,
-                91.6074217
-            ],
-            "Volume": {
-                "Q1_23": 158.5,
-                "Q1_24": 180.0
-            },
-            "SOW": {
-                "Q1_23": 0.21133333333333335,
-                "Q1_24": 0.24
-            },
-            "Discount": {
-                "Q1_23": 459.98852127903774,
-                "Q1_24": 494.2163557223139
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7036617,
-            "DealerName": "M/S GOPE VARIETIES",
-            "Position": [
-                23.959442286005,
-                91.360360756516
-            ],
-            "Volume": {
-                "Q1_23": 21.25,
-                "Q1_24": 259.9166666666667
-            },
-            "SOW": {
-                "Q1_23": 0.0114247311827957,
-                "Q1_24": 0.13974014336917565
-            },
-            "Discount": {
-                "Q1_23": 620.0218906245503,
-                "Q1_24": 349.6959223214865
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7022788,
-            "DealerName": "MADHAN GOPAL TRADERS",
-            "Position": [
-                23.8219207,
-                91.6215922
-            ],
-            "Volume": {
-                "Q1_23": 228.5,
-                "Q1_24": 96.0
-            },
-            "SOW": {
-                "Q1_23": 0.09520833333333334,
-                "Q1_24": 0.04
-            },
-            "Discount": {
-                "Q1_23": 473.27784858532465,
-                "Q1_24": 400.03260142692454
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7007509,
-            "DealerName": "GOPI NATH SAHA",
-            "Position": [
-                23.8402026,
-                91.634162
-            ],
-            "Volume": {
-                "Q1_23": 135.33333333333334,
-                "Q1_24": 170.83333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.04903381642512078,
-                "Q1_24": 0.06189613526570049
-            },
-            "Discount": {
-                "Q1_23": 529.1523517205793,
-                "Q1_24": 465.93289253518924
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7030024,
-            "DealerName": "MAA TARA HARDWARE",
-            "Position": [
-                23.835129,
-                91.3699848
-            ],
-            "Volume": {
-                "Q1_23": 124.66666666666667,
-                "Q1_24": 140.0
-            },
-            "SOW": {
-                "Q1_23": 0.07555555555555556,
-                "Q1_24": 0.08484848484848484
-            },
-            "Discount": {
-                "Q1_23": 514.42281621663,
-                "Q1_24": 417.4600327305086
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7031805,
-            "DealerName": "MAA MEHARESWARI CARRING CENTRE",
-            "Position": [
-                23.8429357,
-                91.2761639
-            ],
-            "Volume": {
-                "Q1_23": 125.5,
-                "Q1_24": 161.83333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.12676767676767678,
-                "Q1_24": 0.16346801346801348
-            },
-            "Discount": {
-                "Q1_23": 434.13246099826637,
-                "Q1_24": 428.78260719343757
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7028710,
-            "DealerName": "KUSUM ENTERPRISE",
-            "Position": [
-                24.0696529,
-                91.6059733
-            ],
-            "Volume": {
-                "Q1_23": 118.16666666666667,
-                "Q1_24": 172.33333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.3282407407407408,
-                "Q1_24": 0.47870370370370374
-            },
-            "Discount": {
-                "Q1_23": 532.1109715361412,
-                "Q1_24": 501.33568846657136
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7036022,
-            "DealerName": "SOURAV SAHA",
-            "Position": [
-                23.834666529277,
-                91.368115358055
-            ],
-            "Volume": {
-                "Q1_23": 51.166666666666664,
-                "Q1_24": 133.58333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.08527777777777777,
-                "Q1_24": 0.2226388888888889
-            },
-            "Discount": {
-                "Q1_23": 418.9392625082303,
-                "Q1_24": 405.82023322986174
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "DHALAI",
-            "Code": 7035774,
-            "DealerName": "M/S JOY KALI HARDWARES",
-            "Position": [
-                24.1548584,
-                91.8095406
-            ],
-            "Volume": {
-                "Q1_23": 65.16666666666667,
-                "Q1_24": 141.66666666666666
-            },
-            "SOW": {
-                "Q1_23": 0.21722222222222226,
-                "Q1_24": 0.4722222222222222
-            },
-            "Discount": {
-                "Q1_23": 374.0993482374912,
-                "Q1_24": 415.2254467029643
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7030005,
-            "DealerName": "SREE MATAJI IRON STORES",
-            "Position": [
-                23.5368478,
-                91.4980228
-            ],
-            "Volume": {
-                "Q1_23": 117.83333333333333,
-                "Q1_24": 148.75
-            },
-            "SOW": {
-                "Q1_23": 0.15711111111111112,
-                "Q1_24": 0.19833333333333333
-            },
-            "Discount": {
-                "Q1_23": 634.7354896231947,
-                "Q1_24": 660.8470005503377
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7031679,
-            "DealerName": "NEW RAMKRISHNA HARDWARE",
-            "Position": [
-                23.251946,
-                91.4511718
-            ],
-            "Volume": {
-                "Q1_23": 113.66666666666667,
-                "Q1_24": 90.0
-            },
-            "SOW": {
-                "Q1_23": 0.15787037037037038,
-                "Q1_24": 0.125
-            },
-            "Discount": {
-                "Q1_23": 526.9709491469866,
-                "Q1_24": 406.61175318196
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7033751,
-            "DealerName": "M/S NORTH EAST STEEL",
-            "Position": [
-                23.852620609812,
-                91.300701722503
-            ],
-            "Volume": {
-                "Q1_23": 148.91666666666666,
-                "Q1_24": 100.75
-            },
-            "SOW": {
-                "Q1_23": 0.177281746031746,
-                "Q1_24": 0.1199404761904762
-            },
-            "Discount": {
-                "Q1_23": 548.387563941196,
-                "Q1_24": 452.4276013379262
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7031655,
-            "DealerName": "MRINAL KANTI SAHA",
-            "Position": [
-                23.8386482,
-                91.6362915
-            ],
-            "Volume": {
-                "Q1_23": 57.333333333333336,
-                "Q1_24": 136.16666666666666
-            },
-            "SOW": {
-                "Q1_23": 0.11582491582491582,
-                "Q1_24": 0.27508417508417504
-            },
-            "Discount": {
-                "Q1_23": 417.6254328712111,
-                "Q1_24": 452.9073881955686
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7027852,
-            "DealerName": "ASHOK STORES",
-            "Position": [
-                24.4540709,
-                92.2163094
-            ],
-            "Volume": {
-                "Q1_23": 103.83333333333333,
-                "Q1_24": 73.0
-            },
-            "SOW": {
-                "Q1_23": 0.19777777777777775,
-                "Q1_24": 0.13904761904761903
-            },
-            "Discount": {
-                "Q1_23": 360.29149678972715,
-                "Q1_24": 327.40304627776925
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7024862,
-            "DealerName": "RAMTHAKUR HARDWARE",
-            "Position": [
-                23.5214668,
-                91.6586108
-            ],
-            "Volume": {
-                "Q1_23": 144.0,
-                "Q1_24": 131.0
-            },
-            "SOW": {
-                "Q1_23": 0.16551724137931034,
-                "Q1_24": 0.15057471264367817
-            },
-            "Discount": {
-                "Q1_23": 583.8593641617881,
-                "Q1_24": 478.2213177948106
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7036691,
-            "DealerName": "P.K.IRON STORES",
-            "Position": [
-                23.8633711,
-                91.2769201
-            ],
-            "Volume": {
-                "Q1_23": 10.0,
-                "Q1_24": 115.48333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.016666666666666666,
-                "Q1_24": 0.19247222222222224
-            },
-            "Discount": {
-                "Q1_23": 558.4301980976901,
-                "Q1_24": 392.8180479557743
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7034922,
-            "DealerName": "MAA SARADA TRADERS",
-            "Position": [
-                23.8427097,
-                91.6351315
-            ],
-            "Volume": {
-                "Q1_23": 75.0,
-                "Q1_24": 57.5
-            },
-            "SOW": {
-                "Q1_23": 0.10638297872340426,
-                "Q1_24": 0.08156028368794327
-            },
-            "Discount": {
-                "Q1_23": 622.3321632733115,
-                "Q1_24": 523.6013188288669
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7028408,
-            "DealerName": "ABUL HASHEM",
-            "Position": [
-                23.4821162,
-                91.2771564
-            ],
-            "Volume": {
-                "Q1_23": 58.0,
-                "Q1_24": 32.333333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.02543859649122807,
-                "Q1_24": 0.014181286549707604
-            },
-            "Discount": {
-                "Q1_23": 344.2059195402299,
-                "Q1_24": 257.6702319587629
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7007452,
-            "DealerName": "DEBNATH CEMENT HOUSE",
-            "Position": [
-                23.8372539,
-                91.3046227
-            ],
-            "Volume": {
-                "Q1_23": 115.0,
-                "Q1_24": 90.3
-            },
-            "SOW": {
-                "Q1_23": 0.08712121212121213,
-                "Q1_24": 0.0684090909090909
-            },
-            "Discount": {
-                "Q1_23": 468.90309096170415,
-                "Q1_24": 501.2026555611874
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7024445,
-            "DealerName": "CHOWDHURY TRADERS",
-            "Position": [
-                23.5436512,
-                91.4841513
-            ],
-            "Volume": {
-                "Q1_23": 110.66666666666667,
-                "Q1_24": 114.33333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.029511111111111113,
-                "Q1_24": 0.030488888888888885
-            },
-            "Discount": {
-                "Q1_23": 597.0484126906118,
-                "Q1_24": 443.43199527166496
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7007772,
-            "DealerName": "PRANATI HARDWARE & ELECTRICALS",
-            "Position": [
-                24.1903504,
-                92.1024931
-            ],
-            "Volume": {
-                "Q1_23": 56.833333333333336,
-                "Q1_24": 58.333333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.13531746031746034,
-                "Q1_24": 0.1388888888888889
-            },
-            "Discount": {
-                "Q1_23": 389.5491244431676,
-                "Q1_24": 327.8867511712782
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7037402,
-            "DealerName": "NAG CONSTRUCTION",
-            "Position": [
-                24.01256,
-                91.62106
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 101.5
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.3075757575757576
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 231.53045977011496
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7026412,
-            "DealerName": "GREEN FARMER",
-            "Position": [
-                23.314908,
-                91.5597631
-            ],
-            "Volume": {
-                "Q1_23": 89.7,
-                "Q1_24": 64.0
-            },
-            "SOW": {
-                "Q1_23": 0.24916666666666668,
-                "Q1_24": 0.17777777777777776
-            },
-            "Discount": {
-                "Q1_23": 462.90357439477066,
-                "Q1_24": 299.56594335176857
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7009530,
-            "DealerName": "GIRIDHARI IRON",
-            "Position": [
-                23.5409475,
-                91.4956708
-            ],
-            "Volume": {
-                "Q1_23": 41.333333333333336,
-                "Q1_24": 113.16666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.06888888888888889,
-                "Q1_24": 0.18861111111111112
-            },
-            "Discount": {
-                "Q1_23": 329.44364343599335,
-                "Q1_24": 383.5281598025666
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7033355,
-            "DealerName": "M/S- SWAPAN DEBBARMA",
-            "Position": [
-                23.700837281957,
-                91.459933742881
-            ],
-            "Volume": {
-                "Q1_23": 61.833333333333336,
-                "Q1_24": 28.333333333333332
-            },
-            "SOW": {
-                "Q1_23": 0.10305555555555555,
-                "Q1_24": 0.04722222222222222
-            },
-            "Discount": {
-                "Q1_23": 410.8409003287347,
-                "Q1_24": 201.00242038581408
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7029343,
-            "DealerName": "RAJDEEP ENTERPRISE",
-            "Position": [
-                23.8370663,
-                91.3670529
-            ],
-            "Volume": {
-                "Q1_23": 52.833333333333336,
-                "Q1_24": 50.0
-            },
-            "SOW": {
-                "Q1_23": 0.10063492063492063,
-                "Q1_24": 0.09523809523809525
-            },
-            "Discount": {
-                "Q1_23": 477.9651760310761,
-                "Q1_24": 510.7126250321276
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7024929,
-            "DealerName": "PAUL HARDWARE",
-            "Position": [
-                24.159558058935,
-                92.037397250533
-            ],
-            "Volume": {
-                "Q1_23": 58.333333333333336,
-                "Q1_24": 18.666666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.12152777777777779,
-                "Q1_24": 0.03888888888888889
-            },
-            "Discount": {
-                "Q1_23": 287.19059999999996,
-                "Q1_24": 173.1499107142857
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7037061,
-            "DealerName": "BABAMANI TRADING",
-            "Position": [
-                23.818790152932,
-                91.304293200374
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 57.25
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.045436507936507935
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 198.42513100436682
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7034701,
-            "DealerName": "RAMKRISHNA TRADERS",
-            "Position": [
-                23.804033334009,
-                91.488803699613
-            ],
-            "Volume": {
-                "Q1_23": 95.41666666666667,
-                "Q1_24": 49.833333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.07757452574525746,
-                "Q1_24": 0.04051490514905149
-            },
-            "Discount": {
-                "Q1_23": 448.38845076055827,
-                "Q1_24": 372.47953632963123
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7030660,
-            "DealerName": "RAMKRISHNA TRADERS",
-            "Position": [
-                23.8387856,
-                91.2877307
-            ],
-            "Volume": {
-                "Q1_23": 22.833333333333332,
-                "Q1_24": 86.8
-            },
-            "SOW": {
-                "Q1_23": 0.10873015873015872,
-                "Q1_24": 0.41333333333333333
-            },
-            "Discount": {
-                "Q1_23": 255.81125,
-                "Q1_24": 408.4330891658818
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7025654,
-            "DealerName": "MAA TARA TRADERS",
-            "Position": [
-                23.8110904,
-                91.2664815
-            ],
-            "Volume": {
-                "Q1_23": 73.91666666666667,
-                "Q1_24": 45.833333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.05729974160206718,
-                "Q1_24": 0.03552971576227391
-            },
-            "Discount": {
-                "Q1_23": 401.0700591882751,
-                "Q1_24": 361.831815957774
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7035190,
-            "DealerName": "SREE MATA IRON",
-            "Position": [
-                23.679550772669,
-                91.281523257494
-            ],
-            "Volume": {
-                "Q1_23": 84.33333333333333,
-                "Q1_24": 56.083333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.14055555555555554,
-                "Q1_24": 0.09347222222222223
-            },
-            "Discount": {
-                "Q1_23": 332.02216403162055,
-                "Q1_24": 257.38299777117385
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7031693,
-            "DealerName": "PAUL HARDWARE",
-            "Position": [
-                23.3107507,
-                91.5630606
-            ],
-            "Volume": {
-                "Q1_23": 68.33333333333333,
-                "Q1_24": 68.83333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.0451045104510451,
-                "Q1_24": 0.04543454345434543
-            },
-            "Discount": {
-                "Q1_23": 466.3178670631256,
-                "Q1_24": 345.26860739265965
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7032901,
-            "DealerName": "CHANDIMATA IRON",
-            "Position": [
-                23.829695728679,
-                91.28624998033
-            ],
-            "Volume": {
-                "Q1_23": 32.75,
-                "Q1_24": 55.416666666666664
-            },
-            "SOW": {
-                "Q1_23": 0.07528735632183908,
-                "Q1_24": 0.12739463601532566
-            },
-            "Discount": {
-                "Q1_23": 234.04213740458016,
-                "Q1_24": 110.71910902255638
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7039963,
-            "DealerName": "DIPAN CHANDRA SAHA",
-            "Position": [
-                23.52895456,
-                91.44862723
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 61.38333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.06820370370370371
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 149.29166440401852
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7037610,
-            "DealerName": "ESHA ENTERPRISE",
-            "Position": [
-                23.834003787316,
-                91.29923556
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 79.58333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.1061111111111111
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 251.79086910994766
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7040769,
-            "DealerName": "HOUSE NIRMAN CENTER",
-            "Position": [
-                23.53027392,
-                91.48532253
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 34.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.10303030303030304
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7014885,
-            "DealerName": "RAM THAKUR STORES",
-            "Position": [
-                23.8507308,
-                91.3009511
-            ],
-            "Volume": {
-                "Q1_23": 50.699999999999996,
-                "Q1_24": 91.35000000000001
-            },
-            "SOW": {
-                "Q1_23": 0.30727272727272725,
-                "Q1_24": 0.5536363636363637
-            },
-            "Discount": {
-                "Q1_23": 184.682577251808,
-                "Q1_24": 259.9608556832695
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7033207,
-            "DealerName": "M/S-KANTI MAJUMDER",
-            "Position": [
-                23.2924805,
-                91.4128225
-            ],
-            "Volume": {
-                "Q1_23": 66.5,
-                "Q1_24": 96.83333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.09236111111111112,
-                "Q1_24": 0.13449074074074074
-            },
-            "Discount": {
-                "Q1_23": 455.9174551779314,
-                "Q1_24": 416.865080038275
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7033606,
-            "DealerName": "M/S- PODDER CONSTRUCTION",
-            "Position": [
-                23.492566506454,
-                91.329131126404
-            ],
-            "Volume": {
-                "Q1_23": 66.16666666666667,
-                "Q1_24": 39.333333333333336
-            },
-            "SOW": {
-                "Q1_23": 0.11921921921921923,
-                "Q1_24": 0.07087087087087088
-            },
-            "Discount": {
-                "Q1_23": 260.00461272040303,
-                "Q1_24": 306.31152542372877
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7035533,
-            "DealerName": "BIJOY SAHA",
-            "Position": [
-                23.841710828437,
-                91.26981575042
-            ],
-            "Volume": {
-                "Q1_23": 9.5,
-                "Q1_24": 6.666666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.15833333333333333,
-                "Q1_24": 0.11111111111111112
-            },
-            "Discount": {
-                "Q1_23": 44.215438596491225,
-                "Q1_24": 136.72375
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7032084,
-            "DealerName": "PAUL ENTERPRISE",
-            "Position": [
-                24.1592634,
-                92.0373629
-            ],
-            "Volume": {
-                "Q1_23": 85.33333333333333,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.22755555555555554,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 242.126640625,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7007454,
-            "DealerName": "DEEP ENTERPRISE",
-            "Position": [
-                23.833088946366,
-                91.28080341965
-            ],
-            "Volume": {
-                "Q1_23": 65.16666666666667,
-                "Q1_24": 31.0
-            },
-            "SOW": {
-                "Q1_23": 0.3620370370370371,
-                "Q1_24": 0.17222222222222222
-            },
-            "Discount": {
-                "Q1_23": 317.345712915601,
-                "Q1_24": 270.77652823611913
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7032320,
-            "DealerName": "JOYGURU ENTERPRISE",
-            "Position": [
-                23.777066805865,
-                91.265743151307
-            ],
-            "Volume": {
-                "Q1_23": 20.833333333333332,
-                "Q1_24": 36.666666666666664
-            },
-            "SOW": {
-                "Q1_23": 0.017806267806267803,
-                "Q1_24": 0.031339031339031334
-            },
-            "Discount": {
-                "Q1_23": 201.71076000000002,
-                "Q1_24": 213.42334090909088
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7038948,
-            "DealerName": "TAPAN DAS",
-            "Position": [
-                23.63811301,
-                91.30544554
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 69.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.32857142857142857
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 304.7476086956522
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7026023,
-            "DealerName": "S.N ENTERPRISE",
-            "Position": [
-                24.0540419,
-                92.2019957
-            ],
-            "Volume": {
-                "Q1_23": 25.0,
-                "Q1_24": 25.0
-            },
-            "SOW": {
-                "Q1_23": 0.16666666666666669,
-                "Q1_24": 0.16666666666666669
-            },
-            "Discount": {
-                "Q1_23": 146.93013333333334,
-                "Q1_24": 295.1789333333333
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7033705,
-            "DealerName": "P.K.TRADING & CO.",
-            "Position": [
-                23.84360600772,
-                91.326260492206
-            ],
-            "Volume": {
-                "Q1_23": 66.83333333333333,
-                "Q1_24": 15.0
-            },
-            "SOW": {
-                "Q1_23": 0.2784722222222222,
-                "Q1_24": 0.0625
-            },
-            "Discount": {
-                "Q1_23": 271.11196072319194,
-                "Q1_24": 206.70055555555558
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7036093,
-            "DealerName": "M/S PAUL HARDWARE",
-            "Position": [
-                23.092208535167,
-                91.639820449054
-            ],
-            "Volume": {
-                "Q1_23": 15.0,
-                "Q1_24": 31.5
-            },
-            "SOW": {
-                "Q1_23": 0.019230769230769232,
-                "Q1_24": 0.04038461538461539
-            },
-            "Discount": {
-                "Q1_23": 322.01924999999994,
-                "Q1_24": 334.97421296296295
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7030111,
-            "DealerName": "URBASHI ENTERPRISE",
-            "Position": [
-                23.857919,
-                91.2897502
-            ],
-            "Volume": {
-                "Q1_23": 53.833333333333336,
-                "Q1_24": 41.65
-            },
-            "SOW": {
-                "Q1_23": 0.10555555555555557,
-                "Q1_24": 0.08166666666666667
-            },
-            "Discount": {
-                "Q1_23": 234.52433436532507,
-                "Q1_24": 164.53675470188077
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7007661,
-            "DealerName": "MAA KALI ENTERPRISE",
-            "Position": [
-                23.8296441,
-                91.2647864
-            ],
-            "Volume": {
-                "Q1_23": 32.916666666666664,
-                "Q1_24": 37.0
-            },
-            "SOW": {
-                "Q1_23": 0.025516795865633074,
-                "Q1_24": 0.028682170542635662
-            },
-            "Discount": {
-                "Q1_23": 349.97549050632904,
-                "Q1_24": 388.01186637586954
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7024729,
-            "DealerName": "KALPANA STORES",
-            "Position": [
-                24.384089,
-                92.1666894
-            ],
-            "Volume": {
-                "Q1_23": 31.333333333333332,
-                "Q1_24": 21.666666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.08355555555555556,
-                "Q1_24": 0.057777777777777775
-            },
-            "Discount": {
-                "Q1_23": 270.4058510638298,
-                "Q1_24": 233.9332307692308
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7033580,
-            "DealerName": "M/S- JAYANTA SAHA",
-            "Position": [
-                23.492661519499,
-                91.329061053693
-            ],
-            "Volume": {
-                "Q1_23": 39.166666666666664,
-                "Q1_24": 23.333333333333332
-            },
-            "SOW": {
-                "Q1_23": 0.05676328502415459,
-                "Q1_24": 0.033816425120772944
-            },
-            "Discount": {
-                "Q1_23": 245.9935265957447,
-                "Q1_24": 150.25282142857145
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7035278,
-            "DealerName": "MANJU BUILDER",
-            "Position": [
-                23.808482119899,
-                91.260679140687
-            ],
-            "Volume": {
-                "Q1_23": 37.0,
-                "Q1_24": 31.333333333333332
-            },
-            "SOW": {
-                "Q1_23": 0.09487179487179488,
-                "Q1_24": 0.08034188034188035
-            },
-            "Discount": {
-                "Q1_23": 293.2003603603603,
-                "Q1_24": 327.82978723404256
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7014917,
-            "DealerName": "SWASTI HARDWARE STORES",
-            "Position": [
-                23.8382371,
-                91.2732002
-            ],
-            "Volume": {
-                "Q1_23": 17.099999999999998,
-                "Q1_24": 9.333333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.08142857142857142,
-                "Q1_24": 0.044444444444444446
-            },
-            "Discount": {
-                "Q1_23": 234.12319688109164,
-                "Q1_24": 116.27285714285713
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7031656,
-            "DealerName": "JOYRAM STEEL",
-            "Position": [
-                23.6722591,
-                91.285041
-            ],
-            "Volume": {
-                "Q1_23": 35.0,
-                "Q1_24": 4.166666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.08974358974358974,
-                "Q1_24": 0.010683760683760686
-            },
-            "Discount": {
-                "Q1_23": 232.98704761904762,
-                "Q1_24": 102.8836
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7033536,
-            "DealerName": "M/S- SARKAR IRON ENTERPRISE",
-            "Position": [
-                23.001713143413,
-                91.729470938444
-            ],
-            "Volume": {
-                "Q1_23": 43.0,
-                "Q1_24": 15.0
-            },
-            "SOW": {
-                "Q1_23": 0.08431372549019608,
-                "Q1_24": 0.029411764705882353
-            },
-            "Discount": {
-                "Q1_23": 244.4217054263566,
-                "Q1_24": 229.85644444444443
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7035333,
-            "DealerName": "MAA TRIPURESWARI CARRIER",
-            "Position": [
-                23.833832350968,
-                91.288911066949
-            ],
-            "Volume": {
-                "Q1_23": 23.75,
-                "Q1_24": 15.5
-            },
-            "SOW": {
-                "Q1_23": 0.39583333333333337,
-                "Q1_24": 0.25833333333333336
-            },
-            "Discount": {
-                "Q1_23": 191.6216140350877,
-                "Q1_24": 111.25827956989248
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7022621,
-            "DealerName": "MANOBIKASH DATTA BISWAS",
-            "Position": [
-                23.8369174,
-                91.2701271
-            ],
-            "Volume": {
-                "Q1_23": 35.166666666666664,
-                "Q1_24": 36.300000000000004
-            },
-            "SOW": {
-                "Q1_23": 0.2604938271604938,
-                "Q1_24": 0.2688888888888889
-            },
-            "Discount": {
-                "Q1_23": 336.7482227488152,
-                "Q1_24": 282.81851469237836
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7007660,
-            "DealerName": "MAA IRON STORES",
-            "Position": [
-                23.493061864974,
-                91.329030878842
-            ],
-            "Volume": {
-                "Q1_23": 31.5,
-                "Q1_24": 16.666666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.020192307692307693,
-                "Q1_24": 0.010683760683760686
-            },
-            "Discount": {
-                "Q1_23": 316.9284986772487,
-                "Q1_24": 277.34225000000004
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7037546,
-            "DealerName": "M/S BISWAS TRADERS",
-            "Position": [
-                23.216605273112,
-                91.614336110652
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 54.666666666666664
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.15185185185185185
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 251.92723323170733
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "KHOWAI",
-            "Code": 7008065,
-            "DealerName": "KISHORE KUMAR PAUL",
-            "Position": [
-                24.0825719,
-                91.5988711
-            ],
-            "Volume": {
-                "Q1_23": 24.666666666666668,
-                "Q1_24": 20.333333333333332
-            },
-            "SOW": {
-                "Q1_23": 0.16444444444444448,
-                "Q1_24": 0.13555555555555554
-            },
-            "Discount": {
-                "Q1_23": 249.67351351351346,
-                "Q1_24": 249.7129508196721
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7015486,
-            "DealerName": "CHOWDHURY MOTORS",
-            "Position": [
-                23.7857334,
-                91.2650664
-            ],
-            "Volume": {
-                "Q1_23": 12.416666666666666,
-                "Q1_24": 41.666666666666664
-            },
-            "SOW": {
-                "Q1_23": 0.05173611111111111,
-                "Q1_24": 0.1736111111111111
-            },
-            "Discount": {
-                "Q1_23": 103.17906040268457,
-                "Q1_24": 208.52515999999997
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "UNAKOTI",
-            "Code": 7031868,
-            "DealerName": "KALIMATA HARDWARE",
-            "Position": [
-                24.254471697187,
-                92.018381394446
-            ],
-            "Volume": {
-                "Q1_23": 49.166666666666664,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.36419753086419754,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 270.93084745762707,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7036462,
-            "DealerName": "DURGA CARRYING CENTRE",
-            "Position": [
-                23.770594313539,
-                91.264768503606
-            ],
-            "Volume": {
-                "Q1_23": 8.333333333333334,
-                "Q1_24": 10.0
-            },
-            "SOW": {
-                "Q1_23": 0.022222222222222227,
-                "Q1_24": 0.02666666666666667
-            },
-            "Discount": {
-                "Q1_23": 430.77464999999995,
-                "Q1_24": 155.35291666666666
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SEPAHIJALA",
-            "Code": 7038751,
-            "DealerName": "M/S- TANISHA ENTERPRISE",
-            "Position": [
-                23.475747,
-                91.266233
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 10.633333333333333
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.004169934640522875
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 414.37797805642634
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7034234,
-            "DealerName": "NEW CHANDIMATA TRADERS",
-            "Position": [
-                23.829800617974,
-                91.289694942534
-            ],
-            "Volume": {
-                "Q1_23": 13.666666666666666,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.05694444444444444,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 187.17414634146343,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7037181,
-            "DealerName": "M/S SAHA ENTERPRISE",
-            "Position": [
-                23.485634059255,
-                91.395108439028
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 13.166666666666666
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.021944444444444444
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 265.02993670886076
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7032698,
-            "DealerName": "M/S APU PAL",
-            "Position": [
-                23.266600110999,
-                91.573976911604
-            ],
-            "Volume": {
-                "Q1_23": 36.833333333333336,
-                "Q1_24": 12.083333333333334
-            },
-            "SOW": {
-                "Q1_23": 0.09444444444444446,
-                "Q1_24": 0.030982905982905984
-            },
-            "Discount": {
-                "Q1_23": 335.3390271493213,
-                "Q1_24": 357.55933515369014
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7015110,
-            "DealerName": "JOY MAA IRON STORES",
-            "Position": [
-                23.8290431,
-                91.2724087
-            ],
-            "Volume": {
-                "Q1_23": 23.333333333333332,
-                "Q1_24": 26.166666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.07777777777777778,
-                "Q1_24": 0.08722222222222223
-            },
-            "Discount": {
-                "Q1_23": 229.23542857142857,
-                "Q1_24": 227.905923566879
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7024078,
-            "DealerName": "MAAMANI CARRING CENTRE",
-            "Position": [
-                23.8920733,
-                91.2802174
-            ],
-            "Volume": {
-                "Q1_23": 18.5,
-                "Q1_24": 17.833333333333332
-            },
-            "SOW": {
-                "Q1_23": 0.05606060606060606,
-                "Q1_24": 0.054040404040404035
-            },
-            "Discount": {
-                "Q1_23": 115.01981981981983,
-                "Q1_24": 133.80598130841122
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7031653,
-            "DealerName": "BISWA RANJAN PAUL",
-            "Position": [
-                23.8413452,
-                91.2968032
-            ],
-            "Volume": {
-                "Q1_23": 24.416666666666668,
-                "Q1_24": 17.916666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.18086419753086422,
-                "Q1_24": 0.13271604938271606
-            },
-            "Discount": {
-                "Q1_23": 185.11918088737204,
-                "Q1_24": 264.92411627906966
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7032226,
-            "DealerName": "PHANI BHUSAN SAHA",
-            "Position": [
-                23.542076,
-                91.497216
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 25.5
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.2125
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 237.2308496732026
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7034333,
-            "DealerName": "MAJUMDAR ENTERPRISE",
-            "Position": [
-                23.805058197113,
-                91.272201575339
-            ],
-            "Volume": {
-                "Q1_23": 13.666666666666666,
-                "Q1_24": 24.75
-            },
-            "SOW": {
-                "Q1_23": 0.013804713804713804,
-                "Q1_24": 0.025
-            },
-            "Discount": {
-                "Q1_23": 258.65512195121954,
-                "Q1_24": 290.40181818181816
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7036995,
-            "DealerName": "RAMKRISHNA ENTERPRISE",
-            "Position": [
-                24.262765477355,
-                92.15228933841
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 5.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.03333333333333333
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 204.31166666666667
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "DHALAI",
-            "Code": 7031020,
-            "DealerName": "RAMKRISHNA ENTERPRISE",
-            "Position": [
-                23.923016988383,
-                91.853324957192
-            ],
-            "Volume": {
-                "Q1_23": 33.0,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.015172413793103448,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 225.83333333333334,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7039814,
-            "DealerName": "M/S TRIPURESWARI ENTERPRISE",
-            "Position": [
-                23.42536993,
-                91.4404713
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 23.166666666666668
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.06435185185185185
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 343.86043165467623
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7033348,
-            "DealerName": "STEEL HOUSE",
-            "Position": [
-                23.531486600346,
-                91.486039012671
-            ],
-            "Volume": {
-                "Q1_23": 30.166666666666668,
-                "Q1_24": 12.0
-            },
-            "SOW": {
-                "Q1_23": 0.0558641975308642,
-                "Q1_24": 0.022222222222222223
-            },
-            "Discount": {
-                "Q1_23": 240.92839779005524,
-                "Q1_24": 62.06555555555556
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7028841,
-            "DealerName": "KATHIA BABA STORES",
-            "Position": [
-                24.3620598,
-                92.1914605
-            ],
-            "Volume": {
-                "Q1_23": 9.333333333333334,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.03111111111111111,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 38.72071428571429,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "GUNJESH SHARMA",
-            "District": "NORTH TRIPURA",
-            "Code": 7034832,
-            "DealerName": "RAJ TRADERS",
-            "Position": [
-                24.355281122965,
-                92.170046232641
-            ],
-            "Volume": {
-                "Q1_23": 8.833333333333334,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.02355555555555556,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 44.36679245283019,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7033057,
-            "DealerName": "SANTANU SINGHA",
-            "Position": [
-                23.803551421625,
-                91.441924721003
-            ],
-            "Volume": {
-                "Q1_23": 12.333333333333334,
-                "Q1_24": 4.666666666666667
-            },
-            "SOW": {
-                "Q1_23": 0.02740740740740741,
-                "Q1_24": 0.01037037037037037
-            },
-            "Discount": {
-                "Q1_23": 106.99783783783786,
-                "Q1_24": 265.8851785714286
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "GOMATI",
-            "Code": 7029236,
-            "DealerName": "GITANJALI IRON",
-            "Position": [
-                23.5400091,
-                91.4983013
-            ],
-            "Volume": {
-                "Q1_23": 7.0,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.03888888888888889,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 110.16857142857143,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7035659,
-            "DealerName": "NEW PURABI ENTERPRISE",
-            "Position": [
-                23.85072556233,
-                91.268544048071
-            ],
-            "Volume": {
-                "Q1_23": 9.5,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.10555555555555556,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 237.44701754385963,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7033309,
-            "DealerName": "M/S- SUJIT DEBNATH",
-            "Position": [
-                23.0725252,
-                91.64647
-            ],
-            "Volume": {
-                "Q1_23": 21.25,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.041666666666666664,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 144.66792156862746,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "SOUTH TRIPURA",
-            "Code": 7041176,
-            "DealerName": "JOY RAM GLASS EMPORIUM",
-            "Position": [
-                23.3099018,
-                91.56390488
-            ],
-            "Volume": {
-                "Q1_23": 0.0,
-                "Q1_24": 3.6666666666666665
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.024444444444444442
-            },
-            "Discount": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7026703,
-            "DealerName": "MAHANAM STEEL",
-            "Position": [
-                23.8319011,
-                91.2795494
-            ],
-            "Volume": {
-                "Q1_23": 6.833333333333333,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.11388888888888889,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 131.3912195121951,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "TAPASH CHOWDHURY",
-            "District": "WEST TRIPURA",
-            "Code": 7035687,
-            "DealerName": "KALIPADA SAHA",
-            "Position": [
-                23.885242050291,
-                91.623101904988
-            ],
-            "Volume": {
-                "Q1_23": 20.0,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.0,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 152.9116666666667,
-                "Q1_24": 0.0
-            }
-        },
-        {
-            "Reg": "NE",
-            "Zone": "tripura",
-            "ZH": "NABARUN CHATTERJEE",
-            "State": "TRP",
-            "SH": "GOPAL CHANDRA PARIDA",
-            "ASM": "UTSAV DAS",
-            "ASO": "PLABITA SINHA",
-            "District": "WEST TRIPURA",
-            "Code": 7031694,
-            "DealerName": "RAM THAKUR ENTERPRISE",
-            "Position": [
-                23.8358593,
-                91.2931141
-            ],
-            "Volume": {
-                "Q1_23": 20.666666666666668,
-                "Q1_24": 0.0
-            },
-            "SOW": {
-                "Q1_23": 0.17009602194787382,
-                "Q1_24": 0.0
-            },
-            "Discount": {
-                "Q1_23": 216.41967741935485,
-                "Q1_24": 0.0
-            }
+[
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7023242,
+        "DealerName": "BANTI ROY CHOWDHURY",
+        "Position": [
+            23.8267254,
+            91.2819696
+        ],
+        "Volume": {
+            "Q1_23": 918.3333333333334,
+            "Q1_24": 1142.4833333333333
+        },
+        "SOW": {
+            "Q1_23": 0.30611111111111117,
+            "Q1_24": 0.38082777777777777
+        },
+        "Discount": {
+            "Q1_23": 606.905668598407,
+            "Q1_24": 526.2748586013246
         }
-    ]
-}
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7009125,
+        "DealerName": "KANMAL SHANTILAL",
+        "Position": [
+            24.3796146,
+            92.165786
+        ],
+        "Volume": {
+            "Q1_23": 524.0,
+            "Q1_24": 552.6666666666666
+        },
+        "SOW": {
+            "Q1_23": 0.34933333333333333,
+            "Q1_24": 0.3684444444444444
+        },
+        "Discount": {
+            "Q1_23": 565.1249132337006,
+            "Q1_24": 465.8388076833118
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "DHALAI",
+        "Code": 7009405,
+        "DealerName": "SANTOSHI TRADERS",
+        "Position": [
+            23.9974225,
+            91.9928424
+        ],
+        "Volume": {
+            "Q1_23": 293.5,
+            "Q1_24": 430.1666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.11442495126705653,
+            "Q1_24": 0.1677063027940221
+        },
+        "Discount": {
+            "Q1_23": 489.1888791560618,
+            "Q1_24": 435.33722874081616
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7007318,
+        "DealerName": "AJANTA ENTERPRISE",
+        "Position": [
+            23.8317902,
+            91.2909481
+        ],
+        "Volume": {
+            "Q1_23": 839.9833333333332,
+            "Q1_24": 869.4666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.3499930555555555,
+            "Q1_24": 0.3622777777777778
+        },
+        "Discount": {
+            "Q1_23": 566.1210961059513,
+            "Q1_24": 389.25992952015764
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7033521,
+        "DealerName": "PARTHA DAS",
+        "Position": [
+            23.7356116,
+            91.268193
+        ],
+        "Volume": {
+            "Q1_23": 210.75,
+            "Q1_24": 816.1166666666667
+        },
+        "SOW": {
+            "Q1_23": 0.09243421052631579,
+            "Q1_24": 0.35794590643274854
+        },
+        "Discount": {
+            "Q1_23": 518.9380455002168,
+            "Q1_24": 545.7903768807334
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7007876,
+        "DealerName": "SEKHAR CHANDRA DAS",
+        "Position": [
+            24.2650811,
+            92.1520055
+        ],
+        "Volume": {
+            "Q1_23": 426.1666666666667,
+            "Q1_24": 332.1666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.24705314009661838,
+            "Q1_24": 0.19256038647342996
+        },
+        "Discount": {
+            "Q1_23": 476.03829971406634,
+            "Q1_24": 386.54619117461624
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7007874,
+        "DealerName": "SATYARANJAN ROY",
+        "Position": [
+            24.3194531,
+            91.9961127
+        ],
+        "Volume": {
+            "Q1_23": 347.1666666666667,
+            "Q1_24": 366.6666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.23144444444444445,
+            "Q1_24": 0.24444444444444446
+        },
+        "Discount": {
+            "Q1_23": 438.9807262518651,
+            "Q1_24": 407.73388161017704
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7007451,
+        "DealerName": "DAS STORES",
+        "Position": [
+            24.3292146,
+            92.0028066
+        ],
+        "Volume": {
+            "Q1_23": 328.8333333333333,
+            "Q1_24": 259.0
+        },
+        "SOW": {
+            "Q1_23": 0.15438184663536775,
+            "Q1_24": 0.1215962441314554
+        },
+        "Discount": {
+            "Q1_23": 522.3960290851153,
+            "Q1_24": 385.78453716491333
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7008091,
+        "DealerName": "KEYA HARDWARE.",
+        "Position": [
+            24.3207942,
+            91.997794
+        ],
+        "Volume": {
+            "Q1_23": 332.0,
+            "Q1_24": 241.66666666666666
+        },
+        "SOW": {
+            "Q1_23": 0.24592592592592594,
+            "Q1_24": 0.17901234567901234
+        },
+        "Discount": {
+            "Q1_23": 561.6791307838198,
+            "Q1_24": 444.97452070211364
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7034895,
+        "DealerName": "DEY''S HARDWARE",
+        "Position": [
+            24.176569750702,
+            92.015841007233
+        ],
+        "Volume": {
+            "Q1_23": 146.5,
+            "Q1_24": 139.0
+        },
+        "SOW": {
+            "Q1_23": 0.1627777777777778,
+            "Q1_24": 0.15444444444444444
+        },
+        "Discount": {
+            "Q1_23": 432.65973723181816,
+            "Q1_24": 418.6995401369344
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7007973,
+        "DealerName": "TARANGAMAYEE HARDWARE",
+        "Position": [
+            24.1603191,
+            92.0369628
+        ],
+        "Volume": {
+            "Q1_23": 287.8333333333333,
+            "Q1_24": 350.6666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.21805555555555556,
+            "Q1_24": 0.2656565656565657
+        },
+        "Discount": {
+            "Q1_23": 533.6063351494946,
+            "Q1_24": 445.7463743391927
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7009445,
+        "DealerName": "GOMATI IRON",
+        "Position": [
+            23.5369975,
+            91.4822993
+        ],
+        "Volume": {
+            "Q1_23": 465.25,
+            "Q1_24": 378.4166666666667
+        },
+        "SOW": {
+            "Q1_23": 0.2628531073446328,
+            "Q1_24": 0.21379472693032017
+        },
+        "Discount": {
+            "Q1_23": 545.5777548449839,
+            "Q1_24": 434.71903273095006
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7007378,
+        "DealerName": "BANKA BIHARI PAUL",
+        "Position": [
+            23.8259161,
+            91.2792652
+        ],
+        "Volume": {
+            "Q1_23": 408.0,
+            "Q1_24": 373.2
+        },
+        "SOW": {
+            "Q1_23": 0.136,
+            "Q1_24": 0.1244
+        },
+        "Discount": {
+            "Q1_23": 463.9425168998951,
+            "Q1_24": 358.97339683600677
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7007762,
+        "DealerName": "PAUL ENTERPRISE",
+        "Position": [
+            24.082067100194,
+            91.999623700976
+        ],
+        "Volume": {
+            "Q1_23": 190.5,
+            "Q1_24": 203.33333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.11043478260869566,
+            "Q1_24": 0.11787439613526571
+        },
+        "Discount": {
+            "Q1_23": 354.95640152668796,
+            "Q1_24": 369.05368007178777
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7007448,
+        "DealerName": "DAS GUPTA ENTERPRISE",
+        "Position": [
+            24.3846393,
+            92.1672781
+        ],
+        "Volume": {
+            "Q1_23": 185.0,
+            "Q1_24": 153.33333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.037487335359675786,
+            "Q1_24": 0.031070584262073625
+        },
+        "Discount": {
+            "Q1_23": 474.61739361033386,
+            "Q1_24": 420.32168584006365
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7028443,
+        "DealerName": "PAL BROTHERS",
+        "Position": [
+            23.9751228,
+            91.3789713
+        ],
+        "Volume": {
+            "Q1_23": 146.83333333333334,
+            "Q1_24": 360.3333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.07894265232974912,
+            "Q1_24": 0.19372759856630822
+        },
+        "Discount": {
+            "Q1_23": 551.2465028149015,
+            "Q1_24": 550.016928495132
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7033061,
+        "DealerName": "MAA MANI IRON STORES",
+        "Position": [
+            24.058579861133,
+            91.606665663421
+        ],
+        "Volume": {
+            "Q1_23": 270.3333333333333,
+            "Q1_24": 270.8333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.23105413105413103,
+            "Q1_24": 0.23148148148148145
+        },
+        "Discount": {
+            "Q1_23": 572.1559088822104,
+            "Q1_24": 447.6068386365498
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7023508,
+        "DealerName": "RAMTHAKUR TRADING CO",
+        "Position": [
+            23.8252511,
+            91.2702993
+        ],
+        "Volume": {
+            "Q1_23": 344.1666666666667,
+            "Q1_24": 222.08333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.352991452991453,
+            "Q1_24": 0.2277777777777778
+        },
+        "Discount": {
+            "Q1_23": 346.47074273607745,
+            "Q1_24": 271.89084622085227
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7024761,
+        "DealerName": "JOYRAM TRADERS",
+        "Position": [
+            23.788597,
+            91.2754686
+        ],
+        "Volume": {
+            "Q1_23": 314.6666666666667,
+            "Q1_24": 255.5
+        },
+        "SOW": {
+            "Q1_23": 0.1115839243498818,
+            "Q1_24": 0.09060283687943263
+        },
+        "Discount": {
+            "Q1_23": 459.09747881355935,
+            "Q1_24": 396.5634971032759
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7007796,
+        "DealerName": "R.S. ENTERPRISE",
+        "Position": [
+            24.4532809,
+            92.2199203
+        ],
+        "Volume": {
+            "Q1_23": 127.33333333333333,
+            "Q1_24": 160.83333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.2122222222222222,
+            "Q1_24": 0.26805555555555555
+        },
+        "Discount": {
+            "Q1_23": 422.316355507876,
+            "Q1_24": 477.0953673625812
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7031598,
+        "DealerName": "SRISTI CEMENT HOUSE",
+        "Position": [
+            23.8363967,
+            91.2645837
+        ],
+        "Volume": {
+            "Q1_23": 94.5,
+            "Q1_24": 114.26666666666665
+        },
+        "SOW": {
+            "Q1_23": 0.075,
+            "Q1_24": 0.09068783068783066
+        },
+        "Discount": {
+            "Q1_23": 587.2877790335789,
+            "Q1_24": 528.6826555407746
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7015185,
+        "DealerName": "NEW SWARUPANANDA TRADERS",
+        "Position": [
+            24.0671599,
+            91.6074217
+        ],
+        "Volume": {
+            "Q1_23": 158.5,
+            "Q1_24": 180.0
+        },
+        "SOW": {
+            "Q1_23": 0.21133333333333335,
+            "Q1_24": 0.24
+        },
+        "Discount": {
+            "Q1_23": 459.98852127903774,
+            "Q1_24": 494.2163557223139
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7036617,
+        "DealerName": "M/S GOPE VARIETIES",
+        "Position": [
+            23.959442286005,
+            91.360360756516
+        ],
+        "Volume": {
+            "Q1_23": 21.25,
+            "Q1_24": 259.9166666666667
+        },
+        "SOW": {
+            "Q1_23": 0.0114247311827957,
+            "Q1_24": 0.13974014336917565
+        },
+        "Discount": {
+            "Q1_23": 620.0218906245503,
+            "Q1_24": 349.6959223214865
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7022788,
+        "DealerName": "MADHAN GOPAL TRADERS",
+        "Position": [
+            23.8219207,
+            91.6215922
+        ],
+        "Volume": {
+            "Q1_23": 228.5,
+            "Q1_24": 96.0
+        },
+        "SOW": {
+            "Q1_23": 0.09520833333333334,
+            "Q1_24": 0.04
+        },
+        "Discount": {
+            "Q1_23": 473.27784858532465,
+            "Q1_24": 400.03260142692454
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7007509,
+        "DealerName": "GOPI NATH SAHA",
+        "Position": [
+            23.8402026,
+            91.634162
+        ],
+        "Volume": {
+            "Q1_23": 135.33333333333334,
+            "Q1_24": 170.83333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.04903381642512078,
+            "Q1_24": 0.06189613526570049
+        },
+        "Discount": {
+            "Q1_23": 529.1523517205793,
+            "Q1_24": 465.93289253518924
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7030024,
+        "DealerName": "MAA TARA HARDWARE",
+        "Position": [
+            23.835129,
+            91.3699848
+        ],
+        "Volume": {
+            "Q1_23": 124.66666666666667,
+            "Q1_24": 140.0
+        },
+        "SOW": {
+            "Q1_23": 0.07555555555555556,
+            "Q1_24": 0.08484848484848484
+        },
+        "Discount": {
+            "Q1_23": 514.42281621663,
+            "Q1_24": 417.4600327305086
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7031805,
+        "DealerName": "MAA MEHARESWARI CARRING CENTRE",
+        "Position": [
+            23.8429357,
+            91.2761639
+        ],
+        "Volume": {
+            "Q1_23": 125.5,
+            "Q1_24": 161.83333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.12676767676767678,
+            "Q1_24": 0.16346801346801348
+        },
+        "Discount": {
+            "Q1_23": 434.13246099826637,
+            "Q1_24": 428.78260719343757
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7028710,
+        "DealerName": "KUSUM ENTERPRISE",
+        "Position": [
+            24.0696529,
+            91.6059733
+        ],
+        "Volume": {
+            "Q1_23": 118.16666666666667,
+            "Q1_24": 172.33333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.3282407407407408,
+            "Q1_24": 0.47870370370370374
+        },
+        "Discount": {
+            "Q1_23": 532.1109715361412,
+            "Q1_24": 501.33568846657136
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7036022,
+        "DealerName": "SOURAV SAHA",
+        "Position": [
+            23.834666529277,
+            91.368115358055
+        ],
+        "Volume": {
+            "Q1_23": 51.166666666666664,
+            "Q1_24": 133.58333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.08527777777777777,
+            "Q1_24": 0.2226388888888889
+        },
+        "Discount": {
+            "Q1_23": 418.9392625082303,
+            "Q1_24": 405.82023322986174
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "DHALAI",
+        "Code": 7035774,
+        "DealerName": "M/S JOY KALI HARDWARES",
+        "Position": [
+            24.1548584,
+            91.8095406
+        ],
+        "Volume": {
+            "Q1_23": 65.16666666666667,
+            "Q1_24": 141.66666666666666
+        },
+        "SOW": {
+            "Q1_23": 0.21722222222222226,
+            "Q1_24": 0.4722222222222222
+        },
+        "Discount": {
+            "Q1_23": 374.0993482374912,
+            "Q1_24": 415.2254467029643
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7030005,
+        "DealerName": "SREE MATAJI IRON STORES",
+        "Position": [
+            23.5368478,
+            91.4980228
+        ],
+        "Volume": {
+            "Q1_23": 117.83333333333333,
+            "Q1_24": 148.75
+        },
+        "SOW": {
+            "Q1_23": 0.15711111111111112,
+            "Q1_24": 0.19833333333333333
+        },
+        "Discount": {
+            "Q1_23": 634.7354896231947,
+            "Q1_24": 660.8470005503377
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7031679,
+        "DealerName": "NEW RAMKRISHNA HARDWARE",
+        "Position": [
+            23.251946,
+            91.4511718
+        ],
+        "Volume": {
+            "Q1_23": 113.66666666666667,
+            "Q1_24": 90.0
+        },
+        "SOW": {
+            "Q1_23": 0.15787037037037038,
+            "Q1_24": 0.125
+        },
+        "Discount": {
+            "Q1_23": 526.9709491469866,
+            "Q1_24": 406.61175318196
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7033751,
+        "DealerName": "M/S NORTH EAST STEEL",
+        "Position": [
+            23.852620609812,
+            91.300701722503
+        ],
+        "Volume": {
+            "Q1_23": 148.91666666666666,
+            "Q1_24": 100.75
+        },
+        "SOW": {
+            "Q1_23": 0.177281746031746,
+            "Q1_24": 0.1199404761904762
+        },
+        "Discount": {
+            "Q1_23": 548.387563941196,
+            "Q1_24": 452.4276013379262
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7031655,
+        "DealerName": "MRINAL KANTI SAHA",
+        "Position": [
+            23.8386482,
+            91.6362915
+        ],
+        "Volume": {
+            "Q1_23": 57.333333333333336,
+            "Q1_24": 136.16666666666666
+        },
+        "SOW": {
+            "Q1_23": 0.11582491582491582,
+            "Q1_24": 0.27508417508417504
+        },
+        "Discount": {
+            "Q1_23": 417.6254328712111,
+            "Q1_24": 452.9073881955686
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7027852,
+        "DealerName": "ASHOK STORES",
+        "Position": [
+            24.4540709,
+            92.2163094
+        ],
+        "Volume": {
+            "Q1_23": 103.83333333333333,
+            "Q1_24": 73.0
+        },
+        "SOW": {
+            "Q1_23": 0.19777777777777775,
+            "Q1_24": 0.13904761904761903
+        },
+        "Discount": {
+            "Q1_23": 360.29149678972715,
+            "Q1_24": 327.40304627776925
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7024862,
+        "DealerName": "RAMTHAKUR HARDWARE",
+        "Position": [
+            23.5214668,
+            91.6586108
+        ],
+        "Volume": {
+            "Q1_23": 144.0,
+            "Q1_24": 131.0
+        },
+        "SOW": {
+            "Q1_23": 0.16551724137931034,
+            "Q1_24": 0.15057471264367817
+        },
+        "Discount": {
+            "Q1_23": 583.8593641617881,
+            "Q1_24": 478.2213177948106
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7036691,
+        "DealerName": "P.K.IRON STORES",
+        "Position": [
+            23.8633711,
+            91.2769201
+        ],
+        "Volume": {
+            "Q1_23": 10.0,
+            "Q1_24": 115.48333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.016666666666666666,
+            "Q1_24": 0.19247222222222224
+        },
+        "Discount": {
+            "Q1_23": 558.4301980976901,
+            "Q1_24": 392.8180479557743
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7034922,
+        "DealerName": "MAA SARADA TRADERS",
+        "Position": [
+            23.8427097,
+            91.6351315
+        ],
+        "Volume": {
+            "Q1_23": 75.0,
+            "Q1_24": 57.5
+        },
+        "SOW": {
+            "Q1_23": 0.10638297872340426,
+            "Q1_24": 0.08156028368794327
+        },
+        "Discount": {
+            "Q1_23": 622.3321632733115,
+            "Q1_24": 523.6013188288669
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7028408,
+        "DealerName": "ABUL HASHEM",
+        "Position": [
+            23.4821162,
+            91.2771564
+        ],
+        "Volume": {
+            "Q1_23": 58.0,
+            "Q1_24": 32.333333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.02543859649122807,
+            "Q1_24": 0.014181286549707604
+        },
+        "Discount": {
+            "Q1_23": 344.2059195402299,
+            "Q1_24": 257.6702319587629
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7007452,
+        "DealerName": "DEBNATH CEMENT HOUSE",
+        "Position": [
+            23.8372539,
+            91.3046227
+        ],
+        "Volume": {
+            "Q1_23": 115.0,
+            "Q1_24": 90.3
+        },
+        "SOW": {
+            "Q1_23": 0.08712121212121213,
+            "Q1_24": 0.0684090909090909
+        },
+        "Discount": {
+            "Q1_23": 468.90309096170415,
+            "Q1_24": 501.2026555611874
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7024445,
+        "DealerName": "CHOWDHURY TRADERS",
+        "Position": [
+            23.5436512,
+            91.4841513
+        ],
+        "Volume": {
+            "Q1_23": 110.66666666666667,
+            "Q1_24": 114.33333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.029511111111111113,
+            "Q1_24": 0.030488888888888885
+        },
+        "Discount": {
+            "Q1_23": 597.0484126906118,
+            "Q1_24": 443.43199527166496
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7007772,
+        "DealerName": "PRANATI HARDWARE & ELECTRICALS",
+        "Position": [
+            24.1903504,
+            92.1024931
+        ],
+        "Volume": {
+            "Q1_23": 56.833333333333336,
+            "Q1_24": 58.333333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.13531746031746034,
+            "Q1_24": 0.1388888888888889
+        },
+        "Discount": {
+            "Q1_23": 389.5491244431676,
+            "Q1_24": 327.8867511712782
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7037402,
+        "DealerName": "NAG CONSTRUCTION",
+        "Position": [
+            24.01256,
+            91.62106
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 101.5
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.3075757575757576
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 231.53045977011496
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7026412,
+        "DealerName": "GREEN FARMER",
+        "Position": [
+            23.314908,
+            91.5597631
+        ],
+        "Volume": {
+            "Q1_23": 89.7,
+            "Q1_24": 64.0
+        },
+        "SOW": {
+            "Q1_23": 0.24916666666666668,
+            "Q1_24": 0.17777777777777776
+        },
+        "Discount": {
+            "Q1_23": 462.90357439477066,
+            "Q1_24": 299.56594335176857
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7009530,
+        "DealerName": "GIRIDHARI IRON",
+        "Position": [
+            23.5409475,
+            91.4956708
+        ],
+        "Volume": {
+            "Q1_23": 41.333333333333336,
+            "Q1_24": 113.16666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.06888888888888889,
+            "Q1_24": 0.18861111111111112
+        },
+        "Discount": {
+            "Q1_23": 329.44364343599335,
+            "Q1_24": 383.5281598025666
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7033355,
+        "DealerName": "M/S- SWAPAN DEBBARMA",
+        "Position": [
+            23.700837281957,
+            91.459933742881
+        ],
+        "Volume": {
+            "Q1_23": 61.833333333333336,
+            "Q1_24": 28.333333333333332
+        },
+        "SOW": {
+            "Q1_23": 0.10305555555555555,
+            "Q1_24": 0.04722222222222222
+        },
+        "Discount": {
+            "Q1_23": 410.8409003287347,
+            "Q1_24": 201.00242038581408
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7029343,
+        "DealerName": "RAJDEEP ENTERPRISE",
+        "Position": [
+            23.8370663,
+            91.3670529
+        ],
+        "Volume": {
+            "Q1_23": 52.833333333333336,
+            "Q1_24": 50.0
+        },
+        "SOW": {
+            "Q1_23": 0.10063492063492063,
+            "Q1_24": 0.09523809523809525
+        },
+        "Discount": {
+            "Q1_23": 477.9651760310761,
+            "Q1_24": 510.7126250321276
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7024929,
+        "DealerName": "PAUL HARDWARE",
+        "Position": [
+            24.159558058935,
+            92.037397250533
+        ],
+        "Volume": {
+            "Q1_23": 58.333333333333336,
+            "Q1_24": 18.666666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.12152777777777779,
+            "Q1_24": 0.03888888888888889
+        },
+        "Discount": {
+            "Q1_23": 287.19059999999996,
+            "Q1_24": 173.1499107142857
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7037061,
+        "DealerName": "BABAMANI TRADING",
+        "Position": [
+            23.818790152932,
+            91.304293200374
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 57.25
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.045436507936507935
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 198.42513100436682
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7034701,
+        "DealerName": "RAMKRISHNA TRADERS",
+        "Position": [
+            23.804033334009,
+            91.488803699613
+        ],
+        "Volume": {
+            "Q1_23": 95.41666666666667,
+            "Q1_24": 49.833333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.07757452574525746,
+            "Q1_24": 0.04051490514905149
+        },
+        "Discount": {
+            "Q1_23": 448.38845076055827,
+            "Q1_24": 372.47953632963123
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7030660,
+        "DealerName": "RAMKRISHNA TRADERS",
+        "Position": [
+            23.8387856,
+            91.2877307
+        ],
+        "Volume": {
+            "Q1_23": 22.833333333333332,
+            "Q1_24": 86.8
+        },
+        "SOW": {
+            "Q1_23": 0.10873015873015872,
+            "Q1_24": 0.41333333333333333
+        },
+        "Discount": {
+            "Q1_23": 255.81125,
+            "Q1_24": 408.4330891658818
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7025654,
+        "DealerName": "MAA TARA TRADERS",
+        "Position": [
+            23.8110904,
+            91.2664815
+        ],
+        "Volume": {
+            "Q1_23": 73.91666666666667,
+            "Q1_24": 45.833333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.05729974160206718,
+            "Q1_24": 0.03552971576227391
+        },
+        "Discount": {
+            "Q1_23": 401.0700591882751,
+            "Q1_24": 361.831815957774
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7035190,
+        "DealerName": "SREE MATA IRON",
+        "Position": [
+            23.679550772669,
+            91.281523257494
+        ],
+        "Volume": {
+            "Q1_23": 84.33333333333333,
+            "Q1_24": 56.083333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.14055555555555554,
+            "Q1_24": 0.09347222222222223
+        },
+        "Discount": {
+            "Q1_23": 332.02216403162055,
+            "Q1_24": 257.38299777117385
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7031693,
+        "DealerName": "PAUL HARDWARE",
+        "Position": [
+            23.3107507,
+            91.5630606
+        ],
+        "Volume": {
+            "Q1_23": 68.33333333333333,
+            "Q1_24": 68.83333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.0451045104510451,
+            "Q1_24": 0.04543454345434543
+        },
+        "Discount": {
+            "Q1_23": 466.3178670631256,
+            "Q1_24": 345.26860739265965
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7032901,
+        "DealerName": "CHANDIMATA IRON",
+        "Position": [
+            23.829695728679,
+            91.28624998033
+        ],
+        "Volume": {
+            "Q1_23": 32.75,
+            "Q1_24": 55.416666666666664
+        },
+        "SOW": {
+            "Q1_23": 0.07528735632183908,
+            "Q1_24": 0.12739463601532566
+        },
+        "Discount": {
+            "Q1_23": 234.04213740458016,
+            "Q1_24": 110.71910902255638
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7039963,
+        "DealerName": "DIPAN CHANDRA SAHA",
+        "Position": [
+            23.52895456,
+            91.44862723
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 61.38333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.06820370370370371
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 149.29166440401852
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7037610,
+        "DealerName": "ESHA ENTERPRISE",
+        "Position": [
+            23.834003787316,
+            91.29923556
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 79.58333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.1061111111111111
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 251.79086910994766
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7040769,
+        "DealerName": "HOUSE NIRMAN CENTER",
+        "Position": [
+            23.53027392,
+            91.48532253
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 34.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.10303030303030304
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7014885,
+        "DealerName": "RAM THAKUR STORES",
+        "Position": [
+            23.8507308,
+            91.3009511
+        ],
+        "Volume": {
+            "Q1_23": 50.699999999999996,
+            "Q1_24": 91.35000000000001
+        },
+        "SOW": {
+            "Q1_23": 0.30727272727272725,
+            "Q1_24": 0.5536363636363637
+        },
+        "Discount": {
+            "Q1_23": 184.682577251808,
+            "Q1_24": 259.9608556832695
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7033207,
+        "DealerName": "M/S-KANTI MAJUMDER",
+        "Position": [
+            23.2924805,
+            91.4128225
+        ],
+        "Volume": {
+            "Q1_23": 66.5,
+            "Q1_24": 96.83333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.09236111111111112,
+            "Q1_24": 0.13449074074074074
+        },
+        "Discount": {
+            "Q1_23": 455.9174551779314,
+            "Q1_24": 416.865080038275
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7033606,
+        "DealerName": "M/S- PODDER CONSTRUCTION",
+        "Position": [
+            23.492566506454,
+            91.329131126404
+        ],
+        "Volume": {
+            "Q1_23": 66.16666666666667,
+            "Q1_24": 39.333333333333336
+        },
+        "SOW": {
+            "Q1_23": 0.11921921921921923,
+            "Q1_24": 0.07087087087087088
+        },
+        "Discount": {
+            "Q1_23": 260.00461272040303,
+            "Q1_24": 306.31152542372877
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7035533,
+        "DealerName": "BIJOY SAHA",
+        "Position": [
+            23.841710828437,
+            91.26981575042
+        ],
+        "Volume": {
+            "Q1_23": 9.5,
+            "Q1_24": 6.666666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.15833333333333333,
+            "Q1_24": 0.11111111111111112
+        },
+        "Discount": {
+            "Q1_23": 44.215438596491225,
+            "Q1_24": 136.72375
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7032084,
+        "DealerName": "PAUL ENTERPRISE",
+        "Position": [
+            24.1592634,
+            92.0373629
+        ],
+        "Volume": {
+            "Q1_23": 85.33333333333333,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.22755555555555554,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 242.126640625,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7007454,
+        "DealerName": "DEEP ENTERPRISE",
+        "Position": [
+            23.833088946366,
+            91.28080341965
+        ],
+        "Volume": {
+            "Q1_23": 65.16666666666667,
+            "Q1_24": 31.0
+        },
+        "SOW": {
+            "Q1_23": 0.3620370370370371,
+            "Q1_24": 0.17222222222222222
+        },
+        "Discount": {
+            "Q1_23": 317.345712915601,
+            "Q1_24": 270.77652823611913
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7032320,
+        "DealerName": "JOYGURU ENTERPRISE",
+        "Position": [
+            23.777066805865,
+            91.265743151307
+        ],
+        "Volume": {
+            "Q1_23": 20.833333333333332,
+            "Q1_24": 36.666666666666664
+        },
+        "SOW": {
+            "Q1_23": 0.017806267806267803,
+            "Q1_24": 0.031339031339031334
+        },
+        "Discount": {
+            "Q1_23": 201.71076000000002,
+            "Q1_24": 213.42334090909088
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7038948,
+        "DealerName": "TAPAN DAS",
+        "Position": [
+            23.63811301,
+            91.30544554
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 69.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.32857142857142857
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 304.7476086956522
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7026023,
+        "DealerName": "S.N ENTERPRISE",
+        "Position": [
+            24.0540419,
+            92.2019957
+        ],
+        "Volume": {
+            "Q1_23": 25.0,
+            "Q1_24": 25.0
+        },
+        "SOW": {
+            "Q1_23": 0.16666666666666669,
+            "Q1_24": 0.16666666666666669
+        },
+        "Discount": {
+            "Q1_23": 146.93013333333334,
+            "Q1_24": 295.1789333333333
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7033705,
+        "DealerName": "P.K.TRADING & CO.",
+        "Position": [
+            23.84360600772,
+            91.326260492206
+        ],
+        "Volume": {
+            "Q1_23": 66.83333333333333,
+            "Q1_24": 15.0
+        },
+        "SOW": {
+            "Q1_23": 0.2784722222222222,
+            "Q1_24": 0.0625
+        },
+        "Discount": {
+            "Q1_23": 271.11196072319194,
+            "Q1_24": 206.70055555555558
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7036093,
+        "DealerName": "M/S PAUL HARDWARE",
+        "Position": [
+            23.092208535167,
+            91.639820449054
+        ],
+        "Volume": {
+            "Q1_23": 15.0,
+            "Q1_24": 31.5
+        },
+        "SOW": {
+            "Q1_23": 0.019230769230769232,
+            "Q1_24": 0.04038461538461539
+        },
+        "Discount": {
+            "Q1_23": 322.01924999999994,
+            "Q1_24": 334.97421296296295
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7030111,
+        "DealerName": "URBASHI ENTERPRISE",
+        "Position": [
+            23.857919,
+            91.2897502
+        ],
+        "Volume": {
+            "Q1_23": 53.833333333333336,
+            "Q1_24": 41.65
+        },
+        "SOW": {
+            "Q1_23": 0.10555555555555557,
+            "Q1_24": 0.08166666666666667
+        },
+        "Discount": {
+            "Q1_23": 234.52433436532507,
+            "Q1_24": 164.53675470188077
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7007661,
+        "DealerName": "MAA KALI ENTERPRISE",
+        "Position": [
+            23.8296441,
+            91.2647864
+        ],
+        "Volume": {
+            "Q1_23": 32.916666666666664,
+            "Q1_24": 37.0
+        },
+        "SOW": {
+            "Q1_23": 0.025516795865633074,
+            "Q1_24": 0.028682170542635662
+        },
+        "Discount": {
+            "Q1_23": 349.97549050632904,
+            "Q1_24": 388.01186637586954
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7024729,
+        "DealerName": "KALPANA STORES",
+        "Position": [
+            24.384089,
+            92.1666894
+        ],
+        "Volume": {
+            "Q1_23": 31.333333333333332,
+            "Q1_24": 21.666666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.08355555555555556,
+            "Q1_24": 0.057777777777777775
+        },
+        "Discount": {
+            "Q1_23": 270.4058510638298,
+            "Q1_24": 233.9332307692308
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7033580,
+        "DealerName": "M/S- JAYANTA SAHA",
+        "Position": [
+            23.492661519499,
+            91.329061053693
+        ],
+        "Volume": {
+            "Q1_23": 39.166666666666664,
+            "Q1_24": 23.333333333333332
+        },
+        "SOW": {
+            "Q1_23": 0.05676328502415459,
+            "Q1_24": 0.033816425120772944
+        },
+        "Discount": {
+            "Q1_23": 245.9935265957447,
+            "Q1_24": 150.25282142857145
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7035278,
+        "DealerName": "MANJU BUILDER",
+        "Position": [
+            23.808482119899,
+            91.260679140687
+        ],
+        "Volume": {
+            "Q1_23": 37.0,
+            "Q1_24": 31.333333333333332
+        },
+        "SOW": {
+            "Q1_23": 0.09487179487179488,
+            "Q1_24": 0.08034188034188035
+        },
+        "Discount": {
+            "Q1_23": 293.2003603603603,
+            "Q1_24": 327.82978723404256
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7014917,
+        "DealerName": "SWASTI HARDWARE STORES",
+        "Position": [
+            23.8382371,
+            91.2732002
+        ],
+        "Volume": {
+            "Q1_23": 17.099999999999998,
+            "Q1_24": 9.333333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.08142857142857142,
+            "Q1_24": 0.044444444444444446
+        },
+        "Discount": {
+            "Q1_23": 234.12319688109164,
+            "Q1_24": 116.27285714285713
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7031656,
+        "DealerName": "JOYRAM STEEL",
+        "Position": [
+            23.6722591,
+            91.285041
+        ],
+        "Volume": {
+            "Q1_23": 35.0,
+            "Q1_24": 4.166666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.08974358974358974,
+            "Q1_24": 0.010683760683760686
+        },
+        "Discount": {
+            "Q1_23": 232.98704761904762,
+            "Q1_24": 102.8836
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7033536,
+        "DealerName": "M/S- SARKAR IRON ENTERPRISE",
+        "Position": [
+            23.001713143413,
+            91.729470938444
+        ],
+        "Volume": {
+            "Q1_23": 43.0,
+            "Q1_24": 15.0
+        },
+        "SOW": {
+            "Q1_23": 0.08431372549019608,
+            "Q1_24": 0.029411764705882353
+        },
+        "Discount": {
+            "Q1_23": 244.4217054263566,
+            "Q1_24": 229.85644444444443
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7035333,
+        "DealerName": "MAA TRIPURESWARI CARRIER",
+        "Position": [
+            23.833832350968,
+            91.288911066949
+        ],
+        "Volume": {
+            "Q1_23": 23.75,
+            "Q1_24": 15.5
+        },
+        "SOW": {
+            "Q1_23": 0.39583333333333337,
+            "Q1_24": 0.25833333333333336
+        },
+        "Discount": {
+            "Q1_23": 191.6216140350877,
+            "Q1_24": 111.25827956989248
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7022621,
+        "DealerName": "MANOBIKASH DATTA BISWAS",
+        "Position": [
+            23.8369174,
+            91.2701271
+        ],
+        "Volume": {
+            "Q1_23": 35.166666666666664,
+            "Q1_24": 36.300000000000004
+        },
+        "SOW": {
+            "Q1_23": 0.2604938271604938,
+            "Q1_24": 0.2688888888888889
+        },
+        "Discount": {
+            "Q1_23": 336.7482227488152,
+            "Q1_24": 282.81851469237836
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7007660,
+        "DealerName": "MAA IRON STORES",
+        "Position": [
+            23.493061864974,
+            91.329030878842
+        ],
+        "Volume": {
+            "Q1_23": 31.5,
+            "Q1_24": 16.666666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.020192307692307693,
+            "Q1_24": 0.010683760683760686
+        },
+        "Discount": {
+            "Q1_23": 316.9284986772487,
+            "Q1_24": 277.34225000000004
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7037546,
+        "DealerName": "M/S BISWAS TRADERS",
+        "Position": [
+            23.216605273112,
+            91.614336110652
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 54.666666666666664
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.15185185185185185
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 251.92723323170733
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "KHOWAI",
+        "Code": 7008065,
+        "DealerName": "KISHORE KUMAR PAUL",
+        "Position": [
+            24.0825719,
+            91.5988711
+        ],
+        "Volume": {
+            "Q1_23": 24.666666666666668,
+            "Q1_24": 20.333333333333332
+        },
+        "SOW": {
+            "Q1_23": 0.16444444444444448,
+            "Q1_24": 0.13555555555555554
+        },
+        "Discount": {
+            "Q1_23": 249.67351351351346,
+            "Q1_24": 249.7129508196721
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7015486,
+        "DealerName": "CHOWDHURY MOTORS",
+        "Position": [
+            23.7857334,
+            91.2650664
+        ],
+        "Volume": {
+            "Q1_23": 12.416666666666666,
+            "Q1_24": 41.666666666666664
+        },
+        "SOW": {
+            "Q1_23": 0.05173611111111111,
+            "Q1_24": 0.1736111111111111
+        },
+        "Discount": {
+            "Q1_23": 103.17906040268457,
+            "Q1_24": 208.52515999999997
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "UNAKOTI",
+        "Code": 7031868,
+        "DealerName": "KALIMATA HARDWARE",
+        "Position": [
+            24.254471697187,
+            92.018381394446
+        ],
+        "Volume": {
+            "Q1_23": 49.166666666666664,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.36419753086419754,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 270.93084745762707,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7036462,
+        "DealerName": "DURGA CARRYING CENTRE",
+        "Position": [
+            23.770594313539,
+            91.264768503606
+        ],
+        "Volume": {
+            "Q1_23": 8.333333333333334,
+            "Q1_24": 10.0
+        },
+        "SOW": {
+            "Q1_23": 0.022222222222222227,
+            "Q1_24": 0.02666666666666667
+        },
+        "Discount": {
+            "Q1_23": 430.77464999999995,
+            "Q1_24": 155.35291666666666
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SEPAHIJALA",
+        "Code": 7038751,
+        "DealerName": "M/S- TANISHA ENTERPRISE",
+        "Position": [
+            23.475747,
+            91.266233
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 10.633333333333333
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.004169934640522875
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 414.37797805642634
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7034234,
+        "DealerName": "NEW CHANDIMATA TRADERS",
+        "Position": [
+            23.829800617974,
+            91.289694942534
+        ],
+        "Volume": {
+            "Q1_23": 13.666666666666666,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.05694444444444444,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 187.17414634146343,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7037181,
+        "DealerName": "M/S SAHA ENTERPRISE",
+        "Position": [
+            23.485634059255,
+            91.395108439028
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 13.166666666666666
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.021944444444444444
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 265.02993670886076
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7032698,
+        "DealerName": "M/S APU PAL",
+        "Position": [
+            23.266600110999,
+            91.573976911604
+        ],
+        "Volume": {
+            "Q1_23": 36.833333333333336,
+            "Q1_24": 12.083333333333334
+        },
+        "SOW": {
+            "Q1_23": 0.09444444444444446,
+            "Q1_24": 0.030982905982905984
+        },
+        "Discount": {
+            "Q1_23": 335.3390271493213,
+            "Q1_24": 357.55933515369014
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7015110,
+        "DealerName": "JOY MAA IRON STORES",
+        "Position": [
+            23.8290431,
+            91.2724087
+        ],
+        "Volume": {
+            "Q1_23": 23.333333333333332,
+            "Q1_24": 26.166666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.07777777777777778,
+            "Q1_24": 0.08722222222222223
+        },
+        "Discount": {
+            "Q1_23": 229.23542857142857,
+            "Q1_24": 227.905923566879
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7024078,
+        "DealerName": "MAAMANI CARRING CENTRE",
+        "Position": [
+            23.8920733,
+            91.2802174
+        ],
+        "Volume": {
+            "Q1_23": 18.5,
+            "Q1_24": 17.833333333333332
+        },
+        "SOW": {
+            "Q1_23": 0.05606060606060606,
+            "Q1_24": 0.054040404040404035
+        },
+        "Discount": {
+            "Q1_23": 115.01981981981983,
+            "Q1_24": 133.80598130841122
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7031653,
+        "DealerName": "BISWA RANJAN PAUL",
+        "Position": [
+            23.8413452,
+            91.2968032
+        ],
+        "Volume": {
+            "Q1_23": 24.416666666666668,
+            "Q1_24": 17.916666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.18086419753086422,
+            "Q1_24": 0.13271604938271606
+        },
+        "Discount": {
+            "Q1_23": 185.11918088737204,
+            "Q1_24": 264.92411627906966
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7032226,
+        "DealerName": "PHANI BHUSAN SAHA",
+        "Position": [
+            23.542076,
+            91.497216
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 25.5
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.2125
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 237.2308496732026
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7034333,
+        "DealerName": "MAJUMDAR ENTERPRISE",
+        "Position": [
+            23.805058197113,
+            91.272201575339
+        ],
+        "Volume": {
+            "Q1_23": 13.666666666666666,
+            "Q1_24": 24.75
+        },
+        "SOW": {
+            "Q1_23": 0.013804713804713804,
+            "Q1_24": 0.025
+        },
+        "Discount": {
+            "Q1_23": 258.65512195121954,
+            "Q1_24": 290.40181818181816
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7036995,
+        "DealerName": "RAMKRISHNA ENTERPRISE",
+        "Position": [
+            24.262765477355,
+            92.15228933841
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 5.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.03333333333333333
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 204.31166666666667
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "DHALAI",
+        "Code": 7031020,
+        "DealerName": "RAMKRISHNA ENTERPRISE",
+        "Position": [
+            23.923016988383,
+            91.853324957192
+        ],
+        "Volume": {
+            "Q1_23": 33.0,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.015172413793103448,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 225.83333333333334,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7039814,
+        "DealerName": "M/S TRIPURESWARI ENTERPRISE",
+        "Position": [
+            23.42536993,
+            91.4404713
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 23.166666666666668
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.06435185185185185
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 343.86043165467623
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7033348,
+        "DealerName": "STEEL HOUSE",
+        "Position": [
+            23.531486600346,
+            91.486039012671
+        ],
+        "Volume": {
+            "Q1_23": 30.166666666666668,
+            "Q1_24": 12.0
+        },
+        "SOW": {
+            "Q1_23": 0.0558641975308642,
+            "Q1_24": 0.022222222222222223
+        },
+        "Discount": {
+            "Q1_23": 240.92839779005524,
+            "Q1_24": 62.06555555555556
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7028841,
+        "DealerName": "KATHIA BABA STORES",
+        "Position": [
+            24.3620598,
+            92.1914605
+        ],
+        "Volume": {
+            "Q1_23": 9.333333333333334,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.03111111111111111,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 38.72071428571429,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "GUNJESH SHARMA",
+        "District": "NORTH TRIPURA",
+        "Code": 7034832,
+        "DealerName": "RAJ TRADERS",
+        "Position": [
+            24.355281122965,
+            92.170046232641
+        ],
+        "Volume": {
+            "Q1_23": 8.833333333333334,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.02355555555555556,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 44.36679245283019,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7033057,
+        "DealerName": "SANTANU SINGHA",
+        "Position": [
+            23.803551421625,
+            91.441924721003
+        ],
+        "Volume": {
+            "Q1_23": 12.333333333333334,
+            "Q1_24": 4.666666666666667
+        },
+        "SOW": {
+            "Q1_23": 0.02740740740740741,
+            "Q1_24": 0.01037037037037037
+        },
+        "Discount": {
+            "Q1_23": 106.99783783783786,
+            "Q1_24": 265.8851785714286
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "GOMATI",
+        "Code": 7029236,
+        "DealerName": "GITANJALI IRON",
+        "Position": [
+            23.5400091,
+            91.4983013
+        ],
+        "Volume": {
+            "Q1_23": 7.0,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.03888888888888889,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 110.16857142857143,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7035659,
+        "DealerName": "NEW PURABI ENTERPRISE",
+        "Position": [
+            23.85072556233,
+            91.268544048071
+        ],
+        "Volume": {
+            "Q1_23": 9.5,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.10555555555555556,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 237.44701754385963,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7033309,
+        "DealerName": "M/S- SUJIT DEBNATH",
+        "Position": [
+            23.0725252,
+            91.64647
+        ],
+        "Volume": {
+            "Q1_23": 21.25,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.041666666666666664,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 144.66792156862746,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "SOUTH TRIPURA",
+        "Code": 7041176,
+        "DealerName": "JOY RAM GLASS EMPORIUM",
+        "Position": [
+            23.3099018,
+            91.56390488
+        ],
+        "Volume": {
+            "Q1_23": 0.0,
+            "Q1_24": 3.6666666666666665
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.024444444444444442
+        },
+        "Discount": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7026703,
+        "DealerName": "MAHANAM STEEL",
+        "Position": [
+            23.8319011,
+            91.2795494
+        ],
+        "Volume": {
+            "Q1_23": 6.833333333333333,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.11388888888888889,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 131.3912195121951,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "TAPASH CHOWDHURY",
+        "District": "WEST TRIPURA",
+        "Code": 7035687,
+        "DealerName": "KALIPADA SAHA",
+        "Position": [
+            23.885242050291,
+            91.623101904988
+        ],
+        "Volume": {
+            "Q1_23": 20.0,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.0,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 152.9116666666667,
+            "Q1_24": 0.0
+        }
+    },
+    {
+        "Reg": "NE",
+        "Zone": "tripura",
+        "ZH": "NABARUN CHATTERJEE",
+        "State": "TRP",
+        "SH": "GOPAL CHANDRA PARIDA",
+        "ASM": "UTSAV DAS",
+        "ASO": "PLABITA SINHA",
+        "District": "WEST TRIPURA",
+        "Code": 7031694,
+        "DealerName": "RAM THAKUR ENTERPRISE",
+        "Position": [
+            23.8358593,
+            91.2931141
+        ],
+        "Volume": {
+            "Q1_23": 20.666666666666668,
+            "Q1_24": 0.0
+        },
+        "SOW": {
+            "Q1_23": 0.17009602194787382,
+            "Q1_24": 0.0
+        },
+        "Discount": {
+            "Q1_23": 216.41967741935485,
+            "Q1_24": 0.0
+        }
+    }
+]
