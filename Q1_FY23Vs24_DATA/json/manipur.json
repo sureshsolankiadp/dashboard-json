@@ -1,0 +1,1292 @@
+{
+    "manipur": [
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "SENAPATI",
+            "Code": 7032452,
+            "DealerName": "GUN GUN ENTERPRISES",
+            "Position": [
+                24.9979478,
+                93.9026166
+            ],
+            "Volume": {
+                "Q1_23": 1814.4833333333336,
+                "Q1_24": 162.16666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.35578104575163405,
+                "Q1_24": 0.03179738562091503
+            },
+            "Discount": {
+                "Q1_23": 912.6051828296386,
+                "Q1_24": 448.7605299985779
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7031635,
+            "DealerName": "L.B STEEL HOUSE",
+            "Position": [
+                24.8288444,
+                93.9330485
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 942.1666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.10130824372759856
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 402.65983725455476
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "BISHNUPUR",
+            "Code": 7029374,
+            "DealerName": "S S TRADERS",
+            "Position": [
+                24.7247123,
+                93.8466042
+            ],
+            "Volume": {
+                "Q1_23": 580.8166666666667,
+                "Q1_24": 936.3333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.16201301720130173,
+                "Q1_24": 0.2611808461180846
+            },
+            "Discount": {
+                "Q1_23": 879.5647248844703,
+                "Q1_24": 659.7586453020095
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7031711,
+            "DealerName": "THANGJAM ENTERPRISES",
+            "Position": [
+                24.8699132,
+                94.0497497
+            ],
+            "Volume": {
+                "Q1_23": 276.6666666666667,
+                "Q1_24": 263.6666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.13365539452495975,
+                "Q1_24": 0.12737520128824478
+            },
+            "Discount": {
+                "Q1_23": 705.1019309006396,
+                "Q1_24": 635.4650040884605
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7029634,
+            "DealerName": "N.P. HARDWARE",
+            "Position": [
+                24.935637727085,
+                93.845054917038
+            ],
+            "Volume": {
+                "Q1_23": 442.51666666666665,
+                "Q1_24": 260.0
+            },
+            "SOW": {
+                "Q1_23": 0.03148464366180481,
+                "Q1_24": 0.018498754891497687
+            },
+            "Discount": {
+                "Q1_23": 764.7758127012381,
+                "Q1_24": 491.3053656160928
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7035743,
+            "DealerName": "M/S GLOBAL ENTERPRISES",
+            "Position": [
+                24.861739386161,
+                93.930428959429
+            ],
+            "Volume": {
+                "Q1_23": 50.666666666666664,
+                "Q1_24": 86.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.011259259259259259,
+                "Q1_24": 0.019185185185185184
+            },
+            "Discount": {
+                "Q1_23": 546.8310551677436,
+                "Q1_24": 598.4047551271013
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7009450,
+            "DealerName": "A U BROTHERS",
+            "Position": [
+                24.850205,
+                93.9365867
+            ],
+            "Volume": {
+                "Q1_23": 403.0,
+                "Q1_24": 136.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.09734299516908214,
+                "Q1_24": 0.03293075684380033
+            },
+            "Discount": {
+                "Q1_23": 809.3605582131398,
+                "Q1_24": 480.7318881530162
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7007429,
+            "DealerName": "CHOICE CENTRE",
+            "Position": [
+                24.4924468,
+                93.999701
+            ],
+            "Volume": {
+                "Q1_23": 207.66666666666666,
+                "Q1_24": 91.64999999999999
+            },
+            "SOW": {
+                "Q1_23": 0.1344120819848975,
+                "Q1_24": 0.05932038834951456
+            },
+            "Discount": {
+                "Q1_23": 568.8975282649095,
+                "Q1_24": 451.07434081247027
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "THOUBAL",
+            "Code": 7031593,
+            "DealerName": "H.K. ENTERPRISES",
+            "Position": [
+                24.715837,
+                93.9409516
+            ],
+            "Volume": {
+                "Q1_23": 68.5,
+                "Q1_24": 83.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.053100775193798445,
+                "Q1_24": 0.06459948320413436
+            },
+            "Discount": {
+                "Q1_23": 652.4988205068951,
+                "Q1_24": 623.8313857137078
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "KAKCHING",
+            "Code": 7032526,
+            "DealerName": "SHANTA ENTERPRISES",
+            "Position": [
+                24.4951877,
+                93.9899373
+            ],
+            "Volume": {
+                "Q1_23": 194.66666666666666,
+                "Q1_24": 124.13333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.15826558265582655,
+                "Q1_24": 0.10092140921409212
+            },
+            "Discount": {
+                "Q1_23": 627.2960481018534,
+                "Q1_24": 437.15545932560747
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7031659,
+            "DealerName": "SANDREMBI ENTERPRISES",
+            "Position": [
+                24.7825844,
+                93.9426862
+            ],
+            "Volume": {
+                "Q1_23": 178.66666666666666,
+                "Q1_24": 180.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.05178743961352657,
+                "Q1_24": 0.05236714975845411
+            },
+            "Discount": {
+                "Q1_23": 710.4123624988233,
+                "Q1_24": 457.33332989431807
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7036594,
+            "DealerName": "M/S TONI PETROCHEM",
+            "Position": [
+                24.8324955,
+                93.9456482
+            ],
+            "Volume": {
+                "Q1_23": 12.0,
+                "Q1_24": 17.0
+            },
+            "SOW": {
+                "Q1_23": 0.017391304347826087,
+                "Q1_24": 0.02463768115942029
+            },
+            "Discount": {
+                "Q1_23": 905.8846813988416,
+                "Q1_24": 579.0268382615866
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7038959,
+            "DealerName": "TILAK AND TEGA ENTERPRISE",
+            "Position": [
+                24.98221669,
+                93.89035072
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 100.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.24814814814814815
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 428.106135986733
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7034911,
+            "DealerName": "M/S TARGET CHICKEN",
+            "Position": [
+                24.778443935257,
+                93.911249153316
+            ],
+            "Volume": {
+                "Q1_23": 60.333333333333336,
+                "Q1_24": 111.0
+            },
+            "SOW": {
+                "Q1_23": 0.08044444444444444,
+                "Q1_24": 0.148
+            },
+            "Discount": {
+                "Q1_23": 727.2469322268847,
+                "Q1_24": 608.4780314753044
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7037290,
+            "DealerName": "M/S SONA CEMENT CENTRE",
+            "Position": [
+                24.794465164536,
+                93.958257883787
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 49.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.16444444444444448
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 480.3057432432432
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7035186,
+            "DealerName": "SRI SHYAM IRON STORE",
+            "Position": [
+                24.84437387569,
+                93.939572274685
+            ],
+            "Volume": {
+                "Q1_23": 120.0,
+                "Q1_24": 31.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.2857142857142857,
+                "Q1_24": 0.0746031746031746
+            },
+            "Discount": {
+                "Q1_23": 631.7620715268533,
+                "Q1_24": 397.7884864204703
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "CHURACHANDPUR",
+            "Code": 7031592,
+            "DealerName": "R.K.CEMENT STORE",
+            "Position": [
+                24.355639096379,
+                93.704110197723
+            ],
+            "Volume": {
+                "Q1_23": 49.0,
+                "Q1_24": 50.0
+            },
+            "SOW": {
+                "Q1_23": 0.039837398373983736,
+                "Q1_24": 0.04065040650406505
+            },
+            "Discount": {
+                "Q1_23": 743.4360960191458,
+                "Q1_24": 652.7675354749279
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "BISHNUPUR",
+            "Code": 7031603,
+            "DealerName": "J.S. ENTERPRISES HARDWARE",
+            "Position": [
+                24.6260574,
+                93.7623968
+            ],
+            "Volume": {
+                "Q1_23": 93.98333333333333,
+                "Q1_24": 39.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.07831944444444444,
+                "Q1_24": 0.03277777777777778
+            },
+            "Discount": {
+                "Q1_23": 686.485308160078,
+                "Q1_24": 438.071940722048
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "KAKCHING",
+            "Code": 7032598,
+            "DealerName": "KN & SONS VARIETY STORE",
+            "Position": [
+                24.500411407168,
+                93.969267681241
+            ],
+            "Volume": {
+                "Q1_23": 38.833333333333336,
+                "Q1_24": 52.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.04978632478632479,
+                "Q1_24": 0.06752136752136752
+            },
+            "Discount": {
+                "Q1_23": 550.496488084933,
+                "Q1_24": 465.5786190677114
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7032354,
+            "DealerName": "B.S ENTERPRISES",
+            "Position": [
+                24.6793136,
+                93.9012124
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 12.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.007676767676767677
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 468.6842105263158
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "BISHNUPUR",
+            "Code": 7026444,
+            "DealerName": "N B S AND SONS ENTERPRISES",
+            "Position": [
+                24.4994818,
+                93.775022
+            ],
+            "Volume": {
+                "Q1_23": 59.333333333333336,
+                "Q1_24": 9.0
+            },
+            "SOW": {
+                "Q1_23": 0.11633986928104575,
+                "Q1_24": 0.01764705882352941
+            },
+            "Discount": {
+                "Q1_23": 614.317511456132,
+                "Q1_24": 114.55953392804227
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7008743,
+            "DealerName": "IMA PANTHOIBI ENTERPRISES",
+            "Position": [
+                24.7883431,
+                93.9213948
+            ],
+            "Volume": {
+                "Q1_23": 107.71666666666665,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.1436222222222222,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 571.304806204549,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7032010,
+            "DealerName": "R & J BROTHERS STEEL",
+            "Position": [
+                24.7930126,
+                93.9287624
+            ],
+            "Volume": {
+                "Q1_23": 61.666666666666664,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0685185185185185,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 641.2111653671819,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL EAST",
+            "Code": 7032023,
+            "DealerName": "IBUDHOU PAKHANGBA TRADING AGENCY",
+            "Position": [
+                24.8173457,
+                93.9609486
+            ],
+            "Volume": {
+                "Q1_23": 82.33333333333333,
+                "Q1_24": 24.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0784126984126984,
+                "Q1_24": 0.023492063492063495
+            },
+            "Discount": {
+                "Q1_23": 471.5342510121458,
+                "Q1_24": 251.96081081081078
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "BISHNUPUR",
+            "Code": 7031645,
+            "DealerName": "OKNAREL STEEL HOUSE",
+            "Position": [
+                24.5741262,
+                93.7643018
+            ],
+            "Volume": {
+                "Q1_23": 30.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.026455026455026454,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 474.978339996707,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "THOUBAL",
+            "Code": 7028192,
+            "DealerName": "SHRI MAYENGBAM KALIMU SINGH TR",
+            "Position": [
+                24.586421,
+                94.0583284
+            ],
+            "Volume": {
+                "Q1_23": 29.666666666666668,
+                "Q1_24": 33.300000000000004
+            },
+            "SOW": {
+                "Q1_23": 0.12361111111111112,
+                "Q1_24": 0.13875
+            },
+            "Discount": {
+                "Q1_23": 442.500154494382,
+                "Q1_24": 601.6722785285286
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7031859,
+            "DealerName": "ABUNG CEMENT STORE",
+            "Position": [
+                24.8150461,
+                93.959875
+            ],
+            "Volume": {
+                "Q1_23": 46.0,
+                "Q1_24": 28.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.056790123456790124,
+                "Q1_24": 0.03497942386831276
+            },
+            "Discount": {
+                "Q1_23": 500.4327717391305,
+                "Q1_24": 476.31066176470586
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7008811,
+            "DealerName": "L I STEEL",
+            "Position": [
+                24.8265496,
+                93.9444518
+            ],
+            "Volume": {
+                "Q1_23": 81.33333333333333,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.010230607966457023,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 349.45114754098364,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7026273,
+            "DealerName": "RD ENTERPRISES",
+            "Position": [
+                24.7570096,
+                93.8851878
+            ],
+            "Volume": {
+                "Q1_23": 41.666666666666664,
+                "Q1_24": 14.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.06944444444444443,
+                "Q1_24": 0.02388888888888889
+            },
+            "Discount": {
+                "Q1_23": 635.7429415918308,
+                "Q1_24": 373.92371554531917
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7031968,
+            "DealerName": "LYS SALES PRIVATE LIMITED",
+            "Position": [
+                24.787254,
+                93.9213732
+            ],
+            "Volume": {
+                "Q1_23": 77.33333333333333,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.2577777777777778,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 496.798275862069,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7031807,
+            "DealerName": "NGANGKHA STEEL & CEMENT STORE",
+            "Position": [
+                24.8340098,
+                93.9733347
+            ],
+            "Volume": {
+                "Q1_23": 31.333333333333332,
+                "Q1_24": 16.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.05802469135802469,
+                "Q1_24": 0.030864197530864203
+            },
+            "Discount": {
+                "Q1_23": 455.60744680851064,
+                "Q1_24": 421.84
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "BISHNUPUR",
+            "Code": 7026547,
+            "DealerName": "YANGOININGTHOU STEEL",
+            "Position": [
+                24.6304996,
+                93.7629099
+            ],
+            "Volume": {
+                "Q1_23": 39.666666666666664,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.08263888888888889,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 405.6171428571429,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "BISHNUPUR",
+            "Code": 7031685,
+            "DealerName": "NAORIA STONE CRUSHER",
+            "Position": [
+                24.7064588,
+                93.8180063
+            ],
+            "Volume": {
+                "Q1_23": 30.0,
+                "Q1_24": 17.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.09090909090909091,
+                "Q1_24": 0.05353535353535354
+            },
+            "Discount": {
+                "Q1_23": 485.2731388888889,
+                "Q1_24": 234.1373820754717
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL EAST",
+            "Code": 7034594,
+            "DealerName": "M/S GENIUS SOLUTIONS",
+            "Position": [
+                24.807141818986,
+                93.976449295878
+            ],
+            "Volume": {
+                "Q1_23": 6.0,
+                "Q1_24": 15.0
+            },
+            "SOW": {
+                "Q1_23": 0.010526315789473684,
+                "Q1_24": 0.02631578947368421
+            },
+            "Discount": {
+                "Q1_23": 451.77777777777777,
+                "Q1_24": 492.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "CHURACHANDPUR",
+            "Code": 7037507,
+            "DealerName": "DK ENTERPRISE",
+            "Position": [
+                24.32946069,
+                93.69173348
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 16.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.03703703703703704
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 468.7
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "THOUBAL",
+            "Code": 7038958,
+            "DealerName": "M/S EMA AGENCY",
+            "Position": [
+                24.6613405,
+                93.97811629
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 13.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0911111111111111
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 468.7073170731707
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7031637,
+            "DealerName": "IMA WANGTHONBI CEMENT AND STEEL STO",
+            "Position": [
+                24.7972462,
+                93.9162847
+            ],
+            "Volume": {
+                "Q1_23": 15.333333333333334,
+                "Q1_24": 20.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.05679012345679013,
+                "Q1_24": 0.07530864197530864
+            },
+            "Discount": {
+                "Q1_23": 358.124347826087,
+                "Q1_24": 172.88524590163934
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7031662,
+            "DealerName": "L MUHINDRO HARDWARE STORE",
+            "Position": [
+                24.6199601,
+                93.8898157
+            ],
+            "Volume": {
+                "Q1_23": 33.0,
+                "Q1_24": 0.16666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.08461538461538462,
+                "Q1_24": 0.00042735042735042735
+            },
+            "Discount": {
+                "Q1_23": 484.1840404040405,
+                "Q1_24": 405.1554545454546
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7026924,
+            "DealerName": "L.S. ENTERPRISES",
+            "Position": [
+                24.8231624,
+                93.9666836
+            ],
+            "Volume": {
+                "Q1_23": 5.0,
+                "Q1_24": 3.3333333333333335
+            },
+            "SOW": {
+                "Q1_23": 0.025641025641025644,
+                "Q1_24": 0.017094017094017096
+            },
+            "Discount": {
+                "Q1_23": 217.49866666666665,
+                "Q1_24": 421.8
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL WEST",
+            "Code": 7029142,
+            "DealerName": "DHANESHWORI TRADER",
+            "Position": [
+                24.8076422,
+                93.919885
+            ],
+            "Volume": {
+                "Q1_23": 23.333333333333332,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.02356902356902357,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 419.2711428571429,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "UKHRUL",
+            "Code": 7032364,
+            "DealerName": "A-Z CONSTRUCTION",
+            "Position": [
+                25.0937072,
+                94.3621333
+            ],
+            "Volume": {
+                "Q1_23": 17.333333333333332,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 451.24461538461543,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "CHURACHANDPUR",
+            "Code": 7031529,
+            "DealerName": "OASIS",
+            "Position": [
+                24.374622,
+                93.7062301
+            ],
+            "Volume": {
+                "Q1_23": 5.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.08333333333333334,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 217.49866666666665,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL WEST",
+            "Code": 7023080,
+            "DealerName": "THOUNA ENTERPRISES",
+            "Position": [
+                24.673623243984,
+                93.900278442745
+            ],
+            "Volume": {
+                "Q1_23": 5.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.03333333333333333,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 217.49866666666668,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "IMPHAL EAST",
+            "Code": 7030294,
+            "DealerName": "B.B. BROTHERS",
+            "Position": [
+                24.8047103,
+                93.1159356
+            ],
+            "Volume": {
+                "Q1_23": 0.6666666666666666,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 217.49,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "LAIMAYUM SURYANATH SHARMA",
+            "District": "CHURACHANDPUR",
+            "Code": 7031843,
+            "DealerName": "T.H. ENTERPRISES",
+            "Position": [
+                24.3513055,
+                93.7043272
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "manipur",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MAN",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "WAREPAM AMARJEET",
+            "District": "IMPHAL EAST",
+            "Code": 7015360,
+            "DealerName": "L.I & SONS ENTERPRISES",
+            "Position": [
+                26.178885,
+                91.8403678
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        }
+    ]
+}

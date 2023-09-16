@@ -1,0 +1,2188 @@
+{
+    "meghalaya": [
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7027279,
+            "DealerName": "G.D. HARDWARES",
+            "Position": [
+                25.5772525,
+                91.8725311
+            ],
+            "Volume": {
+                "Q1_23": 1857.3333333333333,
+                "Q1_24": 1908.6666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.1328564616118264,
+                "Q1_24": 0.13652837386742966
+            },
+            "Discount": {
+                "Q1_23": 553.3671795337514,
+                "Q1_24": 379.7065027258559
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7007702,
+            "DealerName": "MAWNGAP HARDWARE",
+            "Position": [
+                25.487801175719,
+                91.774206161499
+            ],
+            "Volume": {
+                "Q1_23": 931.3333333333334,
+                "Q1_24": 384.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.36522875816993466,
+                "Q1_24": 0.150718954248366
+            },
+            "Discount": {
+                "Q1_23": 622.6116264895362,
+                "Q1_24": 399.9612591058292
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008075,
+            "DealerName": "EF BEE HARDWARE",
+            "Position": [
+                25.559362287329,
+                91.908131539822
+            ],
+            "Volume": {
+                "Q1_23": 771.6666666666666,
+                "Q1_24": 935.3333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.25722222222222224,
+                "Q1_24": 0.31177777777777776
+            },
+            "Discount": {
+                "Q1_23": 614.2344651397057,
+                "Q1_24": 524.1178568812531
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008838,
+            "DealerName": "S KHARJANA",
+            "Position": [
+                25.5879847,
+                91.8994131
+            ],
+            "Volume": {
+                "Q1_23": 610.6666666666666,
+                "Q1_24": 806.6666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.18505050505050505,
+                "Q1_24": 0.2444444444444444
+            },
+            "Discount": {
+                "Q1_23": 581.5578208513245,
+                "Q1_24": 538.0265737565177
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008076,
+            "DealerName": "SHANKAR HARDWARE",
+            "Position": [
+                25.579175471651,
+                91.89243491739
+            ],
+            "Volume": {
+                "Q1_23": 612.0,
+                "Q1_24": 717.8333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.25660377358490566,
+                "Q1_24": 0.30097833682739344
+            },
+            "Discount": {
+                "Q1_23": 571.7849485275888,
+                "Q1_24": 483.5301789853783
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7031690,
+            "DealerName": "M KHONGJEE",
+            "Position": [
+                25.596198139395,
+                91.975573673844
+            ],
+            "Volume": {
+                "Q1_23": 592.6666666666666,
+                "Q1_24": 477.6666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.07316872427983538,
+                "Q1_24": 0.05897119341563786
+            },
+            "Discount": {
+                "Q1_23": 545.2200182789651,
+                "Q1_24": 426.8920609623945
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7028139,
+            "DealerName": "SHILLONG IRON & STEEL",
+            "Position": [
+                25.579064787508,
+                91.893006898463
+            ],
+            "Volume": {
+                "Q1_23": 209.33333333333334,
+                "Q1_24": 654.0
+            },
+            "SOW": {
+                "Q1_23": 0.10588433653684035,
+                "Q1_24": 0.330804248861912
+            },
+            "Discount": {
+                "Q1_23": 483.1405256225793,
+                "Q1_24": 414.0542139978885
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7027708,
+            "DealerName": "J.LANGSTIEH",
+            "Position": [
+                25.5656688,
+                91.875129
+            ],
+            "Volume": {
+                "Q1_23": 453.0,
+                "Q1_24": 514.6666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.2876190476190476,
+                "Q1_24": 0.32677248677248677
+            },
+            "Discount": {
+                "Q1_23": 490.9917068425172,
+                "Q1_24": 401.38845691019117
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7027500,
+            "DealerName": "PAKYNTEIN & SONS",
+            "Position": [
+                25.451243,
+                92.2007434
+            ],
+            "Volume": {
+                "Q1_23": 411.3333333333333,
+                "Q1_24": 585.0
+            },
+            "SOW": {
+                "Q1_23": 0.11425925925925927,
+                "Q1_24": 0.1625
+            },
+            "Discount": {
+                "Q1_23": 394.64431172742627,
+                "Q1_24": 337.923617014012
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7007371,
+            "DealerName": "BALAJI HARDWARE",
+            "Position": [
+                25.5591662,
+                91.9089524
+            ],
+            "Volume": {
+                "Q1_23": 359.3333333333333,
+                "Q1_24": 273.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.1330864197530864,
+                "Q1_24": 0.10123456790123456
+            },
+            "Discount": {
+                "Q1_23": 535.46182227761,
+                "Q1_24": 460.84953410846197
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7037008,
+            "DealerName": "W.K.ENTERPRISE",
+            "Position": [
+                25.562729589415,
+                91.853426881135
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 545.3333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.2818260120585702
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 261.47677108801946
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7037514,
+            "DealerName": "NGEITNGANSUK PHAWA",
+            "Position": [
+                25.5215078,
+                92.1551338
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 302.25
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.17675438596491228
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 290.1366459884201
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008097,
+            "DealerName": "L.R STEEL",
+            "Position": [
+                25.565520328455,
+                91.899870671332
+            ],
+            "Volume": {
+                "Q1_23": 95.33333333333333,
+                "Q1_24": 107.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.1425012456402591,
+                "Q1_24": 0.1609367214748381
+            },
+            "Discount": {
+                "Q1_23": 389.08209433699597,
+                "Q1_24": 224.7155489474011
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7025013,
+            "DealerName": "BASAIAWMOIT ENTERPRISE",
+            "Position": [
+                25.5607977,
+                91.6413942
+            ],
+            "Volume": {
+                "Q1_23": 186.5,
+                "Q1_24": 212.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.04656679151061174,
+                "Q1_24": 0.05310029130253849
+            },
+            "Discount": {
+                "Q1_23": 521.8804933153366,
+                "Q1_24": 540.7455452642891
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7015375,
+            "DealerName": "T.KHARKONGOR",
+            "Position": [
+                25.593738615961,
+                91.943499147892
+            ],
+            "Volume": {
+                "Q1_23": 210.66666666666666,
+                "Q1_24": 182.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.23407407407407405,
+                "Q1_24": 0.20296296296296296
+            },
+            "Discount": {
+                "Q1_23": 371.38453383077893,
+                "Q1_24": 342.45849068192933
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7034317,
+            "DealerName": "MAWKYRWAT HARDWARE",
+            "Position": [
+                25.368232662029,
+                91.459027156234
+            ],
+            "Volume": {
+                "Q1_23": 221.66666666666666,
+                "Q1_24": 243.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.15079365079365079,
+                "Q1_24": 0.1655328798185941
+            },
+            "Discount": {
+                "Q1_23": 440.42627085080926,
+                "Q1_24": 363.7575531919361
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7025678,
+            "DealerName": "MAHABIR STEEL AND HARDWARE",
+            "Position": [
+                25.512496066305,
+                90.217393375933
+            ],
+            "Volume": {
+                "Q1_23": 455.3333333333333,
+                "Q1_24": 351.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.27595959595959596,
+                "Q1_24": 0.2129292929292929
+            },
+            "Discount": {
+                "Q1_23": 445.73860907759877,
+                "Q1_24": 280.5141616959446
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7015521,
+            "DealerName": "S.KHARSYNTIEW HARDWARE",
+            "Position": [
+                25.5259056,
+                91.2588694
+            ],
+            "Volume": {
+                "Q1_23": 211.16666666666666,
+                "Q1_24": 310.0
+            },
+            "SOW": {
+                "Q1_23": 0.46925925925925926,
+                "Q1_24": 0.6888888888888889
+            },
+            "Discount": {
+                "Q1_23": 416.4504903314917,
+                "Q1_24": 412.0705388671063
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "SOUTH WEST KHASI HIL",
+            "Code": 7024501,
+            "DealerName": "KHRAWBOR LYNGKHOI",
+            "Position": [
+                25.368000907775,
+                91.460985839367
+            ],
+            "Volume": {
+                "Q1_23": 221.66666666666666,
+                "Q1_24": 280.0
+            },
+            "SOW": {
+                "Q1_23": 0.1664164164164164,
+                "Q1_24": 0.2102102102102102
+            },
+            "Discount": {
+                "Q1_23": 400.7521367187258,
+                "Q1_24": 400.07903537160803
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "RI BHOI",
+            "Code": 7007901,
+            "DealerName": "SHREE BALAJI HARDWARE",
+            "Position": [
+                26.044330984539,
+                91.868268549442
+            ],
+            "Volume": {
+                "Q1_23": 279.5833333333333,
+                "Q1_24": 223.75
+            },
+            "SOW": {
+                "Q1_23": 0.3106481481481481,
+                "Q1_24": 0.2486111111111111
+            },
+            "Discount": {
+                "Q1_23": 483.8988710192125,
+                "Q1_24": 332.6366041407938
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "EAST GARO HILLS",
+            "Code": 7023031,
+            "DealerName": "MARAK HARDWARE",
+            "Position": [
+                25.506358299408,
+                90.60736309737
+            ],
+            "Volume": {
+                "Q1_23": 207.5,
+                "Q1_24": 304.6666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.27666666666666667,
+                "Q1_24": 0.4062222222222222
+            },
+            "Discount": {
+                "Q1_23": 385.42568704796776,
+                "Q1_24": 356.86039858558445
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7007879,
+            "DealerName": "SHADAP HARDWARE",
+            "Position": [
+                25.455603,
+                92.2038396
+            ],
+            "Volume": {
+                "Q1_23": 132.33333333333334,
+                "Q1_24": 223.0
+            },
+            "SOW": {
+                "Q1_23": 0.10945685139233527,
+                "Q1_24": 0.18444995864350702
+            },
+            "Discount": {
+                "Q1_23": 347.5648125951169,
+                "Q1_24": 373.670014934787
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7029176,
+            "DealerName": "ANGEL POHTAM SOHSLEY",
+            "Position": [
+                25.295966835622,
+                92.123849205673
+            ],
+            "Volume": {
+                "Q1_23": 71.0,
+                "Q1_24": 214.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.1577777777777778,
+                "Q1_24": 0.47703703703703704
+            },
+            "Discount": {
+                "Q1_23": 375.6656021218074,
+                "Q1_24": 415.11029566349237
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7015481,
+            "DealerName": "TEILESFOR MARWEIN",
+            "Position": [
+                25.2317884,
+                91.5633499
+            ],
+            "Volume": {
+                "Q1_23": 97.0,
+                "Q1_24": 154.0
+            },
+            "SOW": {
+                "Q1_23": 0.2113289760348584,
+                "Q1_24": 0.3355119825708061
+            },
+            "Discount": {
+                "Q1_23": 472.52173669631,
+                "Q1_24": 573.9365629782754
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7007964,
+            "DealerName": "SWASTIM HARDWARE",
+            "Position": [
+                25.597310865124,
+                90.25276299566
+            ],
+            "Volume": {
+                "Q1_23": 260.0,
+                "Q1_24": 120.0
+            },
+            "SOW": {
+                "Q1_23": 0.1925925925925926,
+                "Q1_24": 0.08888888888888889
+            },
+            "Discount": {
+                "Q1_23": 410.8912069430431,
+                "Q1_24": 276.2418116438978
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008694,
+            "DealerName": "TEIKUPAR HARDWARE",
+            "Position": [
+                25.583803549745,
+                91.909699961543
+            ],
+            "Volume": {
+                "Q1_23": 140.33333333333334,
+                "Q1_24": 73.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.3118518518518519,
+                "Q1_24": 0.1637037037037037
+            },
+            "Discount": {
+                "Q1_23": 409.25760679299987,
+                "Q1_24": 450.53316299940354
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST JAINTIA HILLS",
+            "Code": 7035803,
+            "DealerName": "F/L HARDWARE",
+            "Position": [
+                25.362494417137,
+                92.362082675099
+            ],
+            "Volume": {
+                "Q1_23": 30.833333333333332,
+                "Q1_24": 132.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.05138888888888889,
+                "Q1_24": 0.22055555555555556
+            },
+            "Discount": {
+                "Q1_23": 357.20888680233236,
+                "Q1_24": 443.3258458873621
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008895,
+            "DealerName": "B.B.STEELS",
+            "Position": [
+                25.5803823,
+                91.8987361
+            ],
+            "Volume": {
+                "Q1_23": 93.66666666666667,
+                "Q1_24": 8.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.056256256256256264,
+                "Q1_24": 0.005005005005005006
+            },
+            "Discount": {
+                "Q1_23": 461.23996565606205,
+                "Q1_24": 107.08921832510129
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7007504,
+            "DealerName": "GOLDEN HARDWARE",
+            "Position": [
+                25.5772783,
+                91.9050195
+            ],
+            "Volume": {
+                "Q1_23": 114.83333333333333,
+                "Q1_24": 119.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.15311111111111111,
+                "Q1_24": 0.15955555555555556
+            },
+            "Discount": {
+                "Q1_23": 370.7048354218391,
+                "Q1_24": 335.37428369574945
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "RI BHOI",
+            "Code": 7008908,
+            "DealerName": "FANCON ENTERPRISE",
+            "Position": [
+                25.9022355,
+                91.876925
+            ],
+            "Volume": {
+                "Q1_23": 117.16666666666667,
+                "Q1_24": 105.0
+            },
+            "SOW": {
+                "Q1_23": 0.15622222222222223,
+                "Q1_24": 0.14
+            },
+            "Discount": {
+                "Q1_23": 337.2364407779959,
+                "Q1_24": 269.14097337073906
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7032733,
+            "DealerName": "DFG HARDWARE",
+            "Position": [
+                25.515078591353,
+                92.15776540339
+            ],
+            "Volume": {
+                "Q1_23": 65.66666666666667,
+                "Q1_24": 132.0
+            },
+            "SOW": {
+                "Q1_23": 0.07296296296296297,
+                "Q1_24": 0.14666666666666667
+            },
+            "Discount": {
+                "Q1_23": 340.1340142303089,
+                "Q1_24": 370.46020436772363
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7015213,
+            "DealerName": "SRI RAM TRADING",
+            "Position": [
+                25.5649084,
+                91.8746496
+            ],
+            "Volume": {
+                "Q1_23": 66.0,
+                "Q1_24": 124.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0830188679245283,
+                "Q1_24": 0.15681341719077568
+            },
+            "Discount": {
+                "Q1_23": 443.8354624096945,
+                "Q1_24": 411.7160149943647
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7025106,
+            "DealerName": "M.K. MARBLE",
+            "Position": [
+                25.5598624,
+                91.9082514
+            ],
+            "Volume": {
+                "Q1_23": 98.0,
+                "Q1_24": 114.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.09333333333333332,
+                "Q1_24": 0.10888888888888888
+            },
+            "Discount": {
+                "Q1_23": 323.62792327622134,
+                "Q1_24": 321.65540383987536
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7015497,
+            "DealerName": "M.MAWLONG",
+            "Position": [
+                25.562652583333,
+                91.853477472222
+            ],
+            "Volume": {
+                "Q1_23": 8.333333333333334,
+                "Q1_24": 83.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.010482180293501049,
+                "Q1_24": 0.10524109014675052
+            },
+            "Discount": {
+                "Q1_23": 431.24444359976087,
+                "Q1_24": 348.4986515678884
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7027495,
+            "DealerName": "VANSH ENTERPRISE",
+            "Position": [
+                25.57454,
+                91.8767984
+            ],
+            "Volume": {
+                "Q1_23": 71.0,
+                "Q1_24": 93.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.12456140350877194,
+                "Q1_24": 0.16432748538011696
+            },
+            "Discount": {
+                "Q1_23": 394.00527040112826,
+                "Q1_24": 445.6288076089541
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7040817,
+            "DealerName": "TEIKUPAR HARDWARE",
+            "Position": [
+                25.58380355,
+                91.90969996
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 41.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.09185185185185185
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7033911,
+            "DealerName": "M/S KHARBULI ENTERPRISE",
+            "Position": [
+                25.600326057918,
+                91.947178468108
+            ],
+            "Volume": {
+                "Q1_23": 95.66666666666667,
+                "Q1_24": 63.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.18222222222222223,
+                "Q1_24": 0.12126984126984126
+            },
+            "Discount": {
+                "Q1_23": 389.85894093800226,
+                "Q1_24": 298.98983263218474
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7036376,
+            "DealerName": "M/S MAJAW HARDWARE",
+            "Position": [
+                25.295927732183,
+                91.725048311055
+            ],
+            "Volume": {
+                "Q1_23": 32.666666666666664,
+                "Q1_24": 78.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.048180924287118974,
+                "Q1_24": 0.11602753195673551
+            },
+            "Discount": {
+                "Q1_23": 516.8101885854054,
+                "Q1_24": 379.908203978003
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "RI BHOI",
+            "Code": 7024985,
+            "DealerName": "ALMOST SYNGKLI",
+            "Position": [
+                25.885941587246,
+                91.61735996604
+            ],
+            "Volume": {
+                "Q1_23": 57.833333333333336,
+                "Q1_24": 70.0
+            },
+            "SOW": {
+                "Q1_23": 0.11339869281045752,
+                "Q1_24": 0.1372549019607843
+            },
+            "Discount": {
+                "Q1_23": 329.0006254015411,
+                "Q1_24": 366.52930232620145
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7008776,
+            "DealerName": "V.K HARDWARE",
+            "Position": [
+                25.1853607,
+                92.0219621
+            ],
+            "Volume": {
+                "Q1_23": 69.33333333333333,
+                "Q1_24": 86.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.25679012345679014,
+                "Q1_24": 0.32098765432098764
+            },
+            "Discount": {
+                "Q1_23": 217.49971153846155,
+                "Q1_24": 203.98236538461538
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "EAST GARO HILLS",
+            "Code": 7035185,
+            "DealerName": "M/S BERINA R.MARAK",
+            "Position": [
+                25.52113,
+                90.60543
+            ],
+            "Volume": {
+                "Q1_23": 33.333333333333336,
+                "Q1_24": 50.0
+            },
+            "SOW": {
+                "Q1_23": 0.11111111111111112,
+                "Q1_24": 0.16666666666666669
+            },
+            "Discount": {
+                "Q1_23": 326.2080227678382,
+                "Q1_24": 322.3567561011715
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST JAINTIA HILLS",
+            "Code": 7031609,
+            "DealerName": "NONGTDU HARDWARE",
+            "Position": [
+                25.370691653321,
+                92.327306829393
+            ],
+            "Volume": {
+                "Q1_23": 28.833333333333332,
+                "Q1_24": 73.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.024027777777777776,
+                "Q1_24": 0.06111111111111111
+            },
+            "Discount": {
+                "Q1_23": 202.89265173410405,
+                "Q1_24": 294.7502727272727
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7039488,
+            "DealerName": "M/S  D. KHYLLEP ENTERPRISE",
+            "Position": [
+                25.165319936677,
+                91.686993464828
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 76.08333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.1636200716845878
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 244.64043811610077
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7036647,
+            "DealerName": "LIDRA MARBANIANG",
+            "Position": [
+                25.55842917735,
+                91.629269644618
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 31.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.2111111111111111
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 304.85557894736843
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7025328,
+            "DealerName": "BUILDERS AGENCY",
+            "Position": [
+                25.7534602,
+                89.9788275
+            ],
+            "Volume": {
+                "Q1_23": 116.86666666666667,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 1.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 232.6725613234455,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "SOUTH WEST KHASI HIL",
+            "Code": 7034902,
+            "DealerName": "SKELAND NONGSIEJ",
+            "Position": [
+                25.365750293343,
+                91.464754343033
+            ],
+            "Volume": {
+                "Q1_23": 27.333333333333332,
+                "Q1_24": 60.0
+            },
+            "SOW": {
+                "Q1_23": 0.1822222222222222,
+                "Q1_24": 0.4
+            },
+            "Discount": {
+                "Q1_23": 264.8178353658537,
+                "Q1_24": 289.85269444444447
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7039060,
+            "DealerName": "RANJIS RYNTATHIANG",
+            "Position": [
+                25.531588493877,
+                91.821938753128
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 79.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.36377473363774737
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 216.32242677824266
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7036181,
+            "DealerName": "MAKSTERIO HARDWARE",
+            "Position": [
+                25.285694019778,
+                91.720138527453
+            ],
+            "Volume": {
+                "Q1_23": 49.0,
+                "Q1_24": 7.666666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.1361111111111111,
+                "Q1_24": 0.0212962962962963
+            },
+            "Discount": {
+                "Q1_23": 254.24649659863945,
+                "Q1_24": 218.74934782608693
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "SOUTH GARO HILLS",
+            "Code": 7008789,
+            "DealerName": "MONORANJAN DAS",
+            "Position": [
+                25.1947395,
+                90.6457395
+            ],
+            "Volume": {
+                "Q1_23": 315.1666666666667,
+                "Q1_24": 477.1666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.19101010101010102,
+                "Q1_24": 0.2891919191919192
+            },
+            "Discount": {
+                "Q1_23": 450.85147964742043,
+                "Q1_24": 391.3095111708988
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7028268,
+            "DealerName": "SPINGSHON MAWLIEH",
+            "Position": [
+                25.674322281372,
+                91.064450070262
+            ],
+            "Volume": {
+                "Q1_23": 20.333333333333332,
+                "Q1_24": 11.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.02800734618916437,
+                "Q1_24": 0.016069788797061522
+            },
+            "Discount": {
+                "Q1_23": 272.81688524590163,
+                "Q1_24": 281.2641428571428
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7008659,
+            "DealerName": "SHUBHAM ENTERPRISE",
+            "Position": [
+                25.5786678,
+                91.8933181
+            ],
+            "Volume": {
+                "Q1_23": 85.33333333333333,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 291.4865625,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7009002,
+            "DealerName": "MAA KALI HARDWARE STORES",
+            "Position": [
+                25.578899365935,
+                90.022875219584
+            ],
+            "Volume": {
+                "Q1_23": 86.66666666666667,
+                "Q1_24": 74.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.2888888888888889,
+                "Q1_24": 0.24722222222222226
+            },
+            "Discount": {
+                "Q1_23": 201.40738461538461,
+                "Q1_24": 150.26573033707865
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "SOUTH WEST KHASI HIL",
+            "Code": 7007646,
+            "DealerName": "LYNGDOH BROTHERS",
+            "Position": [
+                25.365625,
+                91.454548611111
+            ],
+            "Volume": {
+                "Q1_23": 35.0,
+                "Q1_24": 35.0
+            },
+            "SOW": {
+                "Q1_23": 0.16666666666666666,
+                "Q1_24": 0.16666666666666666
+            },
+            "Discount": {
+                "Q1_23": 238.3333809523809,
+                "Q1_24": 152.5270476190476
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "SOUTH WEST KHASI HIL",
+            "Code": 7035864,
+            "DealerName": "HAJONG HARDWARE",
+            "Position": [
+                25.202208,
+                91.291269
+            ],
+            "Volume": {
+                "Q1_23": 20.0,
+                "Q1_24": 58.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.12578616352201258,
+                "Q1_24": 0.36897274633123683
+            },
+            "Discount": {
+                "Q1_23": 231.36808333333332,
+                "Q1_24": 284.32833806818184
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7039335,
+            "DealerName": "KP HARDWARE",
+            "Position": [
+                25.59435577,
+                90.24924293
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 95.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.4222222222222222
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 222.64226315789472
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7025630,
+            "DealerName": "ARZOOFA HARDWARE",
+            "Position": [
+                25.886661,
+                90.0240919
+            ],
+            "Volume": {
+                "Q1_23": 57.666666666666664,
+                "Q1_24": 56.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.1922222222222222,
+                "Q1_24": 0.18888888888888888
+            },
+            "Discount": {
+                "Q1_23": 303.92112098646305,
+                "Q1_24": 266.9540154101285
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7026652,
+            "DealerName": "CHEAN ENTERPRISE",
+            "Position": [
+                25.484523171947,
+                90.224550850689
+            ],
+            "Volume": {
+                "Q1_23": 144.0,
+                "Q1_24": 60.0
+            },
+            "SOW": {
+                "Q1_23": 0.43636363636363634,
+                "Q1_24": 0.18181818181818182
+            },
+            "Discount": {
+                "Q1_23": 290.24555555555554,
+                "Q1_24": 251.01725000000002
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7025510,
+            "DealerName": "C.R AGENCY",
+            "Position": [
+                25.5981835,
+                90.2537941
+            ],
+            "Volume": {
+                "Q1_23": 56.666666666666664,
+                "Q1_24": 59.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.18888888888888888,
+                "Q1_24": 0.1988888888888889
+            },
+            "Discount": {
+                "Q1_23": 182.26529411764704,
+                "Q1_24": 238.4695251396648
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7034762,
+            "DealerName": "NONGRUM HARDWARE",
+            "Position": [
+                25.567509828301,
+                91.887293457985
+            ],
+            "Volume": {
+                "Q1_23": 20.333333333333332,
+                "Q1_24": 23.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0457957957957958,
+                "Q1_24": 0.052552552552552555
+            },
+            "Discount": {
+                "Q1_23": 240.19100409836068,
+                "Q1_24": 264.3550357142857
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7027840,
+            "DealerName": "WANPLI MAWA",
+            "Position": [
+                25.1677322,
+                91.689305
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 17.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.06481481481481481
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 154.0167619047619
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7015660,
+            "DealerName": "R.C SOHSHANG & SONS HARDWARE",
+            "Position": [
+                25.473992763195,
+                91.42916444689
+            ],
+            "Volume": {
+                "Q1_23": 8.666666666666666,
+                "Q1_24": 35.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.057777777777777775,
+                "Q1_24": 0.23777777777777775
+            },
+            "Discount": {
+                "Q1_23": 158.90625,
+                "Q1_24": 147.9848481308411
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7027796,
+            "DealerName": "SEMINGTON MARAK",
+            "Position": [
+                25.512529955687,
+                90.200218856335
+            ],
+            "Volume": {
+                "Q1_23": 65.0,
+                "Q1_24": 41.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.16666666666666669,
+                "Q1_24": 0.10683760683760683
+            },
+            "Discount": {
+                "Q1_23": 292.4963846153847,
+                "Q1_24": 191.97932
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7036492,
+            "DealerName": "M/S STEELS HOUSE",
+            "Position": [
+                25.51237,
+                90.19969
+            ],
+            "Volume": {
+                "Q1_23": 25.0,
+                "Q1_24": 33.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.016835016835016835,
+                "Q1_24": 0.022446689113355782
+            },
+            "Discount": {
+                "Q1_23": 569.3991567626964,
+                "Q1_24": 325.28662342936315
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7039025,
+            "DealerName": "SHUBHAM ENTERPRISES",
+            "Position": [
+                25.5794044,
+                91.89269878
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 26.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.11703703703703702
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 113.56835443037974
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "WEST KHASI HILLS",
+            "Code": 7037133,
+            "DealerName": "IAWPHNIAW HARDWARE",
+            "Position": [
+                25.414117300521,
+                91.360935755074
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 34.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.4444444444444444
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 179.68711538461537
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "EAST GARO HILLS",
+            "Code": 7039397,
+            "DealerName": "M/S ANNAPURNA TRADING CO.",
+            "Position": [
+                25.64938089,
+                90.79741873
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 49.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.5481481481481482
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 182.10135135135138
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7029417,
+            "DealerName": "SUNSHINE HARDWARE",
+            "Position": [
+                25.7919702,
+                89.977906
+            ],
+            "Volume": {
+                "Q1_23": 37.833333333333336,
+                "Q1_24": 56.0
+            },
+            "SOW": {
+                "Q1_23": 0.2101851851851852,
+                "Q1_24": 0.3111111111111111
+            },
+            "Discount": {
+                "Q1_23": 145.28138766519822,
+                "Q1_24": 202.93016369047615
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7027744,
+            "DealerName": "BASUDEO BHAGAT",
+            "Position": [
+                25.5133618,
+                90.2146477
+            ],
+            "Volume": {
+                "Q1_23": 61.666666666666664,
+                "Q1_24": 41.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.34259259259259256,
+                "Q1_24": 0.23148148148148145
+            },
+            "Discount": {
+                "Q1_23": 392.40738063063054,
+                "Q1_24": 357.54420009009004
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7035332,
+            "DealerName": "DREAMS BUILDERS",
+            "Position": [
+                25.521178092199,
+                90.174501501024
+            ],
+            "Volume": {
+                "Q1_23": 54.98333333333333,
+                "Q1_24": 45.0
+            },
+            "SOW": {
+                "Q1_23": 0.24437037037037035,
+                "Q1_24": 0.2
+            },
+            "Discount": {
+                "Q1_23": 195.9339421036678,
+                "Q1_24": 227.9057962962963
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7031864,
+            "DealerName": "MEGHALAYA IRON AND STEEL",
+            "Position": [
+                25.55968894972,
+                91.908246874809
+            ],
+            "Volume": {
+                "Q1_23": 42.333333333333336,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.013187954309449638,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 246.2231496062992,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7023482,
+            "DealerName": "S.S. ENTERPRISE",
+            "Position": [
+                25.9571779,
+                90.2117173
+            ],
+            "Volume": {
+                "Q1_23": 48.666666666666664,
+                "Q1_24": 50.0
+            },
+            "SOW": {
+                "Q1_23": 0.08538011695906432,
+                "Q1_24": 0.08771929824561404
+            },
+            "Discount": {
+                "Q1_23": 207.54210616438357,
+                "Q1_24": 230.57448333333335
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "WEST JAINTIA HILLS",
+            "Code": 7036681,
+            "DealerName": "SUCHIANG MULTIPURPOSE COOPERATIVE S",
+            "Position": [
+                25.556207,
+                92.527376
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.6666666666666667
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 359.37466666666666
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "DONBOK SUCHEN",
+            "District": "EAST KHASI HILLS",
+            "Code": 7039711,
+            "DealerName": "SHIMHOK LYNGDOH NONGBRI",
+            "Position": [
+                25.52435223,
+                91.88964073
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 8.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.10666666666666666
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 359.375
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "RAJDEEP SINGH",
+            "ASO": "KERDALIS KHARLYNGDOH",
+            "District": "EAST KHASI HILLS",
+            "Code": 7032902,
+            "DealerName": "M/S SAINI HARDWARE",
+            "Position": [
+                25.576520838519,
+                91.871335655451
+            ],
+            "Volume": {
+                "Q1_23": 15.333333333333334,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.04646464646464647,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 182.17260869565217,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7039274,
+            "DealerName": "M/S LUCKY HARDWARE STORE",
+            "Position": [
+                25.75585374,
+                89.9788662
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 16.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.05555555555555556
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 125.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "WEST GARO HILLS",
+            "Code": 7038967,
+            "DealerName": "M/S DEY HARDWARE",
+            "Position": [
+                25.86364857,
+                90.08163169
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 8.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.02923976608187135
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 253.64400000000006
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RAKHIBUL ISLAM",
+            "District": "SOUTH GARO HILLS",
+            "Code": 7014654,
+            "DealerName": "SANGMA HARDWARE",
+            "Position": [
+                25.20814,
+                90.6312249
+            ],
+            "Volume": {
+                "Q1_23": 48.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.16,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 148.05555555555554,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "meghalaya",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MGH",
+            "SH": "JAYANTA TARAFDAR",
+            "ASM": "TANBIR YAZDANI RAHMAN",
+            "ASO": "RIPU DAS",
+            "District": "WEST GARO HILLS",
+            "Code": 7013436,
+            "DealerName": "SURANJAN KARMARKAR",
+            "Position": [
+                25.230953759934,
+                90.210868902504
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        }
+    ]
+}

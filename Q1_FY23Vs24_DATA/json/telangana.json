@@ -1,0 +1,4176 @@
+{
+    "telangana": [
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "MANCHERIAL",
+            "Code": 7034524,
+            "DealerName": "SNEHA MARKETING",
+            "Position": [
+                17.47203,
+                78.425571
+            ],
+            "Volume": {
+                "Q1_23": 2710.0,
+                "Q1_24": 3336.3333333333335
+            },
+            "SOW": {
+                "Q1_23": 0.15055555555555555,
+                "Q1_24": 0.18535185185185185
+            },
+            "Discount": {
+                "Q1_23": 544.3965155556796,
+                "Q1_24": 393.73608816910973
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "NIRMAL",
+            "Code": 7034603,
+            "DealerName": "SAI CEMENT MARKETING",
+            "Position": [
+                19.0908486,
+                78.3443233
+            ],
+            "Volume": {
+                "Q1_23": 1520.3333333333333,
+                "Q1_24": 1329.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.12669444444444444,
+                "Q1_24": 0.11077777777777777
+            },
+            "Discount": {
+                "Q1_23": 577.1235067334385,
+                "Q1_24": 424.6513621699519
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "ADILABAD",
+            "Code": 7038995,
+            "DealerName": "M/S PAREKH CEMENT AGENCIES",
+            "Position": [
+                19.66906388,
+                78.53458241
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 400.6666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.26711111111111113
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 186.32279534109816
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7036324,
+            "DealerName": "NEHA SALES MARKETING",
+            "Position": [
+                18.674554,
+                78.106742
+            ],
+            "Volume": {
+                "Q1_23": 190.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.07916666666666666,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 293.7543859649123,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7040112,
+            "DealerName": "ANSAAR TRADERS",
+            "Position": [
+                18.78461031,
+                78.30144279
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 71.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0951111111111111
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 43.73831775700935
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "NIRMAL",
+            "Code": 7039585,
+            "DealerName": "CBR TRADERS",
+            "Position": [
+                19.08223419,
+                78.35998334
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 111.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.37111111111111106
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 103.7125748502994
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "ADILABAD",
+            "Code": 7039058,
+            "DealerName": "UMAIR TRADERS",
+            "Position": [
+                19.3734468,
+                78.7775317
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 86.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.2888888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 138.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "ADILABAD",
+            "Code": 7039027,
+            "DealerName": "MAHAVEER TRADERS",
+            "Position": [
+                19.49012779,
+                78.67541615
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 34.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.07703703703703703
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 45.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7040276,
+            "DealerName": "SRINIVASA TRADERS",
+            "Position": [
+                18.77294956,
+                78.24825492
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 60.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.08088888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 77.14285714285714
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "ADILABAD",
+            "Code": 7041035,
+            "DealerName": "SHARP TRADERS",
+            "Position": [
+                19.42697529,
+                78.45215075
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 27.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.12148148148148148
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "NIRMAL",
+            "Code": 7040269,
+            "DealerName": "SWATHI AGENCIES",
+            "Position": [
+                19.08839211,
+                78.34641069
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 27.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.009111111111111111
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7040071,
+            "DealerName": "M/S SHAMBHAVI TRADERS",
+            "Position": [
+                18.878729478775,
+                78.349553905427
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 53.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.05925925925925926
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 88.5
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7037731,
+            "DealerName": "EVEREST STEEL",
+            "Position": [
+                18.67426,
+                78.08863
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 36.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.06111111111111111
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 61.454545454545446
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "BANDUKWAR MAHESH",
+            "District": "ADILABAD",
+            "Code": 7039899,
+            "DealerName": "PRINCE TRADERS",
+            "Position": [
+                19.415175369505,
+                78.315027840435
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 52.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.2311111111111111
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 163.33333333333334
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "JAGTIAL",
+            "Code": 7038830,
+            "DealerName": "PRANAVA AGENCIES",
+            "Position": [
+                18.82856345684,
+                78.709733337164
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 58.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.06444444444444444
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 230.11494252873564
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7037538,
+            "DealerName": "SREE BALAJI ENTERPRISES",
+            "Position": [
+                18.697717639779,
+                78.125143535435
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 17.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.011555555555555555
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 180.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7036997,
+            "DealerName": "M/S VENKATASAI TRADERS",
+            "Position": [
+                18.612904773455,
+                77.97319304198
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 36.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.060555555555555564
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 131.37614678899084
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "PEDDAPALLI",
+            "Code": 7039864,
+            "DealerName": "JAYASRI TRADERS",
+            "Position": [
+                18.62042647,
+                79.39113345
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 39.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.052
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 128.54700854700855
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "RAJANNA SIRCILLA",
+            "Code": 7040751,
+            "DealerName": "MARUTHI SAI ENTERPRISES",
+            "Position": [
+                18.28159273,
+                78.71067144
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 31.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.04133333333333333
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 86.66666666666667
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "KAMAREDDY",
+            "Code": 7037018,
+            "DealerName": "S.S TRADERS",
+            "Position": [
+                18.402003,
+                77.704837
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 38.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.08444444444444445
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 180.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7036987,
+            "DealerName": "G N TRADERS",
+            "Position": [
+                18.677249,
+                78.080996
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 8.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.057777777777777775
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 259.99999999999994
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7037535,
+            "DealerName": "NSK STEEL AND CEMENTS",
+            "Position": [
+                18.702416189536,
+                78.444246277213
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 34.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.057777777777777775
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 129.99999999999997
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "JAGTIAL",
+            "Code": 7040171,
+            "DealerName": "M/S SURYA STEEL AND CEMENT TRADERS",
+            "Position": [
+                18.7670365,
+                78.91335189
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 8.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.011111111111111113
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "JAGTIAL",
+            "Code": 7040070,
+            "DealerName": "M/S SHIVA SAI TRADERS",
+            "Position": [
+                18.94346979,
+                79.09489654
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 30.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.051111111111111114
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 132.17391304347825
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "PEDDAPALLI",
+            "Code": 7039890,
+            "DealerName": "LAXMI  ENTERPRISES",
+            "Position": [
+                18.60038313,
+                79.56824575
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 31.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.06888888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 106.66666666666667
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "PEDDAPALLI",
+            "Code": 7039823,
+            "DealerName": "GOPI CHETTI VENKATESHAM CEMENT AND",
+            "Position": [
+                18.77504528,
+                79.44560844
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 18.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.02488888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 143.92857142857144
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7023191,
+            "DealerName": "SRI SAI THIRUMALA TRADERS",
+            "Position": [
+                16.4978646,
+                77.7907988
+            ],
+            "Volume": {
+                "Q1_23": 33.0,
+                "Q1_24": 42.0
+            },
+            "SOW": {
+                "Q1_23": 0.07913669064748201,
+                "Q1_24": 0.10071942446043165
+            },
+            "Discount": {
+                "Q1_23": 445.8228856538448,
+                "Q1_24": 200.8228856538448
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "JAYASHANKAR BHUPALPA",
+            "Code": 7039967,
+            "DealerName": "SRI SAI TRADERS BHUPALAPALLY",
+            "Position": [
+                18.43908018,
+                79.86840304
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 20.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.01377777777777778
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 160.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "RAJANNA SIRCILLA",
+            "Code": 7039603,
+            "DealerName": "SRI SRINIVASA TRADERS",
+            "Position": [
+                18.40238131,
+                78.81783206
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 29.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.024444444444444442
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 176.13636363636363
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "JOGULAMBA GADWAL",
+            "Code": 7034262,
+            "DealerName": "BHARGAV TRADERS",
+            "Position": [
+                15.951245062676,
+                77.842583879828
+            ],
+            "Volume": {
+                "Q1_23": 20.666666666666668,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.07654320987654321,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 360.64029627724807,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "SIDDIPET",
+            "Code": 7040190,
+            "DealerName": "ALAUDDIN BUILDING SOLUTIONS",
+            "Position": [
+                18.1038649,
+                78.85608036
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.004761904761904762
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 260.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "NIZAMABAD",
+            "Code": 7040110,
+            "DealerName": "SRI NIMBACHALA TRADERS",
+            "Position": [
+                18.70993455,
+                78.44482027
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 17.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.04814814814814815
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 80.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7036190,
+            "DealerName": "M/S NANDI CEMENT",
+            "Position": [
+                17.070052430076,
+                78.21389246732
+            ],
+            "Volume": {
+                "Q1_23": 54.666666666666664,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.05359477124183006,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 430.926437723439,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7019070,
+            "DealerName": "RK TRADERS",
+            "Position": [
+                16.3562975,
+                78.0635883
+            ],
+            "Volume": {
+                "Q1_23": 43.333333333333336,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.12037037037037038,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 374.6414831562463,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "WANAPARTHY",
+            "Code": 7037381,
+            "DealerName": "M/S. SRI RAGHAVENDRA TRADERS",
+            "Position": [
+                16.2045398,
+                77.9936723
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.00925925925925926
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7024794,
+            "DealerName": "SRI SRINIVASA TRADERS",
+            "Position": [
+                16.4458395,
+                77.8104596
+            ],
+            "Volume": {
+                "Q1_23": 109.33333333333333,
+                "Q1_24": 50.0
+            },
+            "SOW": {
+                "Q1_23": 0.16641298833079654,
+                "Q1_24": 0.07610350076103502
+            },
+            "Discount": {
+                "Q1_23": 369.097243995695,
+                "Q1_24": 406.80588627211785
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "ANIL KUMAR VYAS",
+            "District": "SIDDIPET",
+            "Code": 7040026,
+            "DealerName": "M/S SRINIVASA TRADERS, CEMENT AND I",
+            "Position": [
+                18.12453856,
+                79.21105932
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.034444444444444444
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 160.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "NAGARKURNOOL",
+            "Code": 7035762,
+            "DealerName": "SATHYAM TRADERS",
+            "Position": [
+                16.2691475957,
+                78.283751942217
+            ],
+            "Volume": {
+                "Q1_23": 10.666666666666666,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.059259259259259255,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 344.3623574731862,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "W",
+            "Zone": "telangana",
+            "ZH": "RAJESH KHANNA",
+            "State": "TLG (W)",
+            "SH": "RAJESH KHANNA",
+            "ASM": "MUKESH  KAMESHWAR JHA",
+            "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
+            "District": "KAMAREDDY",
+            "Code": 7037559,
+            "DealerName": "SHRI SIDDIRAJ MANIK PRABHU TRADERS",
+            "Position": [
+                18.430136010671,
+                79.134647548199
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 8.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.019259259259259257
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 160.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7018609,
+            "DealerName": "V.LAXMAIAH TRADERS",
+            "Position": [
+                16.2665287,
+                78.2858815
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.029629629629629627
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "NALGONDA",
+            "Code": 7035676,
+            "DealerName": "M/S NANDI CEMENT",
+            "Position": [
+                16.723945062124,
+                79.643425047398
+            ],
+            "Volume": {
+                "Q1_23": 164.33333333333334,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.16111111111111112,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 660.0403742989104,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "NAGARKURNOOL",
+            "Code": 7034879,
+            "DealerName": "MOKSHASRI ELECTRICALS, SANITARY & H",
+            "Position": [
+                16.444263308268,
+                78.460597358644
+            ],
+            "Volume": {
+                "Q1_23": 20.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.13333333333333333,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 304.88148315624625,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "JOGULAMBA GADWAL",
+            "Code": 7034489,
+            "DealerName": "LAKSHMI NARASIMHA TRADERS",
+            "Position": [
+                16.2255044,
+                77.8156263
+            ],
+            "Volume": {
+                "Q1_23": 28.0,
+                "Q1_24": 20.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.3111111111111111,
+                "Q1_24": 0.22592592592592592
+            },
+            "Discount": {
+                "Q1_23": 348.4224576855929,
+                "Q1_24": 200.57071685811442
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7037642,
+            "DealerName": "SUDHA IRON  HARD WARE",
+            "Position": [
+                16.40015545,
+                78.63910306
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 31.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.06962962962962962
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 146.42957446808506
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7039263,
+            "DealerName": "MOHAN TRADERS",
+            "Position": [
+                16.72989196,
+                78.00807048
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 64.41666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.026840277777777782
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 120.05174644243208
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "JOGULAMBA GADWAL",
+            "Code": 7034914,
+            "DealerName": "SRI JOGULAMBA AGENCY",
+            "Position": [
+                15.916364863531,
+                78.02085455507
+            ],
+            "Volume": {
+                "Q1_23": 30.666666666666668,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0851851851851852,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 365.72588734304185,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "KARIMNAGAR",
+            "Code": 7032373,
+            "DealerName": "LAXMI AGENCIES",
+            "Position": [
+                18.4803964,
+                78.8564378
+            ],
+            "Volume": {
+                "Q1_23": 44.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.029333333333333333,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 245.79057406533727,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7019703,
+            "DealerName": "JAYALAXMI TRADERS",
+            "Position": [
+                16.3384762,
+                77.8100005
+            ],
+            "Volume": {
+                "Q1_23": 32.0,
+                "Q1_24": 20.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.14222222222222222,
+                "Q1_24": 0.09037037037037036
+            },
+            "Discount": {
+                "Q1_23": 405.4465238066528,
+                "Q1_24": 441.6560320033741
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7040866,
+            "DealerName": "INDIAN TRADERS",
+            "Position": [
+                16.870523506504,
+                77.889961749315
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 3.9166666666666665
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0043518518518518515
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7025754,
+            "DealerName": "S.R.TRADERS",
+            "Position": [
+                16.751713558338,
+                77.982815466821
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.8333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.003968253968253968
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7031700,
+            "DealerName": "SREE VENKATESHWARA STEEL TRADERS",
+            "Position": [
+                17.261369441661,
+                78.387108184397
+            ],
+            "Volume": {
+                "Q1_23": 6.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.007547169811320755,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 329.32592760069076,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7028775,
+            "DealerName": "VARUN TRADERS",
+            "Position": [
+                17.054914955822,
+                78.203658163548
+            ],
+            "Volume": {
+                "Q1_23": 770.6666666666666,
+                "Q1_24": 1630.5666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.15111111111111108,
+                "Q1_24": 0.31971895424836605
+            },
+            "Discount": {
+                "Q1_23": 849.4300109702128,
+                "Q1_24": 735.2249135886091
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "HYDERABAD",
+            "Code": 7039381,
+            "DealerName": "SANTHI MARKETING",
+            "Position": [
+                17.4956534,
+                78.39627329
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 1554.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.25905555555555554
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 290.8526742440489
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7035384,
+            "DealerName": "VIGNESHWARA MARKETING",
+            "Position": [
+                17.056611203756,
+                78.204047083855
+            ],
+            "Volume": {
+                "Q1_23": 412.8333333333333,
+                "Q1_24": 584.75
+            },
+            "SOW": {
+                "Q1_23": 0.1965873015873016,
+                "Q1_24": 0.27845238095238095
+            },
+            "Discount": {
+                "Q1_23": 550.5101682269799,
+                "Q1_24": 502.50261439828
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7037338,
+            "DealerName": "VARMA STEELS PRIVATE LIMITED",
+            "Position": [
+                17.438420324074,
+                78.391288071871
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 824.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.09155555555555556
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 175.76456310679612
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7030861,
+            "DealerName": "SUBHASH MARKETING",
+            "Position": [
+                17.4617528,
+                78.3672168
+            ],
+            "Volume": {
+                "Q1_23": 869.9166666666666,
+                "Q1_24": 904.0666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.07435185185185185,
+                "Q1_24": 0.07727065527065527
+            },
+            "Discount": {
+                "Q1_23": 735.7449438789982,
+                "Q1_24": 633.430399167866
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7032224,
+            "DealerName": "G K R TRADERS",
+            "Position": [
+                17.3442289,
+                78.5300076
+            ],
+            "Volume": {
+                "Q1_23": 151.83333333333334,
+                "Q1_24": 517.85
+            },
+            "SOW": {
+                "Q1_23": 0.08435185185185186,
+                "Q1_24": 0.2876944444444445
+            },
+            "Discount": {
+                "Q1_23": 619.1741813512266,
+                "Q1_24": 671.5016671163633
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "SANGAREDDY",
+            "Code": 7037675,
+            "DealerName": "SAI THIRUMALA STEEL TRADERS",
+            "Position": [
+                17.503029614787,
+                78.311245925725
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 515.6666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.08594444444444445
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 227.6443956043956
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7030825,
+            "DealerName": "GREEN LAND TRADERS",
+            "Position": [
+                17.597443818082,
+                78.569004870951
+            ],
+            "Volume": {
+                "Q1_23": 829.2666666666668,
+                "Q1_24": 926.2333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.10051717171717174,
+                "Q1_24": 0.11227070707070706
+            },
+            "Discount": {
+                "Q1_23": 763.6508029641773,
+                "Q1_24": 645.7483211949578
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7032658,
+            "DealerName": "SRI SAI GANESH AGENCIES",
+            "Position": [
+                17.5136811,
+                78.4913547
+            ],
+            "Volume": {
+                "Q1_23": 202.5,
+                "Q1_24": 718.4166666666666
+            },
+            "SOW": {
+                "Q1_23": 0.05625,
+                "Q1_24": 0.19956018518518517
+            },
+            "Discount": {
+                "Q1_23": 660.3508850374362,
+                "Q1_24": 556.5677991379937
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7029752,
+            "DealerName": "LALITHA TRADERS",
+            "Position": [
+                16.60403991667,
+                77.738233543932
+            ],
+            "Volume": {
+                "Q1_23": 233.01666666666665,
+                "Q1_24": 407.5
+            },
+            "SOW": {
+                "Q1_23": 0.1583018563888543,
+                "Q1_24": 0.2768385944286881
+            },
+            "Discount": {
+                "Q1_23": 550.2235342468146,
+                "Q1_24": 487.6525458112967
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7018037,
+            "DealerName": "SHIRIDI SAI TRADERS",
+            "Position": [
+                16.602973853828,
+                77.730186246336
+            ],
+            "Volume": {
+                "Q1_23": 306.95,
+                "Q1_24": 324.53333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.1550252525252525,
+                "Q1_24": 0.16390572390572392
+            },
+            "Discount": {
+                "Q1_23": 563.7327355730325,
+                "Q1_24": 485.6382878879798
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7032790,
+            "DealerName": "VENKATA NAVNEETH ENTERPRISES LLP",
+            "Position": [
+                17.56267200898,
+                78.366425670683
+            ],
+            "Volume": {
+                "Q1_23": 232.0,
+                "Q1_24": 271.1666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.17984496124031008,
+                "Q1_24": 0.21020671834625326
+            },
+            "Discount": {
+                "Q1_23": 703.4465318420944,
+                "Q1_24": 576.0348919152847
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7019123,
+            "DealerName": "HYDERABAD SALES AGENCIES",
+            "Position": [
+                17.404314549888,
+                78.460620157421
+            ],
+            "Volume": {
+                "Q1_23": 239.08333333333334,
+                "Q1_24": 113.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.15938888888888889,
+                "Q1_24": 0.07544444444444444
+            },
+            "Discount": {
+                "Q1_23": 693.0620695634624,
+                "Q1_24": 537.4483150981018
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7036635,
+            "DealerName": "SAI CHAITANYA STEEL AGENCIES",
+            "Position": [
+                16.774106617612,
+                78.128044679761
+            ],
+            "Volume": {
+                "Q1_23": 23.333333333333332,
+                "Q1_24": 187.86666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.018970189701897018,
+                "Q1_24": 0.15273712737127373
+            },
+            "Discount": {
+                "Q1_23": 389.2726892903177,
+                "Q1_24": 338.1197794251651
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7039802,
+            "DealerName": "CINCO ENTERPRISES",
+            "Position": [
+                17.48958765,
+                78.48321006
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 335.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.07451851851851851
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 200.4852286282306
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7031329,
+            "DealerName": "VEENUS CORPORATION",
+            "Position": [
+                17.542932026531,
+                78.297022506595
+            ],
+            "Volume": {
+                "Q1_23": 85.66666666666667,
+                "Q1_24": 82.0
+            },
+            "SOW": {
+                "Q1_23": 0.28555555555555556,
+                "Q1_24": 0.2733333333333333
+            },
+            "Discount": {
+                "Q1_23": 609.2201975928439,
+                "Q1_24": 453.4296499986518
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7031870,
+            "DealerName": "VENKATA SHIVA SAI FERTILIZERS AND P",
+            "Position": [
+                16.555535145054,
+                77.612486556172
+            ],
+            "Volume": {
+                "Q1_23": 74.33333333333333,
+                "Q1_24": 156.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.12110350820028237,
+                "Q1_24": 0.2546975127620289
+            },
+            "Discount": {
+                "Q1_23": 489.8149993549211,
+                "Q1_24": 455.86376258553287
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7032392,
+            "DealerName": "TRIMURTHI CEMENT DISTRIBUTORS",
+            "Position": [
+                17.391242847623,
+                78.477422855794
+            ],
+            "Volume": {
+                "Q1_23": 71.66666666666667,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.015925925925925927,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 824.421644018058,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7031084,
+            "DealerName": "PS TRADING COMPANY",
+            "Position": [
+                16.7172388,
+                78.0264246
+            ],
+            "Volume": {
+                "Q1_23": 47.666666666666664,
+                "Q1_24": 39.76666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.025341130604288498,
+                "Q1_24": 0.02114123693071062
+            },
+            "Discount": {
+                "Q1_23": 305.893184600926,
+                "Q1_24": 291.28209426628166
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7027307,
+            "DealerName": "NEW SRI SAI BALAJI TRADERS",
+            "Position": [
+                16.4770374,
+                77.6779985
+            ],
+            "Volume": {
+                "Q1_23": 94.33333333333333,
+                "Q1_24": 123.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.2096296296296296,
+                "Q1_24": 0.2748148148148148
+            },
+            "Discount": {
+                "Q1_23": 396.67881579703163,
+                "Q1_24": 310.4469393862233
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7034801,
+            "DealerName": "QUALITY STEEL TRADERS",
+            "Position": [
+                17.522793123815,
+                78.501471877098
+            ],
+            "Volume": {
+                "Q1_23": 112.96666666666665,
+                "Q1_24": 78.5
+            },
+            "SOW": {
+                "Q1_23": 0.09297668038408778,
+                "Q1_24": 0.0646090534979424
+            },
+            "Discount": {
+                "Q1_23": 534.7534103310269,
+                "Q1_24": 279.6081100182251
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "NAGARKURNOOL",
+            "Code": 7036202,
+            "DealerName": "M/S R.K.STEEL PROFILES.",
+            "Position": [
+                16.668580304536,
+                78.495884500444
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 12.966666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.004802469135802469
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 184.20874035989718
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039615,
+            "DealerName": "AMBI STEEL AND CEMENT",
+            "Position": [
+                17.2917945,
+                78.61112494
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 250.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.27814814814814814
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 178.5235952063915
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "SANGAREDDY",
+            "Code": 7034867,
+            "DealerName": "SREE GAYATRI TRADERS",
+            "Position": [
+                17.681764922789,
+                77.630404047668
+            ],
+            "Volume": {
+                "Q1_23": 64.0,
+                "Q1_24": 42.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.042666666666666665,
+                "Q1_24": 0.028444444444444442
+            },
+            "Discount": {
+                "Q1_23": 481.71765550093573,
+                "Q1_24": 391.30098883426905
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7027898,
+            "DealerName": "HARIKA TRADERS",
+            "Position": [
+                16.4841274,
+                78.3205674
+            ],
+            "Volume": {
+                "Q1_23": 30.0,
+                "Q1_24": 101.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.06666666666666667,
+                "Q1_24": 0.22592592592592595
+            },
+            "Discount": {
+                "Q1_23": 362.2417914414101,
+                "Q1_24": 263.5269499113555
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7039198,
+            "DealerName": "SHAKTI AGENCIES",
+            "Position": [
+                17.50878252,
+                78.37682795
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 41.916666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.055888888888888884
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 168.16954274353876
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7037696,
+            "DealerName": "SHREE LAKSHMI NRUSIMHAA TRADING COM",
+            "Position": [
+                17.547761731293,
+                78.465085364878
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 210.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.15592592592592594
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 230.66859857482186
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7019299,
+            "DealerName": "SRI SAI BABA AGENCIES",
+            "Position": [
+                17.48944119482,
+                78.497807309032
+            ],
+            "Volume": {
+                "Q1_23": 76.16666666666667,
+                "Q1_24": 128.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.10155555555555555,
+                "Q1_24": 0.1711111111111111
+            },
+            "Discount": {
+                "Q1_23": 461.72935354998225,
+                "Q1_24": 356.905087330425
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7033222,
+            "DealerName": "SAIRAM CEMENT AGENCIES",
+            "Position": [
+                17.5119514,
+                78.3501396
+            ],
+            "Volume": {
+                "Q1_23": 94.25,
+                "Q1_24": 152.01666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.07854166666666668,
+                "Q1_24": 0.12668055555555557
+            },
+            "Discount": {
+                "Q1_23": 471.5380882368464,
+                "Q1_24": 411.51189580735115
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RAJANNA SIRCILLA",
+            "Code": 7033126,
+            "DealerName": "VENKATESHWARA TRADERS",
+            "Position": [
+                18.382780459802,
+                78.799286931753
+            ],
+            "Volume": {
+                "Q1_23": 87.66666666666667,
+                "Q1_24": 32.0
+            },
+            "SOW": {
+                "Q1_23": 0.4174603174603175,
+                "Q1_24": 0.15238095238095237
+            },
+            "Discount": {
+                "Q1_23": 354.2501184046737,
+                "Q1_24": 294.7478726822403
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7030497,
+            "DealerName": "JAI HANUMAN TRADERS",
+            "Position": [
+                16.740908,
+                77.5044006
+            ],
+            "Volume": {
+                "Q1_23": 58.666666666666664,
+                "Q1_24": 87.56666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.19555555555555554,
+                "Q1_24": 0.29188888888888886
+            },
+            "Discount": {
+                "Q1_23": 413.1758872296064,
+                "Q1_24": 312.20954124213364
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7036179,
+            "DealerName": "SREE ASSOCIATES",
+            "Position": [
+                17.42626242553,
+                78.458573967218
+            ],
+            "Volume": {
+                "Q1_23": 26.666666666666668,
+                "Q1_24": 185.83333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.008888888888888889,
+                "Q1_24": 0.06194444444444445
+            },
+            "Discount": {
+                "Q1_23": 512.9885710094671,
+                "Q1_24": 514.7925665251622
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "NAGARKURNOOL",
+            "Code": 7032816,
+            "DealerName": "S V TRADERS",
+            "Position": [
+                16.668185,
+                78.495789
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 31.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.035
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 275.23809523809524
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7031877,
+            "DealerName": "S.V.ENTERPRISES",
+            "Position": [
+                17.417908358977,
+                78.542897924781
+            ],
+            "Volume": {
+                "Q1_23": 42.583333333333336,
+                "Q1_24": 227.76666666666665
+            },
+            "SOW": {
+                "Q1_23": 0.046187436218142856,
+                "Q1_24": 0.2470440326251038
+            },
+            "Discount": {
+                "Q1_23": 436.2647361027102,
+                "Q1_24": 452.15675935925003
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "BHADRADRI KOTHAGUDEM",
+            "Code": 7040843,
+            "DealerName": "JAIKISHAN STEEL SYNDICATE",
+            "Position": [
+                17.555175147953,
+                80.615716092289
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 33.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.11111111111111112
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "YADADRI BHUVANAGIRI",
+            "Code": 7035936,
+            "DealerName": "SRITHAN STEEL & CEMENT TRADERS",
+            "Position": [
+                17.254453197698,
+                78.907484896481
+            ],
+            "Volume": {
+                "Q1_23": 75.33333333333333,
+                "Q1_24": 67.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.1477124183006536,
+                "Q1_24": 0.13169934640522876
+            },
+            "Discount": {
+                "Q1_23": 526.1480793479295,
+                "Q1_24": 399.9663889287284
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7031328,
+            "DealerName": "CEMENT WORLD",
+            "Position": [
+                17.428038755014,
+                78.550119102001
+            ],
+            "Volume": {
+                "Q1_23": 122.33333333333333,
+                "Q1_24": 28.0
+            },
+            "SOW": {
+                "Q1_23": 0.030892255892255895,
+                "Q1_24": 0.007070707070707071
+            },
+            "Discount": {
+                "Q1_23": 505.604560842011,
+                "Q1_24": 328.68680555460986
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7024657,
+            "DealerName": "ATHIDHI TRADERS",
+            "Position": [
+                16.6203938,
+                77.8351569
+            ],
+            "Volume": {
+                "Q1_23": 32.666666666666664,
+                "Q1_24": 38.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.07259259259259258,
+                "Q1_24": 0.0851851851851852
+            },
+            "Discount": {
+                "Q1_23": 374.2162917784905,
+                "Q1_24": 280.6620202611879
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7029990,
+            "DealerName": "K NAGESHWAR RAO CEMENT AGENCY",
+            "Position": [
+                17.429543487373,
+                78.533756621182
+            ],
+            "Volume": {
+                "Q1_23": 121.16666666666667,
+                "Q1_24": 12.833333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.04038888888888889,
+                "Q1_24": 0.004277777777777778
+            },
+            "Discount": {
+                "Q1_23": 382.5147427150471,
+                "Q1_24": 193.21196846041585
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7017709,
+            "DealerName": "SRI JAGADAMBA STEEL TRADERS",
+            "Position": [
+                17.477616412627,
+                78.473787792027
+            ],
+            "Volume": {
+                "Q1_23": 112.75,
+                "Q1_24": 37.166666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.07091194968553459,
+                "Q1_24": 0.023375262054507333
+            },
+            "Discount": {
+                "Q1_23": 438.9818379847663,
+                "Q1_24": 357.43661159862563
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7034263,
+            "DealerName": "MATHA JEE ENTERPRISES",
+            "Position": [
+                17.554001667558,
+                78.36199298501
+            ],
+            "Volume": {
+                "Q1_23": 109.83333333333333,
+                "Q1_24": 23.166666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.18305555555555553,
+                "Q1_24": 0.03861111111111111
+            },
+            "Discount": {
+                "Q1_23": 480.63899698225174,
+                "Q1_24": 257.5466530122078
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7031327,
+            "DealerName": "SRI GANESH TRADERS",
+            "Position": [
+                17.496142959753,
+                78.368443697691
+            ],
+            "Volume": {
+                "Q1_23": 24.5,
+                "Q1_24": 7.166666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.008166666666666666,
+                "Q1_24": 0.0023888888888888887
+            },
+            "Discount": {
+                "Q1_23": 446.69515559491873,
+                "Q1_24": 365.0259640113086
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7017701,
+            "DealerName": "BHAGYALAXMI ENTERPRISES",
+            "Position": [
+                17.372523575123,
+                78.543493375182
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 66.51666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.006759823848238482
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 274.3103983963918
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "HYDERABAD",
+            "Code": 7036513,
+            "DealerName": "KUMARAN CEMENT AGENCY",
+            "Position": [
+                17.394860478829,
+                78.501235842705
+            ],
+            "Volume": {
+                "Q1_23": 6.666666666666667,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.011111111111111112,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 431.4085120515871,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "YADADRI BHUVANAGIRI",
+            "Code": 7035903,
+            "DealerName": "M/S MALLIKARJUNA TRADERS",
+            "Position": [
+                17.503586623997,
+                78.888263851404
+            ],
+            "Volume": {
+                "Q1_23": 31.0,
+                "Q1_24": 26.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.07380952380952381,
+                "Q1_24": 0.0626984126984127
+            },
+            "Discount": {
+                "Q1_23": 319.8332814506475,
+                "Q1_24": 276.9455803481567
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "SANGAREDDY",
+            "Code": 7034479,
+            "DealerName": "REDDY TRADERS",
+            "Position": [
+                18.0367665,
+                77.7786431
+            ],
+            "Volume": {
+                "Q1_23": 43.666666666666664,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.22743055555555555,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 487.5160496076067,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "WANAPARTHY",
+            "Code": 7033597,
+            "DealerName": "M/S BHAGAVATHI SANITARY  &  HARD WA",
+            "Position": [
+                16.201112738784,
+                77.996695563197
+            ],
+            "Volume": {
+                "Q1_23": 10.333333333333334,
+                "Q1_24": 37.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.014657210401891253,
+                "Q1_24": 0.05342789598108747
+            },
+            "Discount": {
+                "Q1_23": 279.5857842315151,
+                "Q1_24": 329.4528524587489
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "MEDAK",
+            "Code": 7039594,
+            "DealerName": "M/S AYYAPPA TRADERS",
+            "Position": [
+                17.83260381,
+                78.47677074
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 54.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.036
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 236.4885185185185
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7036713,
+            "DealerName": "M/S KEERTHI STEEL TRADERS",
+            "Position": [
+                17.333198,
+                78.525998
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 54.86666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.01828888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 103.9232077764277
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "SANGAREDDY",
+            "Code": 7036329,
+            "DealerName": "SRI HANUMAN STEEL TRADERS",
+            "Position": [
+                17.557324218049,
+                78.261684067547
+            ],
+            "Volume": {
+                "Q1_23": 4.166666666666667,
+                "Q1_24": 33.9
+            },
+            "SOW": {
+                "Q1_23": 0.006944444444444445,
+                "Q1_24": 0.056499999999999995
+            },
+            "Discount": {
+                "Q1_23": 344.573790848554,
+                "Q1_24": 263.4257082526838
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7017825,
+            "DealerName": "A LAXMAIAH & SONS",
+            "Position": [
+                16.6221016,
+                77.8384897
+            ],
+            "Volume": {
+                "Q1_23": 10.333333333333334,
+                "Q1_24": 14.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.009841269841269842,
+                "Q1_24": 0.013650793650793651
+            },
+            "Discount": {
+                "Q1_23": 356.8838812377811,
+                "Q1_24": 345.4885324005718
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7031108,
+            "DealerName": "NEENV ENTERPRISES",
+            "Position": [
+                17.399821,
+                78.5061807
+            ],
+            "Volume": {
+                "Q1_23": 14.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.015053763440860216,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 385.67513394989714,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7039608,
+            "DealerName": "SRI AYYAPPA TRADERS",
+            "Position": [
+                16.69940671,
+                78.05317618
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 23.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.04930555555555556
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 71.72901408450704
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7018095,
+            "DealerName": "JAI HANUMAN HARDWARE",
+            "Position": [
+                16.50931547,
+                77.52200317
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 5.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.016666666666666666
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "HYDERABAD",
+            "Code": 7034759,
+            "DealerName": "APARAJITHA ENGINEERING AND CONSTRUC",
+            "Position": [
+                17.435149337892,
+                78.452080003917
+            ],
+            "Volume": {
+                "Q1_23": 20.666666666666668,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.06888888888888889,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 288.2148164895796,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7040157,
+            "DealerName": "GURU BASAVA MARKETING",
+            "Position": [
+                17.36356546,
+                78.42959907
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 24.816666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.08272222222222222
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 152.85426460711886
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "PEDDAPALLI",
+            "Code": 7033105,
+            "DealerName": "SHIVA SAI IRON & HARDWARE",
+            "Position": [
+                18.6485077,
+                79.6693307
+            ],
+            "Volume": {
+                "Q1_23": 21.333333333333332,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.017777777777777778,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 359.4648164895797,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7038943,
+            "DealerName": "BHARAT STEELS",
+            "Position": [
+                17.54755171,
+                78.36216163
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 3.6666666666666665
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.012222222222222221
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 32.72727272727273
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7036558,
+            "DealerName": "VINAYAKA ASSOCIATES",
+            "Position": [
+                17.412112,
+                78.642404
+            ],
+            "Volume": {
+                "Q1_23": 15.333333333333334,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.030065359477124187,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 338.3135724213483,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7031043,
+            "DealerName": "SRI BALAJI STEEL & CEMENTS",
+            "Position": [
+                17.426248030568,
+                78.515501841903
+            ],
+            "Volume": {
+                "Q1_23": 35.333333333333336,
+                "Q1_24": 13.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.05234567901234568,
+                "Q1_24": 0.019753086419753086
+            },
+            "Discount": {
+                "Q1_23": 322.10433214801185,
+                "Q1_24": 185.73894535555905
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7035600,
+            "DealerName": "JAY ENTERPRISES",
+            "Position": [
+                17.425344344628,
+                78.402481265366
+            ],
+            "Volume": {
+                "Q1_23": 13.666666666666666,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.014936247723132968,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 387.5978867908709,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7018271,
+            "DealerName": "SRI SAI MARBLES",
+            "Position": [
+                16.3756155,
+                77.9422611
+            ],
+            "Volume": {
+                "Q1_23": 13.333333333333334,
+                "Q1_24": 8.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.14814814814814817,
+                "Q1_24": 0.0925925925925926
+            },
+            "Discount": {
+                "Q1_23": 284.7148164895797,
+                "Q1_24": 260.62441648957963
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039502,
+            "DealerName": "SAI BALAJI STEEL HOUSE",
+            "Position": [
+                17.327912649985,
+                78.601233288646
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 30.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.025555555555555557
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 169.99478260869566
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "HYDERABAD",
+            "Code": 7039199,
+            "DealerName": "SRI DEVI AGENCIES",
+            "Position": [
+                17.5028208,
+                78.3967028
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 17.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.011555555555555555
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 97.6923076923077
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039414,
+            "DealerName": "KYR INFRA",
+            "Position": [
+                17.3395903,
+                78.52477156
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 25.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.01688888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 191.73236842105268
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7035956,
+            "DealerName": "S S TRADERS",
+            "Position": [
+                17.322039457042,
+                78.611637242138
+            ],
+            "Volume": {
+                "Q1_23": 107.26666666666667,
+                "Q1_24": 118.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.08720867208672087,
+                "Q1_24": 0.09607046070460705
+            },
+            "Discount": {
+                "Q1_23": 465.42652819524,
+                "Q1_24": 417.8446161542787
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "HYDERABAD",
+            "Code": 7034163,
+            "DealerName": "SRI VENKATA SAAI AGENCIES",
+            "Position": [
+                17.446495819809,
+                78.44910543412
+            ],
+            "Volume": {
+                "Q1_23": 35.166666666666664,
+                "Q1_24": 10.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.06895424836601306,
+                "Q1_24": 0.020261437908496733
+            },
+            "Discount": {
+                "Q1_23": 286.85916759778974,
+                "Q1_24": 239.80550607814445
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "HYDERABAD",
+            "Code": 7037456,
+            "DealerName": "LAKSHMI NARSIMHA TRADERS",
+            "Position": [
+                17.389382652808,
+                78.540268689394
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 6.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.04
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 26.666666666666664
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "HYDERABAD",
+            "Code": 7039979,
+            "DealerName": "M/S MANJU MARKETING",
+            "Position": [
+                17.434650336212,
+                78.400293923914
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 35.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.011888888888888888
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 301.49532710280374
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7035699,
+            "DealerName": "M/S DEEPA ENTERPRISES",
+            "Position": [
+                17.495517497727,
+                78.608289845288
+            ],
+            "Volume": {
+                "Q1_23": 23.333333333333332,
+                "Q1_24": 4.066666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.017094017094017092,
+                "Q1_24": 0.002979242979242979
+            },
+            "Discount": {
+                "Q1_23": 275.06805368351087,
+                "Q1_24": 320.4966251120823
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7030851,
+            "DealerName": "VENKATARAMANA STEEL SYNDICATE",
+            "Position": [
+                17.5188081,
+                78.5017336
+            ],
+            "Volume": {
+                "Q1_23": 17.5,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.029166666666666664,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 362.6376159123791,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7039255,
+            "DealerName": "ANEESH ENTERPRISES",
+            "Position": [
+                17.4712229,
+                78.42983007
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 6.166666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.02055555555555556
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 58.37837837837838
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7020908,
+            "DealerName": "SRI VENKATESHWARA MARKETING",
+            "Position": [
+                17.479932374192,
+                78.590248636901
+            ],
+            "Volume": {
+                "Q1_23": 31.666666666666668,
+                "Q1_24": 23.0
+            },
+            "SOW": {
+                "Q1_23": 0.021111111111111112,
+                "Q1_24": 0.015333333333333334
+            },
+            "Discount": {
+                "Q1_23": 390.2772237515156,
+                "Q1_24": 289.3832496859168
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039266,
+            "DealerName": "JAI RAM STEELS",
+            "Position": [
+                17.33742586,
+                78.55060425
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 20.833333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.008680555555555554
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 115.37631999999999
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7032445,
+            "DealerName": "DIVYANI MARKETING",
+            "Position": [
+                17.565714713238,
+                78.486171551049
+            ],
+            "Volume": {
+                "Q1_23": 3.3333333333333335,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0007610350076103501,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 161.71481648957965,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "RANGA REDDY",
+            "Code": 7034309,
+            "DealerName": "JAI HANUMAN STEEL AND CEMENT TRADER",
+            "Position": [
+                17.301364644574,
+                78.450336232781
+            ],
+            "Volume": {
+                "Q1_23": 4.666666666666667,
+                "Q1_24": 4.166666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.01037037037037037,
+                "Q1_24": 0.00925925925925926
+            },
+            "Discount": {
+                "Q1_23": 168.21481648957965,
+                "Q1_24": 88.21481648957966
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039012,
+            "DealerName": "SSMK ENTERPRISES",
+            "Position": [
+                17.4060447,
+                78.37797929
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 3.3333333333333335
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.022222222222222223
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039606,
+            "DealerName": "MOHAN TRADERS",
+            "Position": [
+                17.5016697,
+                78.5885736
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.006666666666666667
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 24.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7030852,
+            "DealerName": "VAISHNAVI TRADING COMPANY",
+            "Position": [
+                17.4641639,
+                78.5036163
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 12.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.04166666666666667
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 171.42773333333335
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7040116,
+            "DealerName": "VEERABHADRA ENTERPRISES",
+            "Position": [
+                17.36697308,
+                78.53807934
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.013333333333333334
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 216.66666666666666
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "HYDERABAD",
+            "Code": 7039421,
+            "DealerName": "MAYANK MARKETING ASSOCIATES",
+            "Position": [
+                17.39303008,
+                78.51087604
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 1.1666666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0003888888888888889
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 60.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "HYDERABAD",
+            "Code": 7034670,
+            "DealerName": "MANGA CONSTRUCTIONS",
+            "Position": [
+                17.443581300228,
+                78.58190562576
+            ],
+            "Volume": {
+                "Q1_23": 1.6666666666666667,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.003703703703703704,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 168.21481648957968,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "YADADRI BHUVANAGIRI",
+            "Code": 7039794,
+            "DealerName": "JAGANNATH TRADERS",
+            "Position": [
+                17.34452845,
+                78.81799567
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 4.166666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.005555555555555557
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 92.44
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "RANGA REDDY",
+            "Code": 7035338,
+            "DealerName": "LAKSHMI TRADERS",
+            "Position": [
+                17.506585875003,
+                78.382560163736
+            ],
+            "Volume": {
+                "Q1_23": 3.3333333333333335,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.006944444444444445,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 315.58323754221124,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039510,
+            "DealerName": "GVR STEELS",
+            "Position": [
+                17.29792603,
+                78.53230823
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 4.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0027272727272727275
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 48.888888888888886
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7039577,
+            "DealerName": "SHIRDI SAI STEELS",
+            "Position": [
+                17.31505379,
+                78.55270308
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 3.5
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0010606060606060607
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 57.142857142857146
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SANJAY R",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7035485,
+            "DealerName": "M/S SAI SRINIVASA MARKETING ASSOCIA",
+            "Position": [
+                17.357125071979,
+                78.555269613862
+            ],
+            "Volume": {
+                "Q1_23": 72.0,
+                "Q1_24": 23.833333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.031088082901554404,
+                "Q1_24": 0.010290731145653424
+            },
+            "Discount": {
+                "Q1_23": 350.64743277051053,
+                "Q1_24": 230.92627244935022
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "JOGULAMBA GADWAL",
+            "Code": 7037415,
+            "DealerName": "BSR TRADERS",
+            "Position": [
+                16.021040094208,
+                77.668231576681
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7031153,
+            "DealerName": "M G ASSOCIATES",
+            "Position": [
+                17.3331795,
+                78.5552606
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "MAHABUBNAGAR",
+            "Code": 7030607,
+            "DealerName": "GULZAR TRADERS",
+            "Position": [
+                16.4993638,
+                77.5075971
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "SANGAREDDY",
+            "Code": 7036534,
+            "DealerName": "M/S SRI SRINIVASA TRADERS",
+            "Position": [
+                17.553977,
+                78.30301
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "RANGA REDDY",
+            "Code": 7036241,
+            "DealerName": "M/S NANDI CEMENT",
+            "Position": [
+                17.0700607,
+                78.2137832
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
+            "District": "WARANGAL (URBAN)",
+            "Code": 7036858,
+            "DealerName": "SRI SRINIVASA CEMENT AND IRON MERCH",
+            "Position": [
+                17.968925,
+                79.494814
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "WANAPARTHY",
+            "Code": 7037002,
+            "DealerName": "M/S AK TRADERS",
+            "Position": [
+                16.365531281856,
+                78.058749474585
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "CHINTAKUNTA BHARATH KUMAR",
+            "District": "WANAPARTHY",
+            "Code": 7036521,
+            "DealerName": "M/S. SRIRAMA TRADERS",
+            "Position": [
+                16.029855161459,
+                78.172408752143
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "MEDAK",
+            "Code": 7031294,
+            "DealerName": "SRI TULAJA BHAVANI TRADERS",
+            "Position": [
+                17.619881,
+                77.941036
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "SREENIVASULU DEVARINTI",
+            "District": "KARIMNAGAR",
+            "Code": 7032074,
+            "DealerName": "LAXMI NARASIMHA TRADERS",
+            "Position": [
+                18.42643129572,
+                79.124680459499
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "S",
+            "Zone": "telangana",
+            "ZH": "SUNIL AGGARWAL",
+            "State": "TLG",
+            "SH": "CHANDRA SEKHAR DV",
+            "ASM": "RAJU LODE",
+            "ASO": "MADHU KOKA",
+            "District": "NALGONDA",
+            "Code": 7034365,
+            "DealerName": "SRI SAI TEJA CEMENT TRADERS",
+            "Position": [
+                17.469199,
+                78.793617
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        }
+    ]
+}

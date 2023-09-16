@@ -1,0 +1,1432 @@
+{
+    "mizoram": [
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7026109,
+            "DealerName": "DAVID ESS STEEL FABRICATION",
+            "Position": [
+                22.8773034,
+                92.750589
+            ],
+            "Volume": {
+                "Q1_23": 395.3333333333333,
+                "Q1_24": 452.0
+            },
+            "SOW": {
+                "Q1_23": 0.26355555555555554,
+                "Q1_24": 0.30133333333333334
+            },
+            "Discount": {
+                "Q1_23": 339.9917987185359,
+                "Q1_24": 275.89216781074737
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7030483,
+            "DealerName": "CEMENT SUPPLY AGENCY",
+            "Position": [
+                23.7483806,
+                92.7353179
+            ],
+            "Volume": {
+                "Q1_23": 250.25,
+                "Q1_24": 472.5833333333333
+            },
+            "SOW": {
+                "Q1_23": 0.20854166666666668,
+                "Q1_24": 0.39381944444444444
+            },
+            "Discount": {
+                "Q1_23": 317.7863170163171,
+                "Q1_24": 289.369101569388
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7026856,
+            "DealerName": "SAMNOMAR",
+            "Position": [
+                23.7412295,
+                92.7185697
+            ],
+            "Volume": {
+                "Q1_23": 205.6,
+                "Q1_24": 440.73333333333335
+            },
+            "SOW": {
+                "Q1_23": 0.1958095238095238,
+                "Q1_24": 0.4197460317460318
+            },
+            "Discount": {
+                "Q1_23": 321.3430016976933,
+                "Q1_24": 291.5167994483078
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "KOLASIB",
+            "Code": 7036803,
+            "DealerName": "SHRI ELECTRICALS & HARDWARES",
+            "Position": [
+                24.2308,
+                92.67834
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 382.06666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.849037037037037
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 224.94910574070843
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7027204,
+            "DealerName": "CHHUNDENG ENTERPRISE",
+            "Position": [
+                23.7762313,
+                92.730109
+            ],
+            "Volume": {
+                "Q1_23": 316.15000000000003,
+                "Q1_24": 124.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.13172916666666667,
+                "Q1_24": 0.051805555555555556
+            },
+            "Discount": {
+                "Q1_23": 216.40080130739636,
+                "Q1_24": 144.94696045576404
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7024830,
+            "DealerName": "MS ENTERPRISE",
+            "Position": [
+                23.7203431,
+                92.7264582
+            ],
+            "Volume": {
+                "Q1_23": 386.6666666666667,
+                "Q1_24": 292.21666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.10740740740740741,
+                "Q1_24": 0.0811712962962963
+            },
+            "Discount": {
+                "Q1_23": 219.83815517241376,
+                "Q1_24": 217.45030646642684
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "MAMIT",
+            "Code": 7034391,
+            "DealerName": "SAIA ENTERPRISE",
+            "Position": [
+                24.224214821502,
+                92.308569923043
+            ],
+            "Volume": {
+                "Q1_23": 116.5,
+                "Q1_24": 190.0
+            },
+            "SOW": {
+                "Q1_23": 0.19416666666666668,
+                "Q1_24": 0.31666666666666665
+            },
+            "Discount": {
+                "Q1_23": 421.8371994322571,
+                "Q1_24": 382.1642102183424
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7035828,
+            "DealerName": "MIDLAND BUSINESS ENTERPRISE",
+            "Position": [
+                23.751185031523,
+                92.722890749574
+            ],
+            "Volume": {
+                "Q1_23": 182.66666666666666,
+                "Q1_24": 221.16666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.3044444444444444,
+                "Q1_24": 0.36861111111111106
+            },
+            "Discount": {
+                "Q1_23": 426.83774260282087,
+                "Q1_24": 326.0118302628188
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7036824,
+            "DealerName": "ZUALTEA BUSINESS CENTRE",
+            "Position": [
+                23.750772,
+                92.734785
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 227.16666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.12620370370370368
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 215.56164526779165
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7009632,
+            "DealerName": "NUTEI HARDWARE",
+            "Position": [
+                22.97665,
+                92.9286265
+            ],
+            "Volume": {
+                "Q1_23": 142.0,
+                "Q1_24": 103.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.1577777777777778,
+                "Q1_24": 0.11462962962962964
+            },
+            "Discount": {
+                "Q1_23": 302.97045136650667,
+                "Q1_24": 165.4915206361905
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7024782,
+            "DealerName": "AMY TRADING",
+            "Position": [
+                23.724357029263,
+                92.718352116644
+            ],
+            "Volume": {
+                "Q1_23": 160.66666666666666,
+                "Q1_24": 187.25
+            },
+            "SOW": {
+                "Q1_23": 0.08239316239316238,
+                "Q1_24": 0.09602564102564103
+            },
+            "Discount": {
+                "Q1_23": 231.46760892116185,
+                "Q1_24": 220.9570766577659
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7036792,
+            "DealerName": "JANATA STORE",
+            "Position": [
+                22.8931126,
+                92.7466253
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 166.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.18481481481481482
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 186.5889879759519
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7032106,
+            "DealerName": "R R ENTERPRISE",
+            "Position": [
+                23.735484140441,
+                92.746096216142
+            ],
+            "Volume": {
+                "Q1_23": 250.33333333333334,
+                "Q1_24": 77.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.046358024691358024,
+                "Q1_24": 0.014290123456790125
+            },
+            "Discount": {
+                "Q1_23": 431.85752447709416,
+                "Q1_24": 258.65493032617076
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7028013,
+            "DealerName": "CHHAKCHHUAK HARDWARE STORE",
+            "Position": [
+                22.8920016,
+                92.7460462
+            ],
+            "Volume": {
+                "Q1_23": 79.33333333333333,
+                "Q1_24": 93.0
+            },
+            "SOW": {
+                "Q1_23": 0.10577777777777778,
+                "Q1_24": 0.124
+            },
+            "Discount": {
+                "Q1_23": 284.07791809689127,
+                "Q1_24": 294.19164509306614
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7008014,
+            "DealerName": "HAUZEL ENTERPRISE",
+            "Position": [
+                23.7512559,
+                92.7335912
+            ],
+            "Volume": {
+                "Q1_23": 199.08333333333334,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 282.44520719966516,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7036823,
+            "DealerName": "JENNY ENTERPRISE",
+            "Position": [
+                23.750547641668,
+                92.734670341015
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 128.41666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.04280555555555555
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 250.1136632057106
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7007610,
+            "DealerName": "KIM KIM HARDWARE",
+            "Position": [
+                23.7107947,
+                92.7195329
+            ],
+            "Volume": {
+                "Q1_23": 76.16666666666667,
+                "Q1_24": 82.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.03173611111111111,
+                "Q1_24": 0.03423611111111111
+            },
+            "Discount": {
+                "Q1_23": 173.55037199124723,
+                "Q1_24": 78.28311359026368
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7028423,
+            "DealerName": "URBAN CONSTRUCTION ENTERPRISE",
+            "Position": [
+                22.8954313,
+                92.7488987
+            ],
+            "Volume": {
+                "Q1_23": 75.16666666666667,
+                "Q1_24": 100.0
+            },
+            "SOW": {
+                "Q1_23": 0.2505555555555556,
+                "Q1_24": 0.33333333333333337
+            },
+            "Discount": {
+                "Q1_23": 316.6816235472055,
+                "Q1_24": 276.09520652946713
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7007329,
+            "DealerName": "ANGELAS ENTERPRISE",
+            "Position": [
+                23.7192586,
+                92.7178066
+            ],
+            "Volume": {
+                "Q1_23": 85.33333333333333,
+                "Q1_24": 64.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.09481481481481481,
+                "Q1_24": 0.07148148148148148
+            },
+            "Discount": {
+                "Q1_23": 309.4708803562265,
+                "Q1_24": 246.7890417875736
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7037522,
+            "DealerName": "LRS CENTRE",
+            "Position": [
+                23.7434428,
+                92.7385464
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 18.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.013333333333333334
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 313.00444444444446
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7009251,
+            "DealerName": "SAM ENTERPRISE",
+            "Position": [
+                23.7218697,
+                92.7174298
+            ],
+            "Volume": {
+                "Q1_23": 90.08333333333333,
+                "Q1_24": 70.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.25023148148148144,
+                "Q1_24": 0.1962962962962963
+            },
+            "Discount": {
+                "Q1_23": 228.04403330249767,
+                "Q1_24": 139.14909787735849
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7030530,
+            "DealerName": "NORTHEAST CONSULTANCY SERVICES",
+            "Position": [
+                23.732,
+                92.7161774
+            ],
+            "Volume": {
+                "Q1_23": 74.75,
+                "Q1_24": 59.916666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.24916666666666668,
+                "Q1_24": 0.19972222222222222
+            },
+            "Discount": {
+                "Q1_23": 318.087190295955,
+                "Q1_24": 203.80462892231424
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7007441,
+            "DealerName": "D3 ENTERPRISE",
+            "Position": [
+                23.7546254,
+                92.7304882
+            ],
+            "Volume": {
+                "Q1_23": 27.0,
+                "Q1_24": 13.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.03461538461538462,
+                "Q1_24": 0.017094017094017096
+            },
+            "Discount": {
+                "Q1_23": 217.2140432098765,
+                "Q1_24": 23.437500000000004
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "CHAMPHAI",
+            "Code": 7034821,
+            "DealerName": "EMMANUEL ENTERPRISE",
+            "Position": [
+                23.4726687,
+                93.3383624
+            ],
+            "Volume": {
+                "Q1_23": 48.5,
+                "Q1_24": 105.83333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.08083333333333334,
+                "Q1_24": 0.1763888888888889
+            },
+            "Discount": {
+                "Q1_23": 278.2072594501718,
+                "Q1_24": 225.91601968503937
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7008968,
+            "DealerName": "PUII ENTERPRISE",
+            "Position": [
+                23.7350337,
+                92.7144905
+            ],
+            "Volume": {
+                "Q1_23": 41.833333333333336,
+                "Q1_24": 70.0
+            },
+            "SOW": {
+                "Q1_23": 0.06972222222222223,
+                "Q1_24": 0.11666666666666665
+            },
+            "Discount": {
+                "Q1_23": 231.2150547808765,
+                "Q1_24": 199.42929761904765
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LAWNGTLAI",
+            "Code": 7027890,
+            "DealerName": "MP HARDWARE",
+            "Position": [
+                22.5328178,
+                92.8977449
+            ],
+            "Volume": {
+                "Q1_23": 123.33333333333333,
+                "Q1_24": 118.0
+            },
+            "SOW": {
+                "Q1_23": 0.20555555555555555,
+                "Q1_24": 0.19666666666666668
+            },
+            "Discount": {
+                "Q1_23": 353.0725768249315,
+                "Q1_24": 331.53726387638966
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7007634,
+            "DealerName": "LALHRIMA SAILO & SONS",
+            "Position": [
+                22.8920915,
+                92.7449724
+            ],
+            "Volume": {
+                "Q1_23": 71.33333333333333,
+                "Q1_24": 96.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.23777777777777775,
+                "Q1_24": 0.3222222222222222
+            },
+            "Discount": {
+                "Q1_23": 314.5291622304996,
+                "Q1_24": 263.3816468421657
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7033612,
+            "DealerName": "MANEIHI ENTERPRISE",
+            "Position": [
+                23.731854804797,
+                92.742168791592
+            ],
+            "Volume": {
+                "Q1_23": 58.916666666666664,
+                "Q1_24": 57.449999999999996
+            },
+            "SOW": {
+                "Q1_23": 0.13092592592592592,
+                "Q1_24": 0.12766666666666665
+            },
+            "Discount": {
+                "Q1_23": 274.3565417256012,
+                "Q1_24": 210.16626776907447
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7009633,
+            "DealerName": "H.LALZAMI STORE",
+            "Position": [
+                22.9101946,
+                92.7566703
+            ],
+            "Volume": {
+                "Q1_23": 55.0,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.12222222222222222,
+                "Q1_24": 0.022222222222222223
+            },
+            "Discount": {
+                "Q1_23": 208.70828787878787,
+                "Q1_24": 227.8235
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LAWNGTLAI",
+            "Code": 7035799,
+            "DealerName": "SALEM STORE",
+            "Position": [
+                22.5328284,
+                92.8976816
+            ],
+            "Volume": {
+                "Q1_23": 27.333333333333332,
+                "Q1_24": 71.75
+            },
+            "SOW": {
+                "Q1_23": 0.06074074074074074,
+                "Q1_24": 0.15944444444444444
+            },
+            "Discount": {
+                "Q1_23": 255.54167681358558,
+                "Q1_24": 297.2759741422731
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7007417,
+            "DealerName": "CAPITAL CEMENT CENTER",
+            "Position": [
+                22.8823131,
+                92.7483333
+            ],
+            "Volume": {
+                "Q1_23": 44.0,
+                "Q1_24": 42.0
+            },
+            "SOW": {
+                "Q1_23": 0.08627450980392157,
+                "Q1_24": 0.08235294117647059
+            },
+            "Discount": {
+                "Q1_23": 214.53712121212124,
+                "Q1_24": 295.52865079365085
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "SAIHA",
+            "Code": 7026110,
+            "DealerName": "HARRY HARDWARE",
+            "Position": [
+                22.4882819,
+                92.9788165
+            ],
+            "Volume": {
+                "Q1_23": 94.33333333333333,
+                "Q1_24": 18.833333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.6288888888888888,
+                "Q1_24": 0.12555555555555556
+            },
+            "Discount": {
+                "Q1_23": 297.2927027521002,
+                "Q1_24": 321.3329571377908
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7008513,
+            "DealerName": "SUNIL  CHOUDHURY & SONS",
+            "Position": [
+                22.8950498,
+                92.7484933
+            ],
+            "Volume": {
+                "Q1_23": 38.166666666666664,
+                "Q1_24": 58.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.10601851851851851,
+                "Q1_24": 0.16203703703703706
+            },
+            "Discount": {
+                "Q1_23": 188.3981713973799,
+                "Q1_24": 171.90730714285712
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7036990,
+            "DealerName": "SANGTEA HARDWARE",
+            "Position": [
+                22.8686351,
+                92.7643008
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 60.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.4
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 190.4153333333333
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7032108,
+            "DealerName": "BK STORE",
+            "Position": [
+                22.8891963,
+                92.7460554
+            ],
+            "Volume": {
+                "Q1_23": 62.666666666666664,
+                "Q1_24": 60.5
+            },
+            "SOW": {
+                "Q1_23": 0.13925925925925925,
+                "Q1_24": 0.13444444444444445
+            },
+            "Discount": {
+                "Q1_23": 362.78890223050985,
+                "Q1_24": 300.3291815224623
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7037405,
+            "DealerName": "MIMI HARDWARE",
+            "Position": [
+                22.9083864,
+                92.4674014
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 54.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.21437908496732025
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 280.4580487804878
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7029820,
+            "DealerName": "PEK PEK HARDWARE",
+            "Position": [
+                22.8881939,
+                92.7459483
+            ],
+            "Volume": {
+                "Q1_23": 34.0,
+                "Q1_24": 45.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.14166666666666666,
+                "Q1_24": 0.1888888888888889
+            },
+            "Discount": {
+                "Q1_23": 186.93075980392157,
+                "Q1_24": 191.31360294117647
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7032140,
+            "DealerName": "RUAT RUATI ENTERPRISE",
+            "Position": [
+                23.757523162197,
+                92.730502188206
+            ],
+            "Volume": {
+                "Q1_23": 33.333333333333336,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.03174603174603175,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 147.5512,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "CHAMPHAI",
+            "Code": 7035994,
+            "DealerName": "ZR ENTERPRISE",
+            "Position": [
+                23.4799624,
+                93.3298918
+            ],
+            "Volume": {
+                "Q1_23": 25.0,
+                "Q1_24": 65.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.08333333333333334,
+                "Q1_24": 0.21722222222222226
+            },
+            "Discount": {
+                "Q1_23": 254.99946666666665,
+                "Q1_24": 267.2826790281329
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "KOLASIB",
+            "Code": 7035215,
+            "DealerName": "M/S CHHAKCHHUAK ENTERPRISE",
+            "Position": [
+                22.892125219582,
+                92.746070735157
+            ],
+            "Volume": {
+                "Q1_23": 25.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.08333333333333334,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 187.46800000000002,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7032529,
+            "DealerName": "SIBY FARMS",
+            "Position": [
+                23.7147189,
+                92.7186353
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 22.333333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.09305555555555554
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 190.29582089552238
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LAWNGTLAI",
+            "Code": 7027712,
+            "DealerName": "INDIA TRADERS",
+            "Position": [
+                22.525689048761,
+                92.896230518818
+            ],
+            "Volume": {
+                "Q1_23": 13.0,
+                "Q1_24": 10.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.1733333333333333,
+                "Q1_24": 0.14222222222222222
+            },
+            "Discount": {
+                "Q1_23": 103.52564102564102,
+                "Q1_24": 107.79734374999998
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LAWNGTLAI",
+            "Code": 7026277,
+            "DealerName": "TWO BROTHERS",
+            "Position": [
+                22.618795,
+                92.6452183
+            ],
+            "Volume": {
+                "Q1_23": 7.666666666666667,
+                "Q1_24": 6.0
+            },
+            "SOW": {
+                "Q1_23": 0.10222222222222223,
+                "Q1_24": 0.08
+            },
+            "Discount": {
+                "Q1_23": 186.2478260869565,
+                "Q1_24": 206.73888888888888
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "SERCHHIP",
+            "Code": 7036003,
+            "DealerName": "MS TRADERS",
+            "Position": [
+                23.1297843,
+                93.0608868
+            ],
+            "Volume": {
+                "Q1_23": 17.666666666666668,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 245.43396226415095,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7033613,
+            "DealerName": "VINCO ENTERPRISE",
+            "Position": [
+                23.755249891207,
+                92.717089802027
+            ],
+            "Volume": {
+                "Q1_23": 2.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.006666666666666666,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7037411,
+            "DealerName": "M/S SB STORE",
+            "Position": [
+                22.9072749,
+                92.4660132
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 11.666666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.07777777777777778
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 160.71371428571427
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "SERCHHIP",
+            "Code": 7027693,
+            "DealerName": "L&C HARDWARE STORE",
+            "Position": [
+                23.3360607,
+                92.854803
+            ],
+            "Volume": {
+                "Q1_23": 12.333333333333334,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 211.54054054054058,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LAWNGTLAI",
+            "Code": 7041012,
+            "DealerName": "N.I.HARDWARE",
+            "Position": [
+                23.74104411728,
+                92.719495743513
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 6.666666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.044444444444444446
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "LUNGLEI",
+            "Code": 7008074,
+            "DealerName": "SANG SANG HARDWARE",
+            "Position": [
+                22.881149,
+                92.7486311
+            ],
+            "Volume": {
+                "Q1_23": 26.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 156.5623076923077,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7041011,
+            "DealerName": "LUSHAI CORNER",
+            "Position": [
+                23.739042479294,
+                92.694917321205
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 3.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.02
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "mizoram",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "MIZ",
+            "SH": "GOPAL CHANDRA PARIDA",
+            "ASM": "DORENDRAJIT NONGMEIKAPAM",
+            "ASO": "SAIKAT DHAR",
+            "District": "AIZAWL",
+            "Code": 7023435,
+            "DealerName": "CHHANGTE TRADERS",
+            "Position": [
+                23.731298,
+                92.755659
+            ],
+            "Volume": {
+                "Q1_23": 0.8333333333333334,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.002777777777777778,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            }
+        }
+    ]
+}

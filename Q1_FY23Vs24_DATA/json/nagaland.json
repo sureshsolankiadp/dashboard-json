@@ -1,0 +1,704 @@
+{
+    "nagaland": [
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "KOHIMA",
+            "Code": 7014951,
+            "DealerName": "L.K HARDWARE",
+            "Position": [
+                25.65914096218,
+                94.09815620631
+            ],
+            "Volume": {
+                "Q1_23": 1091.6666666666667,
+                "Q1_24": 790.0
+            },
+            "SOW": {
+                "Q1_23": 0.2425925925925926,
+                "Q1_24": 0.17555555555555555
+            },
+            "Discount": {
+                "Q1_23": 401.57840011741285,
+                "Q1_24": 321.2277478482725
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7030418,
+            "DealerName": "PRAJAPAT SUPPLIER",
+            "Position": [
+                25.8187879,
+                93.782038
+            ],
+            "Volume": {
+                "Q1_23": 480.0,
+                "Q1_24": 226.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.32,
+                "Q1_24": 0.1511111111111111
+            },
+            "Discount": {
+                "Q1_23": 535.974185065883,
+                "Q1_24": 464.26171529464125
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7028863,
+            "DealerName": "SHRI BALAJI ENTERPRISES",
+            "Position": [
+                25.860216459762,
+                93.768112063408
+            ],
+            "Volume": {
+                "Q1_23": 550.0,
+                "Q1_24": 652.8833333333333
+            },
+            "SOW": {
+                "Q1_23": 0.3055555555555556,
+                "Q1_24": 0.36271296296296296
+            },
+            "Discount": {
+                "Q1_23": 472.47184488358806,
+                "Q1_24": 375.00906728538155
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7024499,
+            "DealerName": "ROBIN ZHIMOMI",
+            "Position": [
+                25.90880188698,
+                93.716311566532
+            ],
+            "Volume": {
+                "Q1_23": 315.0,
+                "Q1_24": 331.5
+            },
+            "SOW": {
+                "Q1_23": 0.21,
+                "Q1_24": 0.221
+            },
+            "Discount": {
+                "Q1_23": 450.42720767195766,
+                "Q1_24": 361.90437300988776
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7028036,
+            "DealerName": "NAGALAND HARDWARE STORE",
+            "Position": [
+                25.900110699319,
+                93.753122203052
+            ],
+            "Volume": {
+                "Q1_23": 370.0,
+                "Q1_24": 150.0
+            },
+            "SOW": {
+                "Q1_23": 0.35238095238095235,
+                "Q1_24": 0.14285714285714285
+            },
+            "Discount": {
+                "Q1_23": 511.56441682166803,
+                "Q1_24": 372.56391351836464
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7036828,
+            "DealerName": "M/S M.M. ENTERPRISES",
+            "Position": [
+                25.862633972067,
+                93.795864209533
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 203.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.4518518518518519
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 276.3431639344261
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "KOHIMA",
+            "Code": 7015328,
+            "DealerName": "T.T. ENTERPRISE",
+            "Position": [
+                25.6602012,
+                94.0996601
+            ],
+            "Volume": {
+                "Q1_23": 341.6666666666667,
+                "Q1_24": 225.0
+            },
+            "SOW": {
+                "Q1_23": 0.37962962962962965,
+                "Q1_24": 0.25
+            },
+            "Discount": {
+                "Q1_23": 331.86759024390244,
+                "Q1_24": 288.285738934056
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "KOHIMA",
+            "Code": 7031432,
+            "DealerName": "HALLELUJAH ENTERPRISE",
+            "Position": [
+                25.7198088,
+                94.0486287
+            ],
+            "Volume": {
+                "Q1_23": 223.33333333333334,
+                "Q1_24": 188.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.14888888888888888,
+                "Q1_24": 0.12555555555555556
+            },
+            "Discount": {
+                "Q1_23": 369.3136738757206,
+                "Q1_24": 275.6156522141172
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7034135,
+            "DealerName": "M/S CITY CROWN ENTERPRISES",
+            "Position": [
+                25.914921946978,
+                93.708975054324
+            ],
+            "Volume": {
+                "Q1_23": 320.0,
+                "Q1_24": 190.0
+            },
+            "SOW": {
+                "Q1_23": 0.21333333333333335,
+                "Q1_24": 0.12666666666666668
+            },
+            "Discount": {
+                "Q1_23": 439.2225357786739,
+                "Q1_24": 314.8341256909546
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7031913,
+            "DealerName": "DIMAPUR ENTERPRISES",
+            "Position": [
+                25.864845380802,
+                93.769032731652
+            ],
+            "Volume": {
+                "Q1_23": 344.6666666666667,
+                "Q1_24": 230.0
+            },
+            "SOW": {
+                "Q1_23": 0.14361111111111113,
+                "Q1_24": 0.09583333333333334
+            },
+            "Discount": {
+                "Q1_23": 408.2533075435203,
+                "Q1_24": 421.25188705743835
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7037803,
+            "DealerName": "ARK ENTERPRISE",
+            "Position": [
+                25.794725413482,
+                93.802417851985
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 308.3333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.20555555555555555
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 265.5274324324325
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "KOHIMA",
+            "Code": 7022602,
+            "DealerName": "WEST CONSTRUCTIONAL STORE",
+            "Position": [
+                25.6676006,
+                94.0936658
+            ],
+            "Volume": {
+                "Q1_23": 275.0,
+                "Q1_24": 176.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.28205128205128205,
+                "Q1_24": 0.1811965811965812
+            },
+            "Discount": {
+                "Q1_23": 201.48363636363635,
+                "Q1_24": 299.3440827615781
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7025076,
+            "DealerName": "S.K TRADING",
+            "Position": [
+                25.898511303865,
+                93.75392049551
+            ],
+            "Volume": {
+                "Q1_23": 210.0,
+                "Q1_24": 158.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.23333333333333334,
+                "Q1_24": 0.17592592592592593
+            },
+            "Discount": {
+                "Q1_23": 316.0264126984126,
+                "Q1_24": 272.34789473684214
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7037132,
+            "DealerName": "A ACHUMI HARDWARE & PAINTS",
+            "Position": [
+                25.86083223166,
+                93.803775720298
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 230.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.5111111111111112
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 255.4144927536232
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7013343,
+            "DealerName": "KESHAV STEELS",
+            "Position": [
+                25.902904085129,
+                93.750282414258
+            ],
+            "Volume": {
+                "Q1_23": 140.0,
+                "Q1_24": 98.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.3111111111111111,
+                "Q1_24": 0.21851851851851853
+            },
+            "Discount": {
+                "Q1_23": 207.0340476190476,
+                "Q1_24": 109.84091525423729
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "WOKHA",
+            "Code": 7027882,
+            "DealerName": "OMEGA ENTERPRISES",
+            "Position": [
+                26.0994953,
+                94.2569842
+            ],
+            "Volume": {
+                "Q1_23": 158.33333333333334,
+                "Q1_24": 151.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.2638888888888889,
+                "Q1_24": 0.25277777777777777
+            },
+            "Discount": {
+                "Q1_23": 315.93052631578945,
+                "Q1_24": 334.87957952573737
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "KOHIMA",
+            "Code": 7036830,
+            "DealerName": "SS STORE",
+            "Position": [
+                25.656818430957,
+                94.099144265056
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 175.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.05555555555555556
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 232.12928571428577
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "TUENSANG",
+            "Code": 7026339,
+            "DealerName": "YONGKONG ENTERPRISES PVT LTD",
+            "Position": [
+                26.2380902,
+                94.8137136
+            ],
+            "Volume": {
+                "Q1_23": 96.66666666666667,
+                "Q1_24": 25.0
+            },
+            "SOW": {
+                "Q1_23": 0.29292929292929293,
+                "Q1_24": 0.07575757575757576
+            },
+            "Discount": {
+                "Q1_23": 278.9390344827586,
+                "Q1_24": 104.16166666666666
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "MOKOKCHUNG",
+            "Code": 7029211,
+            "DealerName": "MAHALAXMI STORE",
+            "Position": [
+                26.6717431,
+                94.6445265
+            ],
+            "Volume": {
+                "Q1_23": 50.0,
+                "Q1_24": 60.0
+            },
+            "SOW": {
+                "Q1_23": 0.22222222222222224,
+                "Q1_24": 0.26666666666666666
+            },
+            "Discount": {
+                "Q1_23": 255.72680000000003,
+                "Q1_24": 230.0222222222222
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "PHEK",
+            "Code": 7029607,
+            "DealerName": "KHUTSOHS HARDWARE",
+            "Position": [
+                25.5709773,
+                94.297996
+            ],
+            "Volume": {
+                "Q1_23": 141.66666666666666,
+                "Q1_24": 100.0
+            },
+            "SOW": {
+                "Q1_23": 1.0,
+                "Q1_24": 1.0
+            },
+            "Discount": {
+                "Q1_23": 292.3644235294118,
+                "Q1_24": 223.01056666666665
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7040018,
+            "DealerName": "M/S TIANA ENTERPRISES",
+            "Position": [
+                25.81590686,
+                93.7836387
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 85.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.07083333333333333
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 275.0980392156863
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7037073,
+            "DealerName": "M/S NAGALAND DOORS",
+            "Position": [
+                25.909058,
+                93.715584
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 101.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.28240740740740744
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 242.03160655737705
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7031028,
+            "DealerName": "SHIV HARDWARE STORE",
+            "Position": [
+                25.895465968448,
+                93.756061904132
+            ],
+            "Volume": {
+                "Q1_23": 50.0,
+                "Q1_24": 0.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "Discount": {
+                "Q1_23": 164.40013333333334,
+                "Q1_24": 0.0
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "CHUMTHUNGO KITHAN",
+            "District": "PEREN",
+            "Code": 7024359,
+            "DealerName": "ZALENI ENTERPRISE",
+            "Position": [
+                25.6476784,
+                93.6692761
+            ],
+            "Volume": {
+                "Q1_23": 66.66666666666667,
+                "Q1_24": 20.0
+            },
+            "SOW": {
+                "Q1_23": 0.14814814814814817,
+                "Q1_24": 0.044444444444444446
+            },
+            "Discount": {
+                "Q1_23": 270.637,
+                "Q1_24": 311.30049999999994
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "nagaland",
+            "ZH": "NABARUN CHATTERJEE",
+            "State": "NAG",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "PRASHANT KUMAR THAKUR",
+            "ASO": "SUN BAHADUR THAPA",
+            "District": "DIMAPUR",
+            "Code": 7039591,
+            "DealerName": "M/S SHREE STEEL",
+            "Position": [
+                25.816016422034,
+                93.783714137971
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 25.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.02777777777777778
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 322.45913333333334
+            }
+        }
+    ]
+}
