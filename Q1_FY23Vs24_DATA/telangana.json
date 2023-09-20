@@ -1,6 +1,6 @@
 [
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -25,10 +25,16 @@
         "Discount": {
             "Q1_23": 544.3965155556796,
             "Q1_24": 393.73608816910973
+        },
+        "HeatMap": {
+            "Volume_mt": 10009,
+            "Cont_rs_t": 667,
+            "Cont_value_l": 67,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -53,10 +59,16 @@
         "Discount": {
             "Q1_23": 577.1235067334385,
             "Q1_24": 424.6513621699519
+        },
+        "HeatMap": {
+            "Volume_mt": 3988,
+            "Cont_rs_t": 402,
+            "Cont_value_l": 16,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -81,38 +93,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 186.32279534109816
+        },
+        "HeatMap": {
+            "Volume_mt": 1202,
+            "Cont_rs_t": 568,
+            "Cont_value_l": 7,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
-        "Zone": "telangana",
-        "ZH": "RAJESH KHANNA",
-        "State": "TLG (W)",
-        "SH": "RAJESH KHANNA",
-        "ASM": "MUKESH  KAMESHWAR JHA",
-        "ASO": "AAKASH BHUMAREDDY  BAJANLAWAR",
-        "District": "NIZAMABAD",
-        "Code": 7036324,
-        "DealerName": "NEHA SALES MARKETING",
-        "Position": [
-            18.674554,
-            78.106742
-        ],
-        "Volume": {
-            "Q1_23": 190.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.07916666666666666,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 293.7543859649123,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -137,10 +127,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 43.73831775700935
+        },
+        "HeatMap": {
+            "Volume_mt": 214,
+            "Cont_rs_t": 673,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -165,10 +161,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 103.7125748502994
+        },
+        "HeatMap": {
+            "Volume_mt": 334,
+            "Cont_rs_t": 502,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -193,10 +195,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 138.0
+        },
+        "HeatMap": {
+            "Volume_mt": 260,
+            "Cont_rs_t": 620,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -221,10 +229,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 45.0
+        },
+        "HeatMap": {
+            "Volume_mt": 104,
+            "Cont_rs_t": 760,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -249,10 +263,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 77.14285714285714
+        },
+        "HeatMap": {
+            "Volume_mt": 182,
+            "Cont_rs_t": 592,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -277,10 +297,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 82,
+            "Cont_rs_t": 795,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -305,10 +331,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 82,
+            "Cont_rs_t": 626,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -333,10 +365,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 88.5
+        },
+        "HeatMap": {
+            "Volume_mt": 160,
+            "Cont_rs_t": 638,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -361,10 +399,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 61.454545454545446
+        },
+        "HeatMap": {
+            "Volume_mt": 110,
+            "Cont_rs_t": 462,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -389,10 +433,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 163.33333333333334
+        },
+        "HeatMap": {
+            "Volume_mt": 156,
+            "Cont_rs_t": 524,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -417,10 +467,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 230.11494252873564
+        },
+        "HeatMap": {
+            "Volume_mt": 174,
+            "Cont_rs_t": 443,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -445,10 +501,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 180.0
+        },
+        "HeatMap": {
+            "Volume_mt": 52,
+            "Cont_rs_t": 237,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -473,10 +535,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 131.37614678899084
+        },
+        "HeatMap": {
+            "Volume_mt": 109,
+            "Cont_rs_t": 354,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -501,10 +569,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 128.54700854700855
+        },
+        "HeatMap": {
+            "Volume_mt": 117,
+            "Cont_rs_t": 704,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -529,10 +603,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 86.66666666666667
+        },
+        "HeatMap": {
+            "Volume_mt": 93,
+            "Cont_rs_t": 376,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -557,10 +637,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 180.0
+        },
+        "HeatMap": {
+            "Volume_mt": 114,
+            "Cont_rs_t": 128,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -585,10 +671,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 259.99999999999994
+        },
+        "HeatMap": {
+            "Volume_mt": 26,
+            "Cont_rs_t": 449,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -613,10 +705,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 129.99999999999997
+        },
+        "HeatMap": {
+            "Volume_mt": 104,
+            "Cont_rs_t": 388,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -641,10 +739,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 25,
+            "Cont_rs_t": 1065,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -669,10 +773,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 132.17391304347825
+        },
+        "HeatMap": {
+            "Volume_mt": 92,
+            "Cont_rs_t": 718,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -697,10 +807,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 106.66666666666667
+        },
+        "HeatMap": {
+            "Volume_mt": 93,
+            "Cont_rs_t": 646,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -725,10 +841,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 143.92857142857144
+        },
+        "HeatMap": {
+            "Volume_mt": 56,
+            "Cont_rs_t": 601,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -753,10 +875,16 @@
         "Discount": {
             "Q1_23": 445.8228856538448,
             "Q1_24": 200.8228856538448
+        },
+        "HeatMap": {
+            "Volume_mt": 126,
+            "Cont_rs_t": 1549,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -781,10 +909,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 160.0
+        },
+        "HeatMap": {
+            "Volume_mt": 62,
+            "Cont_rs_t": 373,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -809,38 +943,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 176.13636363636363
+        },
+        "HeatMap": {
+            "Volume_mt": 88,
+            "Cont_rs_t": 371,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "JOGULAMBA GADWAL",
-        "Code": 7034262,
-        "DealerName": "BHARGAV TRADERS",
-        "Position": [
-            15.951245062676,
-            77.842583879828
-        ],
-        "Volume": {
-            "Q1_23": 20.666666666666668,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.07654320987654321,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 360.64029627724807,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -865,10 +977,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 260.0
+        },
+        "HeatMap": {
+            "Volume_mt": 30,
+            "Cont_rs_t": 297,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -893,66 +1011,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 80.0
+        },
+        "HeatMap": {
+            "Volume_mt": 52,
+            "Cont_rs_t": 406,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "MAHABUBNAGAR",
-        "Code": 7036190,
-        "DealerName": "M/S NANDI CEMENT",
-        "Position": [
-            17.070052430076,
-            78.21389246732
-        ],
-        "Volume": {
-            "Q1_23": 54.666666666666664,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.05359477124183006,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 430.926437723439,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "MAHABUBNAGAR",
-        "Code": 7019070,
-        "DealerName": "RK TRADERS",
-        "Position": [
-            16.3562975,
-            78.0635883
-        ],
-        "Volume": {
-            "Q1_23": 43.333333333333336,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.12037037037037038,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 374.6414831562463,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -977,10 +1045,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 30,
+            "Cont_rs_t": 1771,
+            "Cont_value_l": 1,
+            "DSP_percent": "17%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1005,10 +1079,16 @@
         "Discount": {
             "Q1_23": 369.097243995695,
             "Q1_24": 406.80588627211785
+        },
+        "HeatMap": {
+            "Volume_mt": 150,
+            "Cont_rs_t": 1252,
+            "Cont_value_l": 2,
+            "DSP_percent": "24%"
         }
     },
     {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -1033,38 +1113,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 160.0
+        },
+        "HeatMap": {
+            "Volume_mt": 31,
+            "Cont_rs_t": 112,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "NAGARKURNOOL",
-        "Code": 7035762,
-        "DealerName": "SATHYAM TRADERS",
-        "Position": [
-            16.2691475957,
-            78.283751942217
-        ],
-        "Volume": {
-            "Q1_23": 10.666666666666666,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.059259259259259255,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 344.3623574731862,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "W",
+        "Reg": "West",
         "Zone": "telangana",
         "ZH": "RAJESH KHANNA",
         "State": "TLG (W)",
@@ -1089,10 +1147,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 160.0
+        },
+        "HeatMap": {
+            "Volume_mt": 26,
+            "Cont_rs_t": 64,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1117,66 +1181,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 32,
+            "Cont_rs_t": 1588,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "NALGONDA",
-        "Code": 7035676,
-        "DealerName": "M/S NANDI CEMENT",
-        "Position": [
-            16.723945062124,
-            79.643425047398
-        ],
-        "Volume": {
-            "Q1_23": 164.33333333333334,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.16111111111111112,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 660.0403742989104,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "NAGARKURNOOL",
-        "Code": 7034879,
-        "DealerName": "MOKSHASRI ELECTRICALS, SANITARY & H",
-        "Position": [
-            16.444263308268,
-            78.460597358644
-        ],
-        "Volume": {
-            "Q1_23": 20.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.13333333333333333,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 304.88148315624625,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1201,10 +1215,16 @@
         "Discount": {
             "Q1_23": 348.4224576855929,
             "Q1_24": 200.57071685811442
+        },
+        "HeatMap": {
+            "Volume_mt": 61,
+            "Cont_rs_t": 1477,
+            "Cont_value_l": 1,
+            "DSP_percent": "20%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1229,10 +1249,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 146.42957446808506
+        },
+        "HeatMap": {
+            "Volume_mt": 94,
+            "Cont_rs_t": 1445,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1257,66 +1283,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 120.05174644243208
+        },
+        "HeatMap": {
+            "Volume_mt": 193,
+            "Cont_rs_t": 1135,
+            "Cont_value_l": 2,
+            "DSP_percent": "16%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "JOGULAMBA GADWAL",
-        "Code": 7034914,
-        "DealerName": "SRI JOGULAMBA AGENCY",
-        "Position": [
-            15.916364863531,
-            78.02085455507
-        ],
-        "Volume": {
-            "Q1_23": 30.666666666666668,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0851851851851852,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 365.72588734304185,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "KARIMNAGAR",
-        "Code": 7032373,
-        "DealerName": "LAXMI AGENCIES",
-        "Position": [
-            18.4803964,
-            78.8564378
-        ],
-        "Volume": {
-            "Q1_23": 44.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.029333333333333333,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 245.79057406533727,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1341,10 +1317,16 @@
         "Discount": {
             "Q1_23": 405.4465238066528,
             "Q1_24": 441.6560320033741
+        },
+        "HeatMap": {
+            "Volume_mt": 61,
+            "Cont_rs_t": 1125,
+            "Cont_value_l": 1,
+            "DSP_percent": "49%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1369,10 +1351,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 12,
+            "Cont_rs_t": 1177,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1397,38 +1385,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 3,
+            "Cont_rs_t": 1176,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
-        "District": "RANGA REDDY",
-        "Code": 7031700,
-        "DealerName": "SREE VENKATESHWARA STEEL TRADERS",
-        "Position": [
-            17.261369441661,
-            78.387108184397
-        ],
-        "Volume": {
-            "Q1_23": 6.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.007547169811320755,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 329.32592760069076,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1453,10 +1419,16 @@
         "Discount": {
             "Q1_23": 849.4300109702128,
             "Q1_24": 735.2249135886091
+        },
+        "HeatMap": {
+            "Volume_mt": 4892,
+            "Cont_rs_t": 972,
+            "Cont_value_l": 48,
+            "DSP_percent": "31%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1481,10 +1453,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 290.8526742440489
+        },
+        "HeatMap": {
+            "Volume_mt": 4663,
+            "Cont_rs_t": 730,
+            "Cont_value_l": 34,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1509,10 +1487,16 @@
         "Discount": {
             "Q1_23": 550.5101682269799,
             "Q1_24": 502.50261439828
+        },
+        "HeatMap": {
+            "Volume_mt": 1754,
+            "Cont_rs_t": 1060,
+            "Cont_value_l": 19,
+            "DSP_percent": "47%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1537,10 +1521,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 175.76456310679612
+        },
+        "HeatMap": {
+            "Volume_mt": 2472,
+            "Cont_rs_t": 812,
+            "Cont_value_l": 20,
+            "DSP_percent": "43%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1565,10 +1555,16 @@
         "Discount": {
             "Q1_23": 735.7449438789982,
             "Q1_24": 633.430399167866
+        },
+        "HeatMap": {
+            "Volume_mt": 2712,
+            "Cont_rs_t": 788,
+            "Cont_value_l": 21,
+            "DSP_percent": "22%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1593,10 +1589,16 @@
         "Discount": {
             "Q1_23": 619.1741813512266,
             "Q1_24": 671.5016671163633
+        },
+        "HeatMap": {
+            "Volume_mt": 1554,
+            "Cont_rs_t": 1023,
+            "Cont_value_l": 16,
+            "DSP_percent": "53%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1621,10 +1623,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 227.6443956043956
+        },
+        "HeatMap": {
+            "Volume_mt": 1547,
+            "Cont_rs_t": 966,
+            "Cont_value_l": 15,
+            "DSP_percent": "7%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1649,10 +1657,16 @@
         "Discount": {
             "Q1_23": 763.6508029641773,
             "Q1_24": 645.7483211949578
+        },
+        "HeatMap": {
+            "Volume_mt": 2779,
+            "Cont_rs_t": 651,
+            "Cont_value_l": 18,
+            "DSP_percent": "9%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1677,10 +1691,16 @@
         "Discount": {
             "Q1_23": 660.3508850374362,
             "Q1_24": 556.5677991379937
+        },
+        "HeatMap": {
+            "Volume_mt": 2155,
+            "Cont_rs_t": 607,
+            "Cont_value_l": 13,
+            "DSP_percent": "16%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1705,10 +1725,16 @@
         "Discount": {
             "Q1_23": 550.2235342468146,
             "Q1_24": 487.6525458112967
+        },
+        "HeatMap": {
+            "Volume_mt": 1223,
+            "Cont_rs_t": 1011,
+            "Cont_value_l": 12,
+            "DSP_percent": "24%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1733,10 +1759,16 @@
         "Discount": {
             "Q1_23": 563.7327355730325,
             "Q1_24": 485.6382878879798
+        },
+        "HeatMap": {
+            "Volume_mt": 974,
+            "Cont_rs_t": 970,
+            "Cont_value_l": 9,
+            "DSP_percent": "18%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1761,10 +1793,16 @@
         "Discount": {
             "Q1_23": 703.4465318420944,
             "Q1_24": 576.0348919152847
+        },
+        "HeatMap": {
+            "Volume_mt": 814,
+            "Cont_rs_t": 902,
+            "Cont_value_l": 7,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1789,10 +1827,16 @@
         "Discount": {
             "Q1_23": 693.0620695634624,
             "Q1_24": 537.4483150981018
+        },
+        "HeatMap": {
+            "Volume_mt": 340,
+            "Cont_rs_t": 723,
+            "Cont_value_l": 2,
+            "DSP_percent": "9%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1817,10 +1861,16 @@
         "Discount": {
             "Q1_23": 389.2726892903177,
             "Q1_24": 338.1197794251651
+        },
+        "HeatMap": {
+            "Volume_mt": 564,
+            "Cont_rs_t": 1042,
+            "Cont_value_l": 6,
+            "DSP_percent": "30%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1845,10 +1895,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 200.4852286282306
+        },
+        "HeatMap": {
+            "Volume_mt": 1006,
+            "Cont_rs_t": 651,
+            "Cont_value_l": 7,
+            "DSP_percent": "17%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1873,10 +1929,16 @@
         "Discount": {
             "Q1_23": 609.2201975928439,
             "Q1_24": 453.4296499986518
+        },
+        "HeatMap": {
+            "Volume_mt": 246,
+            "Cont_rs_t": 916,
+            "Cont_value_l": 2,
+            "DSP_percent": "45%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1901,38 +1963,16 @@
         "Discount": {
             "Q1_23": 489.8149993549211,
             "Q1_24": 455.86376258553287
+        },
+        "HeatMap": {
+            "Volume_mt": 469,
+            "Cont_rs_t": 1040,
+            "Cont_value_l": 5,
+            "DSP_percent": "44%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "RANGA REDDY",
-        "Code": 7032392,
-        "DealerName": "TRIMURTHI CEMENT DISTRIBUTORS",
-        "Position": [
-            17.391242847623,
-            78.477422855794
-        ],
-        "Volume": {
-            "Q1_23": 71.66666666666667,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.015925925925925927,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 824.421644018058,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1957,10 +1997,16 @@
         "Discount": {
             "Q1_23": 305.893184600926,
             "Q1_24": 291.28209426628166
+        },
+        "HeatMap": {
+            "Volume_mt": 119,
+            "Cont_rs_t": 1033,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -1985,10 +2031,16 @@
         "Discount": {
             "Q1_23": 396.67881579703163,
             "Q1_24": 310.4469393862233
+        },
+        "HeatMap": {
+            "Volume_mt": 371,
+            "Cont_rs_t": 967,
+            "Cont_value_l": 4,
+            "DSP_percent": "46%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2013,10 +2065,16 @@
         "Discount": {
             "Q1_23": 534.7534103310269,
             "Q1_24": 279.6081100182251
+        },
+        "HeatMap": {
+            "Volume_mt": 236,
+            "Cont_rs_t": 890,
+            "Cont_value_l": 2,
+            "DSP_percent": "5%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2041,10 +2099,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 184.20874035989718
+        },
+        "HeatMap": {
+            "Volume_mt": 39,
+            "Cont_rs_t": 966,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2069,10 +2133,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 178.5235952063915
+        },
+        "HeatMap": {
+            "Volume_mt": 751,
+            "Cont_rs_t": 560,
+            "Cont_value_l": 4,
+            "DSP_percent": "5%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2097,10 +2167,16 @@
         "Discount": {
             "Q1_23": 481.71765550093573,
             "Q1_24": 391.30098883426905
+        },
+        "HeatMap": {
+            "Volume_mt": 128,
+            "Cont_rs_t": 787,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2125,10 +2201,16 @@
         "Discount": {
             "Q1_23": 362.2417914414101,
             "Q1_24": 263.5269499113555
+        },
+        "HeatMap": {
+            "Volume_mt": 305,
+            "Cont_rs_t": 1014,
+            "Cont_value_l": 3,
+            "DSP_percent": "19%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2153,10 +2235,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 168.16954274353876
+        },
+        "HeatMap": {
+            "Volume_mt": 126,
+            "Cont_rs_t": 466,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2181,10 +2269,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 230.66859857482186
+        },
+        "HeatMap": {
+            "Volume_mt": 632,
+            "Cont_rs_t": 554,
+            "Cont_value_l": 3,
+            "DSP_percent": "12%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2209,10 +2303,16 @@
         "Discount": {
             "Q1_23": 461.72935354998225,
             "Q1_24": 356.905087330425
+        },
+        "HeatMap": {
+            "Volume_mt": 385,
+            "Cont_rs_t": 561,
+            "Cont_value_l": 2,
+            "DSP_percent": "15%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2237,10 +2337,16 @@
         "Discount": {
             "Q1_23": 471.5380882368464,
             "Q1_24": 411.51189580735115
+        },
+        "HeatMap": {
+            "Volume_mt": 456,
+            "Cont_rs_t": 692,
+            "Cont_value_l": 3,
+            "DSP_percent": "43%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2265,10 +2371,16 @@
         "Discount": {
             "Q1_23": 354.2501184046737,
             "Q1_24": 294.7478726822403
+        },
+        "HeatMap": {
+            "Volume_mt": 96,
+            "Cont_rs_t": 944,
+            "Cont_value_l": 1,
+            "DSP_percent": "31%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2293,10 +2405,16 @@
         "Discount": {
             "Q1_23": 413.1758872296064,
             "Q1_24": 312.20954124213364
+        },
+        "HeatMap": {
+            "Volume_mt": 263,
+            "Cont_rs_t": 987,
+            "Cont_value_l": 3,
+            "DSP_percent": "37%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2321,10 +2439,16 @@
         "Discount": {
             "Q1_23": 512.9885710094671,
             "Q1_24": 514.7925665251622
+        },
+        "HeatMap": {
+            "Volume_mt": 558,
+            "Cont_rs_t": 580,
+            "Cont_value_l": 3,
+            "DSP_percent": "20%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2349,10 +2473,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 275.23809523809524
+        },
+        "HeatMap": {
+            "Volume_mt": 95,
+            "Cont_rs_t": 1080,
+            "Cont_value_l": 1,
+            "DSP_percent": "13%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2377,10 +2507,16 @@
         "Discount": {
             "Q1_23": 436.2647361027102,
             "Q1_24": 452.15675935925003
+        },
+        "HeatMap": {
+            "Volume_mt": 683,
+            "Cont_rs_t": 499,
+            "Cont_value_l": 3,
+            "DSP_percent": "48%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2405,10 +2541,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 100,
+            "Cont_rs_t": 996,
+            "Cont_value_l": 1,
+            "DSP_percent": "64%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2433,10 +2575,16 @@
         "Discount": {
             "Q1_23": 526.1480793479295,
             "Q1_24": 399.9663889287284
+        },
+        "HeatMap": {
+            "Volume_mt": 202,
+            "Cont_rs_t": 961,
+            "Cont_value_l": 2,
+            "DSP_percent": "41%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2461,10 +2609,16 @@
         "Discount": {
             "Q1_23": 505.604560842011,
             "Q1_24": 328.68680555460986
+        },
+        "HeatMap": {
+            "Volume_mt": 84,
+            "Cont_rs_t": 455,
+            "Cont_value_l": 0,
+            "DSP_percent": "19%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2489,10 +2643,16 @@
         "Discount": {
             "Q1_23": 374.2162917784905,
             "Q1_24": 280.6620202611879
+        },
+        "HeatMap": {
+            "Volume_mt": 115,
+            "Cont_rs_t": 1078,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2517,10 +2677,16 @@
         "Discount": {
             "Q1_23": 382.5147427150471,
             "Q1_24": 193.21196846041585
+        },
+        "HeatMap": {
+            "Volume_mt": 39,
+            "Cont_rs_t": 555,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2545,10 +2711,16 @@
         "Discount": {
             "Q1_23": 438.9818379847663,
             "Q1_24": 357.43661159862563
+        },
+        "HeatMap": {
+            "Volume_mt": 112,
+            "Cont_rs_t": 503,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2573,10 +2745,16 @@
         "Discount": {
             "Q1_23": 480.63899698225174,
             "Q1_24": 257.5466530122078
+        },
+        "HeatMap": {
+            "Volume_mt": 70,
+            "Cont_rs_t": 558,
+            "Cont_value_l": 0,
+            "DSP_percent": "14%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2601,10 +2779,16 @@
         "Discount": {
             "Q1_23": 446.69515559491873,
             "Q1_24": 365.0259640113086
+        },
+        "HeatMap": {
+            "Volume_mt": 22,
+            "Cont_rs_t": 549,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2629,38 +2813,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 274.3103983963918
+        },
+        "HeatMap": {
+            "Volume_mt": 200,
+            "Cont_rs_t": 524,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
-        "District": "HYDERABAD",
-        "Code": 7036513,
-        "DealerName": "KUMARAN CEMENT AGENCY",
-        "Position": [
-            17.394860478829,
-            78.501235842705
-        ],
-        "Volume": {
-            "Q1_23": 6.666666666666667,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.011111111111111112,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 431.4085120515871,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2685,38 +2847,16 @@
         "Discount": {
             "Q1_23": 319.8332814506475,
             "Q1_24": 276.9455803481567
+        },
+        "HeatMap": {
+            "Volume_mt": 79,
+            "Cont_rs_t": 870,
+            "Cont_value_l": 1,
+            "DSP_percent": "34%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "SREENIVASULU DEVARINTI",
-        "District": "SANGAREDDY",
-        "Code": 7034479,
-        "DealerName": "REDDY TRADERS",
-        "Position": [
-            18.0367665,
-            77.7786431
-        ],
-        "Volume": {
-            "Q1_23": 43.666666666666664,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.22743055555555555,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 487.5160496076067,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2741,10 +2881,16 @@
         "Discount": {
             "Q1_23": 279.5857842315151,
             "Q1_24": 329.4528524587489
+        },
+        "HeatMap": {
+            "Volume_mt": 113,
+            "Cont_rs_t": 958,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2769,10 +2915,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 236.4885185185185
+        },
+        "HeatMap": {
+            "Volume_mt": 162,
+            "Cont_rs_t": 733,
+            "Cont_value_l": 1,
+            "DSP_percent": "19%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2797,10 +2949,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 103.9232077764277
+        },
+        "HeatMap": {
+            "Volume_mt": 165,
+            "Cont_rs_t": 614,
+            "Cont_value_l": 1,
+            "DSP_percent": "53%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2825,10 +2983,16 @@
         "Discount": {
             "Q1_23": 344.573790848554,
             "Q1_24": 263.4257082526838
+        },
+        "HeatMap": {
+            "Volume_mt": 102,
+            "Cont_rs_t": 841,
+            "Cont_value_l": 1,
+            "DSP_percent": "3%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2853,38 +3017,16 @@
         "Discount": {
             "Q1_23": 356.8838812377811,
             "Q1_24": 345.4885324005718
+        },
+        "HeatMap": {
+            "Volume_mt": 43,
+            "Cont_rs_t": 886,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
-        "District": "RANGA REDDY",
-        "Code": 7031108,
-        "DealerName": "NEENV ENTERPRISES",
-        "Position": [
-            17.399821,
-            78.5061807
-        ],
-        "Volume": {
-            "Q1_23": 14.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.015053763440860216,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 385.67513394989714,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2909,10 +3051,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 71.72901408450704
+        },
+        "HeatMap": {
+            "Volume_mt": 71,
+            "Cont_rs_t": 990,
+            "Cont_value_l": 1,
+            "DSP_percent": "21%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2937,38 +3085,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 15,
+            "Cont_rs_t": 1016,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "SREENIVASULU DEVARINTI",
-        "District": "HYDERABAD",
-        "Code": 7034759,
-        "DealerName": "APARAJITHA ENGINEERING AND CONSTRUC",
-        "Position": [
-            17.435149337892,
-            78.452080003917
-        ],
-        "Volume": {
-            "Q1_23": 20.666666666666668,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.06888888888888889,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 288.2148164895796,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -2993,38 +3119,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 152.85426460711886
+        },
+        "HeatMap": {
+            "Volume_mt": 74,
+            "Cont_rs_t": 741,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "PEDDAPALLI",
-        "Code": 7033105,
-        "DealerName": "SHIVA SAI IRON & HARDWARE",
-        "Position": [
-            18.6485077,
-            79.6693307
-        ],
-        "Volume": {
-            "Q1_23": 21.333333333333332,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.017777777777777778,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 359.4648164895797,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3049,38 +3153,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 32.72727272727273
+        },
+        "HeatMap": {
+            "Volume_mt": 11,
+            "Cont_rs_t": 758,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "HYDERABAD",
-        "Code": 7036558,
-        "DealerName": "VINAYAKA ASSOCIATES",
-        "Position": [
-            17.412112,
-            78.642404
-        ],
-        "Volume": {
-            "Q1_23": 15.333333333333334,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.030065359477124187,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 338.3135724213483,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3105,38 +3187,16 @@
         "Discount": {
             "Q1_23": 322.10433214801185,
             "Q1_24": 185.73894535555905
+        },
+        "HeatMap": {
+            "Volume_mt": 40,
+            "Cont_rs_t": 510,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "HYDERABAD",
-        "Code": 7035600,
-        "DealerName": "JAY ENTERPRISES",
-        "Position": [
-            17.425344344628,
-            78.402481265366
-        ],
-        "Volume": {
-            "Q1_23": 13.666666666666666,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.014936247723132968,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 387.5978867908709,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3161,10 +3221,16 @@
         "Discount": {
             "Q1_23": 284.7148164895797,
             "Q1_24": 260.62441648957963
+        },
+        "HeatMap": {
+            "Volume_mt": 25,
+            "Cont_rs_t": 820,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3189,10 +3255,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 169.99478260869566
+        },
+        "HeatMap": {
+            "Volume_mt": 92,
+            "Cont_rs_t": 544,
+            "Cont_value_l": 1,
+            "DSP_percent": "24%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3217,10 +3289,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 97.6923076923077
+        },
+        "HeatMap": {
+            "Volume_mt": 52,
+            "Cont_rs_t": 671,
+            "Cont_value_l": 0,
+            "DSP_percent": "14%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3245,10 +3323,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 191.73236842105268
+        },
+        "HeatMap": {
+            "Volume_mt": 76,
+            "Cont_rs_t": 523,
+            "Cont_value_l": 0,
+            "DSP_percent": "14%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3273,10 +3357,16 @@
         "Discount": {
             "Q1_23": 465.42652819524,
             "Q1_24": 417.8446161542787
+        },
+        "HeatMap": {
+            "Volume_mt": 355,
+            "Cont_rs_t": 236,
+            "Cont_value_l": 1,
+            "DSP_percent": "43%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3301,10 +3391,16 @@
         "Discount": {
             "Q1_23": 286.85916759778974,
             "Q1_24": 239.80550607814445
+        },
+        "HeatMap": {
+            "Volume_mt": 31,
+            "Cont_rs_t": 431,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3329,10 +3425,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 26.666666666666664
+        },
+        "HeatMap": {
+            "Volume_mt": 18,
+            "Cont_rs_t": 587,
+            "Cont_value_l": 0,
+            "DSP_percent": "8%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3357,10 +3459,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 301.49532710280374
+        },
+        "HeatMap": {
+            "Volume_mt": 107,
+            "Cont_rs_t": 315,
+            "Cont_value_l": 0,
+            "DSP_percent": "12%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3385,38 +3493,16 @@
         "Discount": {
             "Q1_23": 275.06805368351087,
             "Q1_24": 320.4966251120823
+        },
+        "HeatMap": {
+            "Volume_mt": 12,
+            "Cont_rs_t": 238,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "RANGA REDDY",
-        "Code": 7030851,
-        "DealerName": "VENKATARAMANA STEEL SYNDICATE",
-        "Position": [
-            17.5188081,
-            78.5017336
-        ],
-        "Volume": {
-            "Q1_23": 17.5,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.029166666666666664,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 362.6376159123791,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3441,10 +3527,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 58.37837837837838
+        },
+        "HeatMap": {
+            "Volume_mt": 19,
+            "Cont_rs_t": 563,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3469,10 +3561,16 @@
         "Discount": {
             "Q1_23": 390.2772237515156,
             "Q1_24": 289.3832496859168
+        },
+        "HeatMap": {
+            "Volume_mt": 69,
+            "Cont_rs_t": 285,
+            "Cont_value_l": 0,
+            "DSP_percent": "36%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3497,38 +3595,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 115.37631999999999
+        },
+        "HeatMap": {
+            "Volume_mt": 63,
+            "Cont_rs_t": 249,
+            "Cont_value_l": 0,
+            "DSP_percent": "20%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "RANGA REDDY",
-        "Code": 7032445,
-        "DealerName": "DIVYANI MARKETING",
-        "Position": [
-            17.565714713238,
-            78.486171551049
-        ],
-        "Volume": {
-            "Q1_23": 3.3333333333333335,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0007610350076103501,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 161.71481648957965,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3553,10 +3629,16 @@
         "Discount": {
             "Q1_23": 168.21481648957965,
             "Q1_24": 88.21481648957966
+        },
+        "HeatMap": {
+            "Volume_mt": 13,
+            "Cont_rs_t": 733,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3581,10 +3663,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 10,
+            "Cont_rs_t": 862,
+            "Cont_value_l": 0,
+            "DSP_percent": "100%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3609,10 +3697,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 24.0
+        },
+        "HeatMap": {
+            "Volume_mt": 30,
+            "Cont_rs_t": 504,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3637,10 +3731,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 171.42773333333335
+        },
+        "HeatMap": {
+            "Volume_mt": 38,
+            "Cont_rs_t": 401,
+            "Cont_value_l": 0,
+            "DSP_percent": "33%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3665,10 +3765,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 216.66666666666666
+        },
+        "HeatMap": {
+            "Volume_mt": 30,
+            "Cont_rs_t": 489,
+            "Cont_value_l": 0,
+            "DSP_percent": "25%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3693,38 +3799,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 60.0
+        },
+        "HeatMap": {
+            "Volume_mt": 4,
+            "Cont_rs_t": 691,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "HYDERABAD",
-        "Code": 7034670,
-        "DealerName": "MANGA CONSTRUCTIONS",
-        "Position": [
-            17.443581300228,
-            78.58190562576
-        ],
-        "Volume": {
-            "Q1_23": 1.6666666666666667,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.003703703703703704,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 168.21481648957968,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3749,38 +3833,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 92.44
+        },
+        "HeatMap": {
+            "Volume_mt": 13,
+            "Cont_rs_t": 271,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SANJAY R",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "SREENIVASULU DEVARINTI",
-        "District": "RANGA REDDY",
-        "Code": 7035338,
-        "DealerName": "LAKSHMI TRADERS",
-        "Position": [
-            17.506585875003,
-            78.382560163736
-        ],
-        "Volume": {
-            "Q1_23": 3.3333333333333335,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.006944444444444445,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 315.58323754221124,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3805,10 +3867,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 48.888888888888886
+        },
+        "HeatMap": {
+            "Volume_mt": 14,
+            "Cont_rs_t": 523,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3833,10 +3901,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 57.142857142857146
+        },
+        "HeatMap": {
+            "Volume_mt": 11,
+            "Cont_rs_t": 565,
+            "Cont_value_l": 0,
+            "DSP_percent": "52%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "telangana",
         "ZH": "SANJAY R",
         "State": "TLG",
@@ -3861,314 +3935,12 @@
         "Discount": {
             "Q1_23": 350.64743277051053,
             "Q1_24": 230.92627244935022
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "JOGULAMBA GADWAL",
-        "Code": 7037415,
-        "DealerName": "BSR TRADERS",
-        "Position": [
-            16.021040094208,
-            77.668231576681
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "RANGA REDDY",
-        "Code": 7031153,
-        "DealerName": "M G ASSOCIATES",
-        "Position": [
-            17.3331795,
-            78.5552606
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "MAHABUBNAGAR",
-        "Code": 7030607,
-        "DealerName": "GULZAR TRADERS",
-        "Position": [
-            16.4993638,
-            77.5075971
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "SANGAREDDY",
-        "Code": 7036534,
-        "DealerName": "M/S SRI SRINIVASA TRADERS",
-        "Position": [
-            17.553977,
-            78.30301
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "RANGA REDDY",
-        "Code": 7036241,
-        "DealerName": "M/S NANDI CEMENT",
-        "Position": [
-            17.0700607,
-            78.2137832
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "RUPESH KUMAR REDDY MANTHIREDDY",
-        "District": "WARANGAL (URBAN)",
-        "Code": 7036858,
-        "DealerName": "SRI SRINIVASA CEMENT AND IRON MERCH",
-        "Position": [
-            17.968925,
-            79.494814
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "WANAPARTHY",
-        "Code": 7037002,
-        "DealerName": "M/S AK TRADERS",
-        "Position": [
-            16.365531281856,
-            78.058749474585
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "CHINTAKUNTA BHARATH KUMAR",
-        "District": "WANAPARTHY",
-        "Code": 7036521,
-        "DealerName": "M/S. SRIRAMA TRADERS",
-        "Position": [
-            16.029855161459,
-            78.172408752143
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "SREENIVASULU DEVARINTI",
-        "District": "MEDAK",
-        "Code": 7031294,
-        "DealerName": "SRI TULAJA BHAVANI TRADERS",
-        "Position": [
-            17.619881,
-            77.941036
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "SREENIVASULU DEVARINTI",
-        "District": "KARIMNAGAR",
-        "Code": 7032074,
-        "DealerName": "LAXMI NARASIMHA TRADERS",
-        "Position": [
-            18.42643129572,
-            79.124680459499
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "telangana",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "TLG",
-        "SH": "CHANDRA SEKHAR DV",
-        "ASM": "RAJU LODE",
-        "ASO": "MADHU KOKA",
-        "District": "NALGONDA",
-        "Code": 7034365,
-        "DealerName": "SRI SAI TEJA CEMENT TRADERS",
-        "Position": [
-            17.469199,
-            78.793617
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 72,
+            "Cont_rs_t": 159,
+            "Cont_value_l": 0,
+            "DSP_percent": "12%"
         }
     }
 ]

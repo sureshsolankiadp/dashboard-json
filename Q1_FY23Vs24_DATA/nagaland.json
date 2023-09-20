@@ -25,6 +25,12 @@
         "Discount": {
             "Q1_23": 401.57840011741285,
             "Q1_24": 321.2277478482725
+        },
+        "HeatMap": {
+            "Volume_mt": 2370,
+            "Cont_rs_t": 2911,
+            "Cont_value_l": 69,
+            "DSP_percent": "7%"
         }
     },
     {
@@ -53,6 +59,12 @@
         "Discount": {
             "Q1_23": 535.974185065883,
             "Q1_24": 464.26171529464125
+        },
+        "HeatMap": {
+            "Volume_mt": 680,
+            "Cont_rs_t": 3608,
+            "Cont_value_l": 25,
+            "DSP_percent": "40%"
         }
     },
     {
@@ -81,6 +93,12 @@
         "Discount": {
             "Q1_23": 472.47184488358806,
             "Q1_24": 375.00906728538155
+        },
+        "HeatMap": {
+            "Volume_mt": 1959,
+            "Cont_rs_t": 3524,
+            "Cont_value_l": 69,
+            "DSP_percent": "8%"
         }
     },
     {
@@ -109,6 +127,12 @@
         "Discount": {
             "Q1_23": 450.42720767195766,
             "Q1_24": 361.90437300988776
+        },
+        "HeatMap": {
+            "Volume_mt": 995,
+            "Cont_rs_t": 3699,
+            "Cont_value_l": 37,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -137,6 +161,12 @@
         "Discount": {
             "Q1_23": 511.56441682166803,
             "Q1_24": 372.56391351836464
+        },
+        "HeatMap": {
+            "Volume_mt": 450,
+            "Cont_rs_t": 3690,
+            "Cont_value_l": 17,
+            "DSP_percent": "27%"
         }
     },
     {
@@ -165,6 +195,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 276.3431639344261
+        },
+        "HeatMap": {
+            "Volume_mt": 610,
+            "Cont_rs_t": 3512,
+            "Cont_value_l": 21,
+            "DSP_percent": "9%"
         }
     },
     {
@@ -193,6 +229,12 @@
         "Discount": {
             "Q1_23": 331.86759024390244,
             "Q1_24": 288.285738934056
+        },
+        "HeatMap": {
+            "Volume_mt": 675,
+            "Cont_rs_t": 3021,
+            "Cont_value_l": 20,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -221,6 +263,12 @@
         "Discount": {
             "Q1_23": 369.3136738757206,
             "Q1_24": 275.6156522141172
+        },
+        "HeatMap": {
+            "Volume_mt": 565,
+            "Cont_rs_t": 3015,
+            "Cont_value_l": 17,
+            "DSP_percent": "10%"
         }
     },
     {
@@ -249,6 +297,12 @@
         "Discount": {
             "Q1_23": 439.2225357786739,
             "Q1_24": 314.8341256909546
+        },
+        "HeatMap": {
+            "Volume_mt": 570,
+            "Cont_rs_t": 3594,
+            "Cont_value_l": 20,
+            "DSP_percent": "34%"
         }
     },
     {
@@ -277,6 +331,12 @@
         "Discount": {
             "Q1_23": 408.2533075435203,
             "Q1_24": 421.25188705743835
+        },
+        "HeatMap": {
+            "Volume_mt": 690,
+            "Cont_rs_t": 3415,
+            "Cont_value_l": 24,
+            "DSP_percent": "16%"
         }
     },
     {
@@ -305,6 +365,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 265.5274324324325
+        },
+        "HeatMap": {
+            "Volume_mt": 925,
+            "Cont_rs_t": 3486,
+            "Cont_value_l": 32,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -333,6 +399,12 @@
         "Discount": {
             "Q1_23": 201.48363636363635,
             "Q1_24": 299.3440827615781
+        },
+        "HeatMap": {
+            "Volume_mt": 530,
+            "Cont_rs_t": 3595,
+            "Cont_value_l": 19,
+            "DSP_percent": "66%"
         }
     },
     {
@@ -361,6 +433,12 @@
         "Discount": {
             "Q1_23": 316.0264126984126,
             "Q1_24": 272.34789473684214
+        },
+        "HeatMap": {
+            "Volume_mt": 475,
+            "Cont_rs_t": 3367,
+            "Cont_value_l": 16,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -389,6 +467,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 255.4144927536232
+        },
+        "HeatMap": {
+            "Volume_mt": 690,
+            "Cont_rs_t": 3402,
+            "Cont_value_l": 23,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -417,6 +501,12 @@
         "Discount": {
             "Q1_23": 207.0340476190476,
             "Q1_24": 109.84091525423729
+        },
+        "HeatMap": {
+            "Volume_mt": 295,
+            "Cont_rs_t": 3614,
+            "Cont_value_l": 11,
+            "DSP_percent": "10%"
         }
     },
     {
@@ -445,6 +535,12 @@
         "Discount": {
             "Q1_23": 315.93052631578945,
             "Q1_24": 334.87957952573737
+        },
+        "HeatMap": {
+            "Volume_mt": 455,
+            "Cont_rs_t": 3401,
+            "Cont_value_l": 15,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -473,6 +569,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 232.12928571428577
+        },
+        "HeatMap": {
+            "Volume_mt": 525,
+            "Cont_rs_t": 3010,
+            "Cont_value_l": 16,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -501,6 +603,12 @@
         "Discount": {
             "Q1_23": 278.9390344827586,
             "Q1_24": 104.16166666666666
+        },
+        "HeatMap": {
+            "Volume_mt": 75,
+            "Cont_rs_t": 2657,
+            "Cont_value_l": 2,
+            "DSP_percent": "33%"
         }
     },
     {
@@ -529,6 +637,12 @@
         "Discount": {
             "Q1_23": 255.72680000000003,
             "Q1_24": 230.0222222222222
+        },
+        "HeatMap": {
+            "Volume_mt": 180,
+            "Cont_rs_t": 3744,
+            "Cont_value_l": 7,
+            "DSP_percent": "19%"
         }
     },
     {
@@ -557,6 +671,12 @@
         "Discount": {
             "Q1_23": 292.3644235294118,
             "Q1_24": 223.01056666666665
+        },
+        "HeatMap": {
+            "Volume_mt": 300,
+            "Cont_rs_t": 2908,
+            "Cont_value_l": 9,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -585,6 +705,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 275.0980392156863
+        },
+        "HeatMap": {
+            "Volume_mt": 255,
+            "Cont_rs_t": 3499,
+            "Cont_value_l": 9,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -613,34 +739,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 242.03160655737705
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "nagaland",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "NAG",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "PRASHANT KUMAR THAKUR",
-        "ASO": "SUN BAHADUR THAPA",
-        "District": "DIMAPUR",
-        "Code": 7031028,
-        "DealerName": "SHIV HARDWARE STORE",
-        "Position": [
-            25.895465968448,
-            93.756061904132
-        ],
-        "Volume": {
-            "Q1_23": 50.0,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 164.40013333333334,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 305,
+            "Cont_rs_t": 3015,
+            "Cont_value_l": 9,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -669,6 +773,12 @@
         "Discount": {
             "Q1_23": 270.637,
             "Q1_24": 311.30049999999994
+        },
+        "HeatMap": {
+            "Volume_mt": 60,
+            "Cont_rs_t": 3180,
+            "Cont_value_l": 2,
+            "DSP_percent": "17%"
         }
     },
     {
@@ -697,6 +807,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 322.45913333333334
+        },
+        "HeatMap": {
+            "Volume_mt": 75,
+            "Cont_rs_t": 3080,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     }
 ]

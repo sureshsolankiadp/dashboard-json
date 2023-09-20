@@ -1,6 +1,6 @@
 [
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -25,10 +25,16 @@
         "Discount": {
             "Q1_23": 597.2442996076844,
             "Q1_24": 415.26064283303987
+        },
+        "HeatMap": {
+            "Volume_mt": 3514,
+            "Cont_rs_t": 1416,
+            "Cont_value_l": 50,
+            "DSP_percent": "3%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -53,10 +59,16 @@
         "Discount": {
             "Q1_23": 716.373253299963,
             "Q1_24": 438.0564630059186
+        },
+        "HeatMap": {
+            "Volume_mt": 3549,
+            "Cont_rs_t": 1343,
+            "Cont_value_l": 48,
+            "DSP_percent": "15%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -81,10 +93,16 @@
         "Discount": {
             "Q1_23": 429.7013060579956,
             "Q1_24": 372.79118010813096
+        },
+        "HeatMap": {
+            "Volume_mt": 2347,
+            "Cont_rs_t": 1416,
+            "Cont_value_l": 33,
+            "DSP_percent": "21%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -109,10 +127,16 @@
         "Discount": {
             "Q1_23": 416.90079048219906,
             "Q1_24": 431.51309861989967
+        },
+        "HeatMap": {
+            "Volume_mt": 1314,
+            "Cont_rs_t": 1684,
+            "Cont_value_l": 22,
+            "DSP_percent": "12%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -137,10 +161,16 @@
         "Discount": {
             "Q1_23": 430.95208080484645,
             "Q1_24": 288.07994731042726
+        },
+        "HeatMap": {
+            "Volume_mt": 519,
+            "Cont_rs_t": 1546,
+            "Cont_value_l": 8,
+            "DSP_percent": "5%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -165,10 +195,16 @@
         "Discount": {
             "Q1_23": 583.4369363804069,
             "Q1_24": 296.9657013584067
+        },
+        "HeatMap": {
+            "Volume_mt": 219,
+            "Cont_rs_t": 1493,
+            "Cont_value_l": 3,
+            "DSP_percent": "14%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -193,10 +229,16 @@
         "Discount": {
             "Q1_23": 413.10435733713746,
             "Q1_24": 426.88297173324065
+        },
+        "HeatMap": {
+            "Volume_mt": 283,
+            "Cont_rs_t": 1245,
+            "Cont_value_l": 4,
+            "DSP_percent": "4%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -221,10 +263,16 @@
         "Discount": {
             "Q1_23": 194.12686605487707,
             "Q1_24": 336.3987772358056
+        },
+        "HeatMap": {
+            "Volume_mt": 289,
+            "Cont_rs_t": 1618,
+            "Cont_value_l": 5,
+            "DSP_percent": "3%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -249,10 +297,16 @@
         "Discount": {
             "Q1_23": 221.33743135130817,
             "Q1_24": 148.97462923093838
+        },
+        "HeatMap": {
+            "Volume_mt": 291,
+            "Cont_rs_t": 1579,
+            "Cont_value_l": 5,
+            "DSP_percent": "2%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -277,10 +331,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 317.39643435980554
+        },
+        "HeatMap": {
+            "Volume_mt": 154,
+            "Cont_rs_t": 1683,
+            "Cont_value_l": 3,
+            "DSP_percent": "10%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -305,10 +365,16 @@
         "Discount": {
             "Q1_23": 217.24479776865473,
             "Q1_24": 286.0218942358337
+        },
+        "HeatMap": {
+            "Volume_mt": 123,
+            "Cont_rs_t": 1319,
+            "Cont_value_l": 2,
+            "DSP_percent": "20%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -333,10 +399,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 138.7873036229561
+        },
+        "HeatMap": {
+            "Volume_mt": 156,
+            "Cont_rs_t": 1307,
+            "Cont_value_l": 2,
+            "DSP_percent": "4%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -361,10 +433,16 @@
         "Discount": {
             "Q1_23": 220.00404811824214,
             "Q1_24": 104.517267698928
+        },
+        "HeatMap": {
+            "Volume_mt": 102,
+            "Cont_rs_t": 1455,
+            "Cont_value_l": 1,
+            "DSP_percent": "50%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -389,10 +467,16 @@
         "Discount": {
             "Q1_23": 28.45815439843536,
             "Q1_24": 199.61434487462586
+        },
+        "HeatMap": {
+            "Volume_mt": 126,
+            "Cont_rs_t": 1390,
+            "Cont_value_l": 2,
+            "DSP_percent": "14%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -417,10 +501,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 299.2093307839388
+        },
+        "HeatMap": {
+            "Volume_mt": 131,
+            "Cont_rs_t": 1526,
+            "Cont_value_l": 2,
+            "DSP_percent": "20%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -445,10 +535,16 @@
         "Discount": {
             "Q1_23": 126.23997258025355,
             "Q1_24": 253.27498806577006
+        },
+        "HeatMap": {
+            "Volume_mt": 75,
+            "Cont_rs_t": 1253,
+            "Cont_value_l": 1,
+            "DSP_percent": "33%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -473,10 +569,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 310.0
+        },
+        "HeatMap": {
+            "Volume_mt": 46,
+            "Cont_rs_t": 1446,
+            "Cont_value_l": 1,
+            "DSP_percent": "22%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -501,10 +603,16 @@
         "Discount": {
             "Q1_23": 223.64051597186318,
             "Q1_24": 231.509188881194
+        },
+        "HeatMap": {
+            "Volume_mt": 145,
+            "Cont_rs_t": 1303,
+            "Cont_value_l": 2,
+            "DSP_percent": "16%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -529,10 +637,16 @@
         "Discount": {
             "Q1_23": 119.70815439843537,
             "Q1_24": 63.84276978305075
+        },
+        "HeatMap": {
+            "Volume_mt": 39,
+            "Cont_rs_t": 1417,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -557,10 +671,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 150.72549019607843
+        },
+        "HeatMap": {
+            "Volume_mt": 102,
+            "Cont_rs_t": 1239,
+            "Cont_value_l": 1,
+            "DSP_percent": "11%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -585,10 +705,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 26,
+            "Cont_rs_t": 1437,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -613,10 +739,16 @@
         "Discount": {
             "Q1_23": 29.526856688511703,
             "Q1_24": 58.45815439843537
+        },
+        "HeatMap": {
+            "Volume_mt": 12,
+            "Cont_rs_t": 1679,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -641,10 +773,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 165.0
+        },
+        "HeatMap": {
+            "Volume_mt": 36,
+            "Cont_rs_t": 1266,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -669,10 +807,16 @@
         "Discount": {
             "Q1_23": 28.45815439843536,
             "Q1_24": 140.12482106510203
+        },
+        "HeatMap": {
+            "Volume_mt": 24,
+            "Cont_rs_t": 1234,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -697,10 +841,16 @@
         "Discount": {
             "Q1_23": 33.55815439843536,
             "Q1_24": 28.45815439843536
+        },
+        "HeatMap": {
+            "Volume_mt": 16,
+            "Cont_rs_t": 1242,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -725,38 +875,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 57.500540540540555
+        },
+        "HeatMap": {
+            "Volume_mt": 19,
+            "Cont_rs_t": 1399,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SANJAY R",
-        "State": "GOA",
-        "SH": "SUNIL AGGARWAL",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "ADIR GURUDAS NAIK",
-        "District": "SOUTH GOA",
-        "Code": 7029248,
-        "DealerName": "MARTIN & SONS",
-        "Position": [
-            15.2024541,
-            73.9942054
-        ],
-        "Volume": {
-            "Q1_23": 12.5,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.03531073446327684,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 138.4581543984354,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -781,10 +909,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 9,
+            "Cont_rs_t": 1328,
+            "Cont_value_l": 0,
+            "DSP_percent": "71%"
         }
     },
     {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -809,150 +943,16 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
+        },
+        "HeatMap": {
+            "Volume_mt": 10,
+            "Cont_rs_t": 1136,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SANJAY R",
-        "State": "GOA",
-        "SH": "SUNIL AGGARWAL",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "ADIR GURUDAS NAIK",
-        "District": "NORTH GOA",
-        "Code": 7026324,
-        "DealerName": "MAHALAXMI STEELS AND HARDWARE",
-        "Position": [
-            15.4157699,
-            74.0084876
-        ],
-        "Volume": {
-            "Q1_23": 1.6666666666666667,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0925925925925926,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 28.45815439843536,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SANJAY R",
-        "State": "GOA",
-        "SH": "SUNIL AGGARWAL",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "AVANESH VYAGHRA",
-        "District": "NORTH GOA",
-        "Code": 7033789,
-        "DealerName": "M/S DIAMOND HARDWARE & ELECTRICALS.",
-        "Position": [
-            15.5262008,
-            73.8365764
-        ],
-        "Volume": {
-            "Q1_23": 5.5,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.09166666666666666,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 46.63997258025354,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SANJAY R",
-        "State": "GOA",
-        "SH": "SUNIL AGGARWAL",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "AVANESH VYAGHRA",
-        "District": "NORTH GOA",
-        "Code": 7015231,
-        "DealerName": "SHRI MAHALAXMI INDUSTRIES",
-        "Position": [
-            15.5384755,
-            73.8330333
-        ],
-        "Volume": {
-            "Q1_23": 2.0833333333333335,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.034722222222222224,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 28.45815439843536,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SANJAY R",
-        "State": "GOA",
-        "SH": "SUNIL AGGARWAL",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "AVANESH VYAGHRA",
-        "District": "NORTH GOA",
-        "Code": 7027939,
-        "DealerName": "SUPREME AGENCIES",
-        "Position": [
-            15.6042934,
-            73.8216441
-        ],
-        "Volume": {
-            "Q1_23": 4.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.00392156862745098,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 28.458154398435365,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SANJAY R",
-        "State": "GOA",
-        "SH": "SUNIL AGGARWAL",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "ADIR GURUDAS NAIK",
-        "District": "SOUTH GOA",
-        "Code": 7036259,
-        "DealerName": "SHANTADURGA TRADE LINKS",
-        "Position": [
-            15.178462460396,
-            73.997726105154
-        ],
-        "Volume": {
-            "Q1_23": 22.666666666666668,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.02578687902919985,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 249.1578994957183,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "S",
+        "Reg": "South",
         "Zone": "goa",
         "ZH": "SANJAY R",
         "State": "GOA",
@@ -977,34 +977,12 @@
         "Discount": {
             "Q1_23": 222.7475644605277,
             "Q1_24": 1139.0619730626784
-        }
-    },
-    {
-        "Reg": "S",
-        "Zone": "goa",
-        "ZH": "SUNIL AGGARWAL",
-        "State": "GOA",
-        "SH": "VISHAL BIPIN SANGHANI",
-        "ASM": "VISHAL BIPIN SANGHANI",
-        "ASO": "ADIR GURUDAS NAIK",
-        "District": "SOUTH GOA",
-        "Code": 7027855,
-        "DealerName": "LAKSHMI ENTERPRISES",
-        "Position": [
-            15.3876085,
-            73.8458663
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 5,
+            "Cont_rs_t": -5368,
+            "Cont_value_l": 0,
+            "DSP_percent": "56%"
         }
     }
 ]

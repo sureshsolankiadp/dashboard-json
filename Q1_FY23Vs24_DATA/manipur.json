@@ -25,6 +25,12 @@
         "Discount": {
             "Q1_23": 912.6051828296386,
             "Q1_24": 448.7605299985779
+        },
+        "HeatMap": {
+            "Volume_mt": 487,
+            "Cont_rs_t": 3180,
+            "Cont_value_l": 15,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -53,6 +59,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 402.65983725455476
+        },
+        "HeatMap": {
+            "Volume_mt": 2827,
+            "Cont_rs_t": 3194,
+            "Cont_value_l": 90,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -81,6 +93,12 @@
         "Discount": {
             "Q1_23": 879.5647248844703,
             "Q1_24": 659.7586453020095
+        },
+        "HeatMap": {
+            "Volume_mt": 2809,
+            "Cont_rs_t": 3119,
+            "Cont_value_l": 88,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -109,6 +127,12 @@
         "Discount": {
             "Q1_23": 705.1019309006396,
             "Q1_24": 635.4650040884605
+        },
+        "HeatMap": {
+            "Volume_mt": 791,
+            "Cont_rs_t": 3213,
+            "Cont_value_l": 25,
+            "DSP_percent": "5%"
         }
     },
     {
@@ -137,6 +161,12 @@
         "Discount": {
             "Q1_23": 764.7758127012381,
             "Q1_24": 491.3053656160928
+        },
+        "HeatMap": {
+            "Volume_mt": 780,
+            "Cont_rs_t": 3093,
+            "Cont_value_l": 24,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -165,6 +195,12 @@
         "Discount": {
             "Q1_23": 546.8310551677436,
             "Q1_24": 598.4047551271013
+        },
+        "HeatMap": {
+            "Volume_mt": 259,
+            "Cont_rs_t": 3288,
+            "Cont_value_l": 9,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -193,6 +229,12 @@
         "Discount": {
             "Q1_23": 809.3605582131398,
             "Q1_24": 480.7318881530162
+        },
+        "HeatMap": {
+            "Volume_mt": 409,
+            "Cont_rs_t": 3261,
+            "Cont_value_l": 13,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -221,6 +263,12 @@
         "Discount": {
             "Q1_23": 568.8975282649095,
             "Q1_24": 451.07434081247027
+        },
+        "HeatMap": {
+            "Volume_mt": 275,
+            "Cont_rs_t": 3357,
+            "Cont_value_l": 9,
+            "DSP_percent": "13%"
         }
     },
     {
@@ -249,6 +297,12 @@
         "Discount": {
             "Q1_23": 652.4988205068951,
             "Q1_24": 623.8313857137078
+        },
+        "HeatMap": {
+            "Volume_mt": 250,
+            "Cont_rs_t": 3309,
+            "Cont_value_l": 8,
+            "DSP_percent": "8%"
         }
     },
     {
@@ -277,6 +331,12 @@
         "Discount": {
             "Q1_23": 627.2960481018534,
             "Q1_24": 437.15545932560747
+        },
+        "HeatMap": {
+            "Volume_mt": 372,
+            "Cont_rs_t": 3138,
+            "Cont_value_l": 12,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -305,6 +365,12 @@
         "Discount": {
             "Q1_23": 710.4123624988233,
             "Q1_24": 457.33332989431807
+        },
+        "HeatMap": {
+            "Volume_mt": 542,
+            "Cont_rs_t": 3030,
+            "Cont_value_l": 16,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -333,6 +399,12 @@
         "Discount": {
             "Q1_23": 905.8846813988416,
             "Q1_24": 579.0268382615866
+        },
+        "HeatMap": {
+            "Volume_mt": 51,
+            "Cont_rs_t": 3308,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -361,6 +433,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 428.106135986733
+        },
+        "HeatMap": {
+            "Volume_mt": 302,
+            "Cont_rs_t": 3343,
+            "Cont_value_l": 10,
+            "DSP_percent": "21%"
         }
     },
     {
@@ -389,6 +467,12 @@
         "Discount": {
             "Q1_23": 727.2469322268847,
             "Q1_24": 608.4780314753044
+        },
+        "HeatMap": {
+            "Volume_mt": 333,
+            "Cont_rs_t": 3320,
+            "Cont_value_l": 11,
+            "DSP_percent": "27%"
         }
     },
     {
@@ -417,6 +501,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 480.3057432432432
+        },
+        "HeatMap": {
+            "Volume_mt": 148,
+            "Cont_rs_t": 3252,
+            "Cont_value_l": 5,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -445,6 +535,12 @@
         "Discount": {
             "Q1_23": 631.7620715268533,
             "Q1_24": 397.7884864204703
+        },
+        "HeatMap": {
+            "Volume_mt": 94,
+            "Cont_rs_t": 3216,
+            "Cont_value_l": 3,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -473,6 +569,12 @@
         "Discount": {
             "Q1_23": 743.4360960191458,
             "Q1_24": 652.7675354749279
+        },
+        "HeatMap": {
+            "Volume_mt": 150,
+            "Cont_rs_t": 3156,
+            "Cont_value_l": 5,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -501,6 +603,12 @@
         "Discount": {
             "Q1_23": 686.485308160078,
             "Q1_24": 438.071940722048
+        },
+        "HeatMap": {
+            "Volume_mt": 118,
+            "Cont_rs_t": 3155,
+            "Cont_value_l": 4,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -529,6 +637,12 @@
         "Discount": {
             "Q1_23": 550.496488084933,
             "Q1_24": 465.5786190677114
+        },
+        "HeatMap": {
+            "Volume_mt": 158,
+            "Cont_rs_t": 3050,
+            "Cont_value_l": 5,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -557,6 +671,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 468.6842105263158
+        },
+        "HeatMap": {
+            "Volume_mt": 38,
+            "Cont_rs_t": 2908,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -585,62 +705,12 @@
         "Discount": {
             "Q1_23": 614.317511456132,
             "Q1_24": 114.55953392804227
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "IMPHAL WEST",
-        "Code": 7008743,
-        "DealerName": "IMA PANTHOIBI ENTERPRISES",
-        "Position": [
-            24.7883431,
-            93.9213948
-        ],
-        "Volume": {
-            "Q1_23": 107.71666666666665,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.1436222222222222,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 571.304806204549,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "WAREPAM AMARJEET",
-        "District": "IMPHAL WEST",
-        "Code": 7032010,
-        "DealerName": "R & J BROTHERS STEEL",
-        "Position": [
-            24.7930126,
-            93.9287624
-        ],
-        "Volume": {
-            "Q1_23": 61.666666666666664,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0685185185185185,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 641.2111653671819,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 27,
+            "Cont_rs_t": 2788,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -669,34 +739,12 @@
         "Discount": {
             "Q1_23": 471.5342510121458,
             "Q1_24": 251.96081081081078
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "BISHNUPUR",
-        "Code": 7031645,
-        "DealerName": "OKNAREL STEEL HOUSE",
-        "Position": [
-            24.5741262,
-            93.7643018
-        ],
-        "Volume": {
-            "Q1_23": 30.0,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.026455026455026454,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 474.978339996707,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 74,
+            "Cont_rs_t": 2919,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -725,6 +773,12 @@
         "Discount": {
             "Q1_23": 442.500154494382,
             "Q1_24": 601.6722785285286
+        },
+        "HeatMap": {
+            "Volume_mt": 100,
+            "Cont_rs_t": 3561,
+            "Cont_value_l": 4,
+            "DSP_percent": "95%"
         }
     },
     {
@@ -753,34 +807,12 @@
         "Discount": {
             "Q1_23": 500.4327717391305,
             "Q1_24": 476.31066176470586
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "WAREPAM AMARJEET",
-        "District": "IMPHAL EAST",
-        "Code": 7008811,
-        "DealerName": "L I STEEL",
-        "Position": [
-            24.8265496,
-            93.9444518
-        ],
-        "Volume": {
-            "Q1_23": 81.33333333333333,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.010230607966457023,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 349.45114754098364,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 85,
+            "Cont_rs_t": 3479,
+            "Cont_value_l": 3,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -809,34 +841,12 @@
         "Discount": {
             "Q1_23": 635.7429415918308,
             "Q1_24": 373.92371554531917
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "IMPHAL WEST",
-        "Code": 7031968,
-        "DealerName": "LYS SALES PRIVATE LIMITED",
-        "Position": [
-            24.787254,
-            93.9213732
-        ],
-        "Volume": {
-            "Q1_23": 77.33333333333333,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.2577777777777778,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 496.798275862069,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 43,
+            "Cont_rs_t": 3087,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -865,34 +875,12 @@
         "Discount": {
             "Q1_23": 455.60744680851064,
             "Q1_24": 421.84
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "BISHNUPUR",
-        "Code": 7026547,
-        "DealerName": "YANGOININGTHOU STEEL",
-        "Position": [
-            24.6304996,
-            93.7629099
-        ],
-        "Volume": {
-            "Q1_23": 39.666666666666664,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.08263888888888889,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 405.6171428571429,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 50,
+            "Cont_rs_t": 3093,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -921,6 +909,12 @@
         "Discount": {
             "Q1_23": 485.2731388888889,
             "Q1_24": 234.1373820754717
+        },
+        "HeatMap": {
+            "Volume_mt": 53,
+            "Cont_rs_t": 2988,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -949,6 +943,12 @@
         "Discount": {
             "Q1_23": 451.77777777777777,
             "Q1_24": 492.0
+        },
+        "HeatMap": {
+            "Volume_mt": 45,
+            "Cont_rs_t": 3308,
+            "Cont_value_l": 1,
+            "DSP_percent": "22%"
         }
     },
     {
@@ -977,6 +977,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 468.7
+        },
+        "HeatMap": {
+            "Volume_mt": 50,
+            "Cont_rs_t": 3306,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1005,6 +1011,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 468.7073170731707
+        },
+        "HeatMap": {
+            "Volume_mt": 41,
+            "Cont_rs_t": 3147,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1033,6 +1045,12 @@
         "Discount": {
             "Q1_23": 358.124347826087,
             "Q1_24": 172.88524590163934
+        },
+        "HeatMap": {
+            "Volume_mt": 61,
+            "Cont_rs_t": 3000,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1061,6 +1079,12 @@
         "Discount": {
             "Q1_23": 484.1840404040405,
             "Q1_24": 405.1554545454546
+        },
+        "HeatMap": {
+            "Volume_mt": 1,
+            "Cont_rs_t": 2746,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1089,202 +1113,12 @@
         "Discount": {
             "Q1_23": 217.49866666666665,
             "Q1_24": 421.8
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "WAREPAM AMARJEET",
-        "District": "IMPHAL WEST",
-        "Code": 7029142,
-        "DealerName": "DHANESHWORI TRADER",
-        "Position": [
-            24.8076422,
-            93.919885
-        ],
-        "Volume": {
-            "Q1_23": 23.333333333333332,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.02356902356902357,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 419.2711428571429,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "UKHRUL",
-        "Code": 7032364,
-        "DealerName": "A-Z CONSTRUCTION",
-        "Position": [
-            25.0937072,
-            94.3621333
-        ],
-        "Volume": {
-            "Q1_23": 17.333333333333332,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 451.24461538461543,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "CHURACHANDPUR",
-        "Code": 7031529,
-        "DealerName": "OASIS",
-        "Position": [
-            24.374622,
-            93.7062301
-        ],
-        "Volume": {
-            "Q1_23": 5.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.08333333333333334,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 217.49866666666665,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "IMPHAL WEST",
-        "Code": 7023080,
-        "DealerName": "THOUNA ENTERPRISES",
-        "Position": [
-            24.673623243984,
-            93.900278442745
-        ],
-        "Volume": {
-            "Q1_23": 5.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.03333333333333333,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 217.49866666666668,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "IMPHAL EAST",
-        "Code": 7030294,
-        "DealerName": "B.B. BROTHERS",
-        "Position": [
-            24.8047103,
-            93.1159356
-        ],
-        "Volume": {
-            "Q1_23": 0.6666666666666666,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 217.49,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "LAIMAYUM SURYANATH SHARMA",
-        "District": "CHURACHANDPUR",
-        "Code": 7031843,
-        "DealerName": "T.H. ENTERPRISES",
-        "Position": [
-            24.3513055,
-            93.7043272
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "manipur",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MAN",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "WAREPAM AMARJEET",
-        "District": "IMPHAL EAST",
-        "Code": 7015360,
-        "DealerName": "L.I & SONS ENTERPRISES",
-        "Position": [
-            26.178885,
-            91.8403678
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 10,
+            "Cont_rs_t": 3741,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     }
 ]

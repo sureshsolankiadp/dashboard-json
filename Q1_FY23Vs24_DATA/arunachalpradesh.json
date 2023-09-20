@@ -1,2046 +1,2110 @@
-[
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7039078,
-        "DealerName": "PRIME TRADERS",
-        "Position": [
-            27.1114042,
-            93.8239696
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 2304.4166666666665
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 1.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 275.56105350233247
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7022777,
-        "DealerName": "M.S. HARDWARE",
-        "Position": [
-            27.1088955,
-            93.8243308
-        ],
-        "Volume": {
-            "Q1_23": 2067.566666666667,
-            "Q1_24": 77.16666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.1862672672672673,
-            "Q1_24": 0.006951951951951953
-        },
-        "Discount": {
-            "Q1_23": 664.6481356574558,
-            "Q1_24": 400.880959174254
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7026056,
-        "DealerName": "MICHELLE HARDWARE & CORPORATE",
-        "Position": [
-            27.0995393,
-            93.6834004
-        ],
-        "Volume": {
-            "Q1_23": 316.6666666666667,
-            "Q1_24": 495.0
-        },
-        "SOW": {
-            "Q1_23": 0.13112491373360938,
-            "Q1_24": 0.20496894409937888
-        },
-        "Discount": {
-            "Q1_23": 462.3388477448136,
-            "Q1_24": 404.81152940350574
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7008656,
-        "DealerName": "M.S.ENTERPRISES",
-        "Position": [
-            28.1729889,
-            94.8059502
-        ],
-        "Volume": {
-            "Q1_23": 534.8833333333333,
-            "Q1_24": 310.33333333333337
-        },
-        "SOW": {
-            "Q1_23": 0.5243954248366013,
-            "Q1_24": 0.3042483660130719
-        },
-        "Discount": {
-            "Q1_23": 632.8540753739443,
-            "Q1_24": 522.639965228351
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7007748,
-        "DealerName": "P. P. STEEL",
-        "Position": [
-            27.1070695,
-            93.7059867
-        ],
-        "Volume": {
-            "Q1_23": 229.16666666666666,
-            "Q1_24": 355.0
-        },
-        "SOW": {
-            "Q1_23": 0.026340996168582376,
-            "Q1_24": 0.04080459770114942
-        },
-        "Discount": {
-            "Q1_23": 566.783144154885,
-            "Q1_24": 556.0933616367458
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARIJIT GHOSH",
-        "District": "LOWER DIBANG VALLEY",
-        "Code": 7037439,
-        "DealerName": "K T ENTERPRISE",
-        "Position": [
-            28.133892,
-            95.8410543
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 426.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.2088235294117647
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 236.2042957746479
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "ANJAW",
-        "Code": 7008540,
-        "DealerName": "LAGAN HARDWARE",
-        "Position": [
-            27.487802342651,
-            95.357885509729
-        ],
-        "Volume": {
-            "Q1_23": 230.83333333333334,
-            "Q1_24": 619.3333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.0512962962962963,
-            "Q1_24": 0.13762962962962963
-        },
-        "Discount": {
-            "Q1_23": 582.5169680330364,
-            "Q1_24": 528.481339368038
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7009021,
-        "DealerName": "TAYING HARDWARE",
-        "Position": [
-            27.84412815939,
-            95.228849127889
-        ],
-        "Volume": {
-            "Q1_23": 253.33333333333334,
-            "Q1_24": 352.1666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.2111111111111111,
-            "Q1_24": 0.29347222222222225
-        },
-        "Discount": {
-            "Q1_23": 289.3878815789473,
-            "Q1_24": 294.26582288215815
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7033781,
-        "DealerName": "MAHAVIR STEEL HOUSE",
-        "Position": [
-            27.115522448424,
-            93.714028336108
-        ],
-        "Volume": {
-            "Q1_23": 108.33333333333333,
-            "Q1_24": 341.0
-        },
-        "SOW": {
-            "Q1_23": 0.04689754689754689,
-            "Q1_24": 0.14761904761904762
-        },
-        "Discount": {
-            "Q1_23": 404.88579538100703,
-            "Q1_24": 405.8783593707807
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARIJIT GHOSH",
-        "District": "LOHIT",
-        "Code": 7025908,
-        "DealerName": "A.K HARDWARE STORE",
-        "Position": [
-            27.6677416,
-            95.860279
-        ],
-        "Volume": {
-            "Q1_23": 200.0,
-            "Q1_24": 248.33333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.09389671361502348,
-            "Q1_24": 0.11658841940532083
-        },
-        "Discount": {
-            "Q1_23": 539.4655009287238,
-            "Q1_24": 459.60490383700073
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7026081,
-        "DealerName": "O.N.ENTERPRISES",
-        "Position": [
-            28.0614917,
-            95.3349144
-        ],
-        "Volume": {
-            "Q1_23": 292.0,
-            "Q1_24": 402.6666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.24957264957264957,
-            "Q1_24": 0.3441595441595442
-        },
-        "Discount": {
-            "Q1_23": 451.51898558000306,
-            "Q1_24": 373.7511539060788
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7033316,
-        "DealerName": "M/S RAKESH ENTERPRISES",
-        "Position": [
-            27.108196454242,
-            93.695688061416
-        ],
-        "Volume": {
-            "Q1_23": 269.1666666666667,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.06525252525252526,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 445.5391679566564,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7007586,
-        "DealerName": "KABAK HARDWARE CENTRE",
-        "Position": [
-            27.1010885,
-            93.6288049
-        ],
-        "Volume": {
-            "Q1_23": 196.5,
-            "Q1_24": 265.0
-        },
-        "SOW": {
-            "Q1_23": 0.07043010752688172,
-            "Q1_24": 0.09498207885304659
-        },
-        "Discount": {
-            "Q1_23": 543.5196973160332,
-            "Q1_24": 485.88805053350245
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7034826,
-        "DealerName": "M/S TANA ENTERPRISES",
-        "Position": [
-            27.076248406844,
-            93.623307645321
-        ],
-        "Volume": {
-            "Q1_23": 166.66666666666666,
-            "Q1_24": 176.66666666666666
-        },
-        "SOW": {
-            "Q1_23": 0.1111111111111111,
-            "Q1_24": 0.11777777777777777
-        },
-        "Discount": {
-            "Q1_23": 462.8073270242293,
-            "Q1_24": 415.90004947705955
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7026220,
-        "DealerName": "PINCHI ENTERPRISE",
-        "Position": [
-            27.1213714,
-            93.7189177
-        ],
-        "Volume": {
-            "Q1_23": 154.16666666666666,
-            "Q1_24": 235.0
-        },
-        "SOW": {
-            "Q1_23": 0.11294261294261293,
-            "Q1_24": 0.17216117216117216
-        },
-        "Discount": {
-            "Q1_23": 370.2557067567568,
-            "Q1_24": 337.20192625071877
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7009118,
-        "DealerName": "ORMING ENTERPRISE",
-        "Position": [
-            27.0994512,
-            93.6257714
-        ],
-        "Volume": {
-            "Q1_23": 185.0,
-            "Q1_24": 166.66666666666666
-        },
-        "SOW": {
-            "Q1_23": 0.35238095238095235,
-            "Q1_24": 0.31746031746031744
-        },
-        "Discount": {
-            "Q1_23": 411.4402997283616,
-            "Q1_24": 286.44669288151476
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7031421,
-        "DealerName": "MS SANGGAM ENTERPRISE",
-        "Position": [
-            28.0639851,
-            95.3332898
-        ],
-        "Volume": {
-            "Q1_23": 115.0,
-            "Q1_24": 211.66666666666666
-        },
-        "SOW": {
-            "Q1_23": 0.1277777777777778,
-            "Q1_24": 0.2351851851851852
-        },
-        "Discount": {
-            "Q1_23": 359.71170763161206,
-            "Q1_24": 399.47844556382705
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7036401,
-        "DealerName": "M/S V.T. ASSOCIATES",
-        "Position": [
-            28.015718,
-            95.343144
-        ],
-        "Volume": {
-            "Q1_23": 25.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.02450980392156863,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 547.8130668869098,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7035339,
-        "DealerName": "GANGLE DALE ENTERPRISE",
-        "Position": [
-            27.062727448635,
-            93.608218543231
-        ],
-        "Volume": {
-            "Q1_23": 146.5,
-            "Q1_24": 190.0
-        },
-        "SOW": {
-            "Q1_23": 0.09865319865319866,
-            "Q1_24": 0.12794612794612795
-        },
-        "Discount": {
-            "Q1_23": 452.4256817178736,
-            "Q1_24": 355.50301493145355
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7034825,
-        "DealerName": "M/S ONN AGENCY",
-        "Position": [
-            27.098821896448,
-            93.679033219814
-        ],
-        "Volume": {
-            "Q1_23": 168.33333333333334,
-            "Q1_24": 230.66666666666666
-        },
-        "SOW": {
-            "Q1_23": 0.07959022852639874,
-            "Q1_24": 0.1090622537431048
-        },
-        "Discount": {
-            "Q1_23": 502.1987465376149,
-            "Q1_24": 407.2109137455929
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7029036,
-        "DealerName": "BUBO & OD ENTERPRISE",
-        "Position": [
-            28.060194545388,
-            95.333432480693
-        ],
-        "Volume": {
-            "Q1_23": 211.66666666666666,
-            "Q1_24": 114.66666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.2351851851851852,
-            "Q1_24": 0.1274074074074074
-        },
-        "Discount": {
-            "Q1_23": 391.7596947280379,
-            "Q1_24": 290.6753979188455
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7024821,
-        "DealerName": "PEDONG NANE ENTERPRISES",
-        "Position": [
-            28.0628179,
-            95.3289351
-        ],
-        "Volume": {
-            "Q1_23": 141.66666666666666,
-            "Q1_24": 163.0
-        },
-        "SOW": {
-            "Q1_23": 0.2361111111111111,
-            "Q1_24": 0.27166666666666667
-        },
-        "Discount": {
-            "Q1_23": 333.9007806544438,
-            "Q1_24": 268.6638126284605
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7033307,
-        "DealerName": "KDEE ENTERPRISE",
-        "Position": [
-            28.047646147887,
-            95.331328622997
-        ],
-        "Volume": {
-            "Q1_23": 171.66666666666666,
-            "Q1_24": 170.33333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.20436507936507936,
-            "Q1_24": 0.20277777777777778
-        },
-        "Discount": {
-            "Q1_23": 313.3869364955539,
-            "Q1_24": 235.50145394658279
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARIJIT GHOSH",
-        "District": "LOWER DIBANG VALLEY",
-        "Code": 7029325,
-        "DealerName": "K T ENTERPRISE",
-        "Position": [
-            28.133892,
-            95.8410543
-        ],
-        "Volume": {
-            "Q1_23": 280.3333333333333,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 303.893501783591,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "CHANGLANG",
-        "Code": 7037219,
-        "DealerName": "M/S. SAMSON TRADERS",
-        "Position": [
-            27.42,
-            96.022
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 213.33333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.23703703703703705
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 275.353515625
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "LOWER SUBANSIRI",
-        "Code": 7008915,
-        "DealerName": "RIDGE ENTERPRISES",
-        "Position": [
-            27.5534424,
-            93.8254379
-        ],
-        "Volume": {
-            "Q1_23": 136.33333333333334,
-            "Q1_24": 146.66666666666666
-        },
-        "SOW": {
-            "Q1_23": 0.2065656565656566,
-            "Q1_24": 0.2222222222222222
-        },
-        "Discount": {
-            "Q1_23": 418.0801142076462,
-            "Q1_24": 328.1594419818738
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7030617,
-        "DealerName": "ROYALA ENTERPRISES",
-        "Position": [
-            27.1009335,
-            93.6862536
-        ],
-        "Volume": {
-            "Q1_23": 109.16666666666667,
-            "Q1_24": 183.33333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.08462532299741603,
-            "Q1_24": 0.14211886304909563
-        },
-        "Discount": {
-            "Q1_23": 331.16193893129764,
-            "Q1_24": 282.75004090909096
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7038836,
-        "DealerName": "M/S TANYA HARDWARE",
-        "Position": [
-            27.1104404,
-            93.8256188
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 178.33333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.22863247863247865
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 300.06210280373836
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7032029,
-        "DealerName": "D L BROS ENTERPRISES",
-        "Position": [
-            28.177342,
-            94.8050545
-        ],
-        "Volume": {
-            "Q1_23": 213.13333333333335,
-            "Q1_24": 320.73333333333335
-        },
-        "SOW": {
-            "Q1_23": 0.15787654320987657,
-            "Q1_24": 0.23758024691358023
-        },
-        "Discount": {
-            "Q1_23": 407.57403027354195,
-            "Q1_24": 399.6295403573775
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7039886,
-        "DealerName": "M/S M.B.TRADING CO.",
-        "Position": [
-            28.05868947,
-            95.33195827
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 184.66666666666666
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.30777777777777776
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 278.9997924187726
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "CHANGLANG",
-        "Code": 7027527,
-        "DealerName": "CHOEPHEL-LING TIBETAN SERVICE",
-        "Position": [
-            27.4747749,
-            96.1872393
-        ],
-        "Volume": {
-            "Q1_23": 112.33333333333333,
-            "Q1_24": 93.33333333333333
-        },
-        "SOW": {
-            "Q1_23": 0.22693602693602694,
-            "Q1_24": 0.18855218855218855
-        },
-        "Discount": {
-            "Q1_23": 357.44541172106824,
-            "Q1_24": 249.8099553571428
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "TIRAP",
-        "Code": 7037142,
-        "DealerName": "M/S ROWAH TRADERS",
-        "Position": [
-            27.1970349,
-            95.4621904
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 215.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.15925925925925927
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 286.8607906976745
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7027292,
-        "DealerName": "IR ENTERPRISE",
-        "Position": [
-            28.169478,
-            94.7965099
-        ],
-        "Volume": {
-            "Q1_23": 112.18333333333334,
-            "Q1_24": 171.0666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.09971851851851853,
-            "Q1_24": 0.15205925925925928
-        },
-        "Discount": {
-            "Q1_23": 401.64664805869944,
-            "Q1_24": 396.8858758474316
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7033819,
-        "DealerName": "M/S HOO TRADING AGENCY",
-        "Position": [
-            28.177659,
-            94.8049999
-        ],
-        "Volume": {
-            "Q1_23": 128.66666666666666,
-            "Q1_24": 290.01666666666665
-        },
-        "SOW": {
-            "Q1_23": 0.19494949494949493,
-            "Q1_24": 0.4394191919191919
-        },
-        "Discount": {
-            "Q1_23": 408.0337560361246,
-            "Q1_24": 352.22419352289285
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "JAYANTA TARAFDAR",
-        "ASM": "BHASKAR JYOTI BARMAN",
-        "ASO": "JAYANTA KUMAR LAHKAR",
-        "District": "WEST KAMENG",
-        "Code": 7013602,
-        "DealerName": "LABANGLU ENTERPRISES",
-        "Position": [
-            27.011071637467,
-            92.645968683064
-        ],
-        "Volume": {
-            "Q1_23": 130.5,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.06904761904761905,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 261.0598722860792,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7025668,
-        "DealerName": "SHREE GANESH TRADE CENTRE",
-        "Position": [
-            27.1108759,
-            93.8235526
-        ],
-        "Volume": {
-            "Q1_23": 94.08333333333333,
-            "Q1_24": 21.666666666666668
-        },
-        "SOW": {
-            "Q1_23": 0.16082621082621082,
-            "Q1_24": 0.037037037037037035
-        },
-        "Discount": {
-            "Q1_23": 543.2377395874272,
-            "Q1_24": 376.9186368757014
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7015054,
-        "DealerName": "K.K. ENTERPRISES",
-        "Position": [
-            28.1773136,
-            94.804656
-        ],
-        "Volume": {
-            "Q1_23": 221.0,
-            "Q1_24": 212.83333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.16742424242424245,
-            "Q1_24": 0.16123737373737373
-        },
-        "Discount": {
-            "Q1_23": 429.95581999052655,
-            "Q1_24": 341.54419292104933
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7037285,
-        "DealerName": "M/S NUNG ENTERPRISE",
-        "Position": [
-            28.166041,
-            95.4051
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 129.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.15087719298245614
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 213.1581912144703
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7033308,
-        "DealerName": "N.N.N ENTERPRISES",
-        "Position": [
-            28.0607929,
-            95.3215238
-        ],
-        "Volume": {
-            "Q1_23": 118.33333333333333,
-            "Q1_24": 145.33333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.1095679012345679,
-            "Q1_24": 0.1345679012345679
-        },
-        "Discount": {
-            "Q1_23": 316.9831866197183,
-            "Q1_24": 306.90811353211006
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7024935,
-        "DealerName": "BHARAT INFRASTRUCTURE",
-        "Position": [
-            28.0566413,
-            95.3318369
-        ],
-        "Volume": {
-            "Q1_23": 60.0,
-            "Q1_24": 97.66666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.125,
-            "Q1_24": 0.20347222222222222
-        },
-        "Discount": {
-            "Q1_23": 381.29165757070416,
-            "Q1_24": 271.9870644724864
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7040043,
-        "DealerName": "M/S TAGGU  ENTERPRISES",
-        "Position": [
-            28.03885933,
-            95.33433706
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 110.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.16666666666666666
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 203.82083333333333
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7007339,
-        "DealerName": "ARUNACHAL TRADERS",
-        "Position": [
-            27.5385923,
-            93.8131393
-        ],
-        "Volume": {
-            "Q1_23": 87.66666666666667,
-            "Q1_24": 56.833333333333336
-        },
-        "SOW": {
-            "Q1_23": 0.07690058479532165,
-            "Q1_24": 0.04985380116959065
-        },
-        "Discount": {
-            "Q1_23": 387.9280272875576,
-            "Q1_24": 344.6898614701786
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7032301,
-        "DealerName": "KIPA STEEL",
-        "Position": [
-            27.119244053583,
-            93.716195896268
-        ],
-        "Volume": {
-            "Q1_23": 20.0,
-            "Q1_24": 53.333333333333336
-        },
-        "SOW": {
-            "Q1_23": 0.028985507246376812,
-            "Q1_24": 0.07729468599033817
-        },
-        "Discount": {
-            "Q1_23": 163.26533333333333,
-            "Q1_24": 245.25253125
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7022894,
-        "DealerName": "ARUNI HARDWARE & ELECTRICAL",
-        "Position": [
-            28.060189219805,
-            95.333334580064
-        ],
-        "Volume": {
-            "Q1_23": 25.0,
-            "Q1_24": 35.0
-        },
-        "SOW": {
-            "Q1_23": 0.02777777777777778,
-            "Q1_24": 0.03888888888888889
-        },
-        "Discount": {
-            "Q1_23": 358.4267794017317,
-            "Q1_24": 570.6056222588747
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7034167,
-        "DealerName": "M/S KSP ENTERPRISES",
-        "Position": [
-            28.176244569666,
-            94.806134663522
-        ],
-        "Volume": {
-            "Q1_23": 138.66666666666666,
-            "Q1_24": 221.11666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.13206349206349205,
-            "Q1_24": 0.2105873015873016
-        },
-        "Discount": {
-            "Q1_23": 396.68940728812237,
-            "Q1_24": 411.49834046022113
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7024853,
-        "DealerName": "KEYIES ENTERPRISES",
-        "Position": [
-            27.1289308,
-            93.7360089
-        ],
-        "Volume": {
-            "Q1_23": 56.666666666666664,
-            "Q1_24": 106.66666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.03373015873015873,
-            "Q1_24": 0.06349206349206349
-        },
-        "Discount": {
-            "Q1_23": 307.93208823529415,
-            "Q1_24": 328.330078125
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7024967,
-        "DealerName": "A.T.A ENTERPRISE",
-        "Position": [
-            28.058491,
-            95.3319444
-        ],
-        "Volume": {
-            "Q1_23": 110.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.1746031746031746,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 430.53927146092315,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "CHANGLANG",
-        "Code": 7032479,
-        "DealerName": "CHANGLANG HARDWARE",
-        "Position": [
-            27.1379683,
-            95.7347278
-        ],
-        "Volume": {
-            "Q1_23": 120.0,
-            "Q1_24": 90.5
-        },
-        "SOW": {
-            "Q1_23": 0.2,
-            "Q1_24": 0.15083333333333335
-        },
-        "Discount": {
-            "Q1_23": 463.6580482628342,
-            "Q1_24": 273.5587253653511
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7030390,
-        "DealerName": "PERA ENTERPRISE",
-        "Position": [
-            27.0711741,
-            93.5949454
-        ],
-        "Volume": {
-            "Q1_23": 25.0,
-            "Q1_24": 43.333333333333336
-        },
-        "SOW": {
-            "Q1_23": 0.022831050228310504,
-            "Q1_24": 0.0395738203957382
-        },
-        "Discount": {
-            "Q1_23": 189.51495,
-            "Q1_24": 305.1040576923077
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7007699,
-        "DealerName": "MARUTI TRADE CENTRE",
-        "Position": [
-            27.0858594,
-            93.6133966
-        ],
-        "Volume": {
-            "Q1_23": 66.66666666666667,
-            "Q1_24": 63.333333333333336
-        },
-        "SOW": {
-            "Q1_23": 0.047281323877068564,
-            "Q1_24": 0.04491725768321513
-        },
-        "Discount": {
-            "Q1_23": 367.2685108108108,
-            "Q1_24": 321.08774502133707
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7036742,
-        "DealerName": "JKL ENTERPRISE",
-        "Position": [
-            28.1685454,
-            94.7990544
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 144.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.6
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 279.20231481481477
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7035159,
-        "DealerName": "OM ENTERPRISES",
-        "Position": [
-            27.143713261368,
-            93.749262839556
-        ],
-        "Volume": {
-            "Q1_23": 41.666666666666664,
-            "Q1_24": 61.666666666666664
-        },
-        "SOW": {
-            "Q1_23": 0.029239766081871343,
-            "Q1_24": 0.043274853801169584
-        },
-        "Discount": {
-            "Q1_23": 235.38728999999998,
-            "Q1_24": 283.1646013513514
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "LONGDING",
-        "Code": 7035248,
-        "DealerName": "M/S LOVELEE ENTERPRISES",
-        "Position": [
-            26.9127926,
-            95.3659855
-        ],
-        "Volume": {
-            "Q1_23": 58.333333333333336,
-            "Q1_24": 76.66666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.19444444444444448,
-            "Q1_24": 0.2555555555555556
-        },
-        "Discount": {
-            "Q1_23": 315.44327399697835,
-            "Q1_24": 268.35537896592245
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7024716,
-        "DealerName": "RAJ STEEL",
-        "Position": [
-            27.1307478,
-            93.7358884
-        ],
-        "Volume": {
-            "Q1_23": 66.66666666666667,
-            "Q1_24": 10.0
-        },
-        "SOW": {
-            "Q1_23": 0.041152263374485604,
-            "Q1_24": 0.00617283950617284
-        },
-        "Discount": {
-            "Q1_23": 287.91650000000004,
-            "Q1_24": 336.487
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "BHARAT DAS",
-        "ASO": "ARUNAVA DAS",
-        "District": "TIRAP",
-        "Code": 7036670,
-        "DealerName": "M/S PSK CONSTRUCTION & SUPPLY",
-        "Position": [
-            27.0244357468,
-            95.184216834605
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 50.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.08333333333333334
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 119.78666666666666
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7036905,
-        "DealerName": "M/S B.S. ENTERPRISE",
-        "Position": [
-            28.597334,
-            94.137143
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 69.13333333333333
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 1.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 232.7632292671167
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "LOWER SUBANSIRI",
-        "Code": 7030070,
-        "DealerName": "YOPU ENTERPRISES",
-        "Position": [
-            27.7919789,
-            94.0748157
-        ],
-        "Volume": {
-            "Q1_23": 26.0,
-            "Q1_24": 49.833333333333336
-        },
-        "SOW": {
-            "Q1_23": 0.2476190476190476,
-            "Q1_24": 0.4746031746031746
-        },
-        "Discount": {
-            "Q1_23": 178.98076923076923,
-            "Q1_24": 128.67496655518394
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7034522,
-        "DealerName": "MARPI WIRE PRODUCTS",
-        "Position": [
-            28.1697145,
-            94.7979801
-        ],
-        "Volume": {
-            "Q1_23": 121.66666666666667,
-            "Q1_24": 95.16666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.11587301587301588,
-            "Q1_24": 0.09063492063492064
-        },
-        "Discount": {
-            "Q1_23": 307.31158219178076,
-            "Q1_24": 197.28317425569173
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7039327,
-        "DealerName": "M/S UA TRADERS",
-        "Position": [
-            26.94466632,
-            93.59218497
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 8.333333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.11111111111111112
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7034604,
-        "DealerName": "T.M.G HARDWARE",
-        "Position": [
-            27.9807159,
-            94.6887544
-        ],
-        "Volume": {
-            "Q1_23": 67.33333333333333,
-            "Q1_24": 18.666666666666668
-        },
-        "SOW": {
-            "Q1_23": 0.08566581849024596,
-            "Q1_24": 0.02374893977947413
-        },
-        "Discount": {
-            "Q1_23": 278.2541584158416,
-            "Q1_24": 215.99803571428575
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7040278,
-        "DealerName": "OYANG ENTERPRISE",
-        "Position": [
-            28.00985009,
-            95.34186166
-        ],
-        "Volume": {
-            "Q1_23": 0.0,
-            "Q1_24": 35.0
-        },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.4666666666666666
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 171.1238095238095
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7009006,
-        "DealerName": "DDDDD ENTERPRISE",
-        "Position": [
-            28.176167,
-            94.8046561
-        ],
-        "Volume": {
-            "Q1_23": 29.666666666666668,
-            "Q1_24": 48.0
-        },
-        "SOW": {
-            "Q1_23": 0.16481481481481483,
-            "Q1_24": 0.26666666666666666
-        },
-        "Discount": {
-            "Q1_23": 230.25668539325844,
-            "Q1_24": 231.2991666666667
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7030858,
-        "DealerName": "TAGA ENTERPRISES",
-        "Position": [
-            28.062225644363,
-            95.334998890758
-        ],
-        "Volume": {
-            "Q1_23": 18.333333333333332,
-            "Q1_24": 45.0
-        },
-        "SOW": {
-            "Q1_23": 0.03216374269005848,
-            "Q1_24": 0.07894736842105263
-        },
-        "Discount": {
-            "Q1_23": 239.7138181818182,
-            "Q1_24": 230.98185185185184
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7034457,
-        "DealerName": "M/S ARUNACHAL APEX TRADERS",
-        "Position": [
-            27.9871354,
-            94.6865398
-        ],
-        "Volume": {
-            "Q1_23": 57.5,
-            "Q1_24": 36.36666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.10648148148148148,
-            "Q1_24": 0.06734567901234567
-        },
-        "Discount": {
-            "Q1_23": 322.69769927536237,
-            "Q1_24": 286.6920657653529
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7030389,
-        "DealerName": "M.M ENTERPRISES",
-        "Position": [
-            28.3180274,
-            94.9557072
-        ],
-        "Volume": {
-            "Q1_23": 28.0,
-            "Q1_24": 20.833333333333332
-        },
-        "SOW": {
-            "Q1_23": 0.26666666666666666,
-            "Q1_24": 0.1984126984126984
-        },
-        "Discount": {
-            "Q1_23": 280.1197619047619,
-            "Q1_24": 228.79988
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7027416,
-        "DealerName": "T & G ENTERPRISES",
-        "Position": [
-            27.1429358,
-            93.749455
-        ],
-        "Volume": {
-            "Q1_23": 21.666666666666668,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.06018518518518519,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 236.83353846153844,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7025572,
-        "DealerName": "MAHARAJA STORE",
-        "Position": [
-            28.1759949,
-            94.8026484
-        ],
-        "Volume": {
-            "Q1_23": 52.333333333333336,
-            "Q1_24": 26.233333333333334
-        },
-        "SOW": {
-            "Q1_23": 0.07753086419753087,
-            "Q1_24": 0.0388641975308642
-        },
-        "Discount": {
-            "Q1_23": 223.4746496815287,
-            "Q1_24": 212.05632147395167
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7030357,
-        "DealerName": "YAYING ENTERPRISES",
-        "Position": [
-            28.412694,
-            94.6781393
-        ],
-        "Volume": {
-            "Q1_23": 10.0,
-            "Q1_24": 35.36666666666667
-        },
-        "SOW": {
-            "Q1_23": 0.03703703703703704,
-            "Q1_24": 0.13098765432098766
-        },
-        "Discount": {
-            "Q1_23": 250.78866666666667,
-            "Q1_24": 281.47031102733274
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7015630,
-        "DealerName": "G.K. CONSTRUCTION",
-        "Position": [
-            27.1294078,
-            93.7461107
-        ],
-        "Volume": {
-            "Q1_23": 8.333333333333334,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.04273504273504274,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 214.3616,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "PAPUM PARE",
-        "Code": 7032489,
-        "DealerName": "T.H ENTERPRISES",
-        "Position": [
-            27.074860231933,
-            93.593033887446
-        ],
-        "Volume": {
-            "Q1_23": 25.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.06944444444444445,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 151.4048,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "CHANCHAL CHETRY",
-        "District": "LOWER SUBANSIRI",
-        "Code": 7029290,
-        "DealerName": "LUCKY TRADERS",
-        "Position": [
-            27.5396409,
-            93.8151001
-        ],
-        "Volume": {
-            "Q1_23": 15.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.023809523809523808,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 124.32266666666668,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "EAST SIANG",
-        "Code": 7028397,
-        "DealerName": "S.T ENTERPRISES",
-        "Position": [
-            28.3196542,
-            94.954013
-        ],
-        "Volume": {
-            "Q1_23": 11.5,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.05476190476190476,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 122.50492753623189,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "arunachalpradesh",
-        "ZH": "SANJAY R",
-        "State": " AP ",
-        "SH": "AJITESH BHATTACHARJEE",
-        "ASM": "APURBA SAIKIA",
-        "ASO": "ARJUN KUMAR BISWAS",
-        "District": "WEST SIANG",
-        "Code": 7034339,
-        "DealerName": "M/S MEMO HARDWARE AGENCY",
-        "Position": [
-            28.1759702,
-            94.8024575
-        ],
-        "Volume": {
-            "Q1_23": 13.5,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.075,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 121.49185185185185,
-            "Q1_24": 0.0
-        }
-    }
-]
+ [
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7039078,
+            "DealerName": "PRIME TRADERS",
+            "Position": [
+                27.1114042,
+                93.8239696
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 2304.4166666666665
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 1.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 275.56105350233247
+            },
+            "HeatMap": {
+                "Volume_mt": 6913,
+                "Cont_rs_t": 3941,
+                "Cont_value_l": 272,
+                "DSP_percent": "16%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7022777,
+            "DealerName": "M.S. HARDWARE",
+            "Position": [
+                27.1088955,
+                93.8243308
+            ],
+            "Volume": {
+                "Q1_23": 2067.566666666667,
+                "Q1_24": 77.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.1862672672672673,
+                "Q1_24": 0.006951951951951953
+            },
+            "Discount": {
+                "Q1_23": 664.6481356574558,
+                "Q1_24": 400.880959174254
+            },
+            "HeatMap": {
+                "Volume_mt": 232,
+                "Cont_rs_t": 3809,
+                "Cont_value_l": 9,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7026056,
+            "DealerName": "MICHELLE HARDWARE & CORPORATE",
+            "Position": [
+                27.0995393,
+                93.6834004
+            ],
+            "Volume": {
+                "Q1_23": 316.6666666666667,
+                "Q1_24": 495.0
+            },
+            "SOW": {
+                "Q1_23": 0.13112491373360938,
+                "Q1_24": 0.20496894409937888
+            },
+            "Discount": {
+                "Q1_23": 462.3388477448136,
+                "Q1_24": 404.81152940350574
+            },
+            "HeatMap": {
+                "Volume_mt": 1485,
+                "Cont_rs_t": 3919,
+                "Cont_value_l": 58,
+                "DSP_percent": "13%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7008656,
+            "DealerName": "M.S.ENTERPRISES",
+            "Position": [
+                28.1729889,
+                94.8059502
+            ],
+            "Volume": {
+                "Q1_23": 534.8833333333333,
+                "Q1_24": 310.33333333333337
+            },
+            "SOW": {
+                "Q1_23": 0.5243954248366013,
+                "Q1_24": 0.3042483660130719
+            },
+            "Discount": {
+                "Q1_23": 632.8540753739443,
+                "Q1_24": 522.639965228351
+            },
+            "HeatMap": {
+                "Volume_mt": 931,
+                "Cont_rs_t": 2583,
+                "Cont_value_l": 24,
+                "DSP_percent": "11%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7007748,
+            "DealerName": "P. P. STEEL",
+            "Position": [
+                27.1070695,
+                93.7059867
+            ],
+            "Volume": {
+                "Q1_23": 229.16666666666666,
+                "Q1_24": 355.0
+            },
+            "SOW": {
+                "Q1_23": 0.026340996168582376,
+                "Q1_24": 0.04080459770114942
+            },
+            "Discount": {
+                "Q1_23": 566.783144154885,
+                "Q1_24": 556.0933616367458
+            },
+            "HeatMap": {
+                "Volume_mt": 1065,
+                "Cont_rs_t": 3972,
+                "Cont_value_l": 42,
+                "DSP_percent": "13%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARIJIT GHOSH",
+            "District": "LOWER DIBANG VALLEY",
+            "Code": 7037439,
+            "DealerName": "K T ENTERPRISE",
+            "Position": [
+                28.133892,
+                95.8410543
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 426.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.2088235294117647
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 236.2042957746479
+            },
+            "HeatMap": {
+                "Volume_mt": 1278,
+                "Cont_rs_t": 2926,
+                "Cont_value_l": 37,
+                "DSP_percent": "1%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "ANJAW",
+            "Code": 7008540,
+            "DealerName": "LAGAN HARDWARE",
+            "Position": [
+                27.487802342651,
+                95.357885509729
+            ],
+            "Volume": {
+                "Q1_23": 230.83333333333334,
+                "Q1_24": 619.3333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0512962962962963,
+                "Q1_24": 0.13762962962962963
+            },
+            "Discount": {
+                "Q1_23": 582.5169680330364,
+                "Q1_24": 528.481339368038
+            },
+            "HeatMap": {
+                "Volume_mt": 1858,
+                "Cont_rs_t": 2891,
+                "Cont_value_l": 54,
+                "DSP_percent": "6%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7009021,
+            "DealerName": "TAYING HARDWARE",
+            "Position": [
+                27.84412815939,
+                95.228849127889
+            ],
+            "Volume": {
+                "Q1_23": 253.33333333333334,
+                "Q1_24": 352.1666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.2111111111111111,
+                "Q1_24": 0.29347222222222225
+            },
+            "Discount": {
+                "Q1_23": 289.3878815789473,
+                "Q1_24": 294.26582288215815
+            },
+            "HeatMap": {
+                "Volume_mt": 1057,
+                "Cont_rs_t": 3368,
+                "Cont_value_l": 36,
+                "DSP_percent": "25%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7033781,
+            "DealerName": "MAHAVIR STEEL HOUSE",
+            "Position": [
+                27.115522448424,
+                93.714028336108
+            ],
+            "Volume": {
+                "Q1_23": 108.33333333333333,
+                "Q1_24": 341.0
+            },
+            "SOW": {
+                "Q1_23": 0.04689754689754689,
+                "Q1_24": 0.14761904761904762
+            },
+            "Discount": {
+                "Q1_23": 404.88579538100703,
+                "Q1_24": 405.8783593707807
+            },
+            "HeatMap": {
+                "Volume_mt": 1023,
+                "Cont_rs_t": 4207,
+                "Cont_value_l": 43,
+                "DSP_percent": "52%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARIJIT GHOSH",
+            "District": "LOHIT",
+            "Code": 7025908,
+            "DealerName": "A.K HARDWARE STORE",
+            "Position": [
+                27.6677416,
+                95.860279
+            ],
+            "Volume": {
+                "Q1_23": 200.0,
+                "Q1_24": 248.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.09389671361502348,
+                "Q1_24": 0.11658841940532083
+            },
+            "Discount": {
+                "Q1_23": 539.4655009287238,
+                "Q1_24": 459.60490383700073
+            },
+            "HeatMap": {
+                "Volume_mt": 745,
+                "Cont_rs_t": 3036,
+                "Cont_value_l": 23,
+                "DSP_percent": "20%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7026081,
+            "DealerName": "O.N.ENTERPRISES",
+            "Position": [
+                28.0614917,
+                95.3349144
+            ],
+            "Volume": {
+                "Q1_23": 292.0,
+                "Q1_24": 402.6666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.24957264957264957,
+                "Q1_24": 0.3441595441595442
+            },
+            "Discount": {
+                "Q1_23": 451.51898558000306,
+                "Q1_24": 373.7511539060788
+            },
+            "HeatMap": {
+                "Volume_mt": 1208,
+                "Cont_rs_t": 3464,
+                "Cont_value_l": 42,
+                "DSP_percent": "15%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7007586,
+            "DealerName": "KABAK HARDWARE CENTRE",
+            "Position": [
+                27.1010885,
+                93.6288049
+            ],
+            "Volume": {
+                "Q1_23": 196.5,
+                "Q1_24": 265.0
+            },
+            "SOW": {
+                "Q1_23": 0.07043010752688172,
+                "Q1_24": 0.09498207885304659
+            },
+            "Discount": {
+                "Q1_23": 543.5196973160332,
+                "Q1_24": 485.88805053350245
+            },
+            "HeatMap": {
+                "Volume_mt": 795,
+                "Cont_rs_t": 4042,
+                "Cont_value_l": 32,
+                "DSP_percent": "7%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7034826,
+            "DealerName": "M/S TANA ENTERPRISES",
+            "Position": [
+                27.076248406844,
+                93.623307645321
+            ],
+            "Volume": {
+                "Q1_23": 166.66666666666666,
+                "Q1_24": 176.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.1111111111111111,
+                "Q1_24": 0.11777777777777777
+            },
+            "Discount": {
+                "Q1_23": 462.8073270242293,
+                "Q1_24": 415.90004947705955
+            },
+            "HeatMap": {
+                "Volume_mt": 530,
+                "Cont_rs_t": 3946,
+                "Cont_value_l": 21,
+                "DSP_percent": "20%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7026220,
+            "DealerName": "PINCHI ENTERPRISE",
+            "Position": [
+                27.1213714,
+                93.7189177
+            ],
+            "Volume": {
+                "Q1_23": 154.16666666666666,
+                "Q1_24": 235.0
+            },
+            "SOW": {
+                "Q1_23": 0.11294261294261293,
+                "Q1_24": 0.17216117216117216
+            },
+            "Discount": {
+                "Q1_23": 370.2557067567568,
+                "Q1_24": 337.20192625071877
+            },
+            "HeatMap": {
+                "Volume_mt": 705,
+                "Cont_rs_t": 3988,
+                "Cont_value_l": 28,
+                "DSP_percent": "21%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7009118,
+            "DealerName": "ORMING ENTERPRISE",
+            "Position": [
+                27.0994512,
+                93.6257714
+            ],
+            "Volume": {
+                "Q1_23": 185.0,
+                "Q1_24": 166.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.35238095238095235,
+                "Q1_24": 0.31746031746031744
+            },
+            "Discount": {
+                "Q1_23": 411.4402997283616,
+                "Q1_24": 286.44669288151476
+            },
+            "HeatMap": {
+                "Volume_mt": 500,
+                "Cont_rs_t": 4041,
+                "Cont_value_l": 20,
+                "DSP_percent": "2%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7031421,
+            "DealerName": "MS SANGGAM ENTERPRISE",
+            "Position": [
+                28.0639851,
+                95.3332898
+            ],
+            "Volume": {
+                "Q1_23": 115.0,
+                "Q1_24": 211.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.1277777777777778,
+                "Q1_24": 0.2351851851851852
+            },
+            "Discount": {
+                "Q1_23": 359.71170763161206,
+                "Q1_24": 399.47844556382705
+            },
+            "HeatMap": {
+                "Volume_mt": 635,
+                "Cont_rs_t": 3347,
+                "Cont_value_l": 21,
+                "DSP_percent": "24%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7035339,
+            "DealerName": "GANGLE DALE ENTERPRISE",
+            "Position": [
+                27.062727448635,
+                93.608218543231
+            ],
+            "Volume": {
+                "Q1_23": 146.5,
+                "Q1_24": 190.0
+            },
+            "SOW": {
+                "Q1_23": 0.09865319865319866,
+                "Q1_24": 0.12794612794612795
+            },
+            "Discount": {
+                "Q1_23": 452.4256817178736,
+                "Q1_24": 355.50301493145355
+            },
+            "HeatMap": {
+                "Volume_mt": 570,
+                "Cont_rs_t": 4078,
+                "Cont_value_l": 23,
+                "DSP_percent": "9%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7034825,
+            "DealerName": "M/S ONN AGENCY",
+            "Position": [
+                27.098821896448,
+                93.679033219814
+            ],
+            "Volume": {
+                "Q1_23": 168.33333333333334,
+                "Q1_24": 230.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.07959022852639874,
+                "Q1_24": 0.1090622537431048
+            },
+            "Discount": {
+                "Q1_23": 502.1987465376149,
+                "Q1_24": 407.2109137455929
+            },
+            "HeatMap": {
+                "Volume_mt": 692,
+                "Cont_rs_t": 4012,
+                "Cont_value_l": 28,
+                "DSP_percent": "14%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7029036,
+            "DealerName": "BUBO & OD ENTERPRISE",
+            "Position": [
+                28.060194545388,
+                95.333432480693
+            ],
+            "Volume": {
+                "Q1_23": 211.66666666666666,
+                "Q1_24": 114.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.2351851851851852,
+                "Q1_24": 0.1274074074074074
+            },
+            "Discount": {
+                "Q1_23": 391.7596947280379,
+                "Q1_24": 290.6753979188455
+            },
+            "HeatMap": {
+                "Volume_mt": 344,
+                "Cont_rs_t": 3356,
+                "Cont_value_l": 12,
+                "DSP_percent": "8%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7024821,
+            "DealerName": "PEDONG NANE ENTERPRISES",
+            "Position": [
+                28.0628179,
+                95.3289351
+            ],
+            "Volume": {
+                "Q1_23": 141.66666666666666,
+                "Q1_24": 163.0
+            },
+            "SOW": {
+                "Q1_23": 0.2361111111111111,
+                "Q1_24": 0.27166666666666667
+            },
+            "Discount": {
+                "Q1_23": 333.9007806544438,
+                "Q1_24": 268.6638126284605
+            },
+            "HeatMap": {
+                "Volume_mt": 489,
+                "Cont_rs_t": 3308,
+                "Cont_value_l": 16,
+                "DSP_percent": "5%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7033307,
+            "DealerName": "KDEE ENTERPRISE",
+            "Position": [
+                28.047646147887,
+                95.331328622997
+            ],
+            "Volume": {
+                "Q1_23": 171.66666666666666,
+                "Q1_24": 170.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.20436507936507936,
+                "Q1_24": 0.20277777777777778
+            },
+            "Discount": {
+                "Q1_23": 313.3869364955539,
+                "Q1_24": 235.50145394658279
+            },
+            "HeatMap": {
+                "Volume_mt": 511,
+                "Cont_rs_t": 3418,
+                "Cont_value_l": 17,
+                "DSP_percent": "13%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "CHANGLANG",
+            "Code": 7037219,
+            "DealerName": "M/S. SAMSON TRADERS",
+            "Position": [
+                27.42,
+                96.022
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 213.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.23703703703703705
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 275.353515625
+            },
+            "HeatMap": {
+                "Volume_mt": 640,
+                "Cont_rs_t": 3021,
+                "Cont_value_l": 19,
+                "DSP_percent": "5%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "LOWER SUBANSIRI",
+            "Code": 7008915,
+            "DealerName": "RIDGE ENTERPRISES",
+            "Position": [
+                27.5534424,
+                93.8254379
+            ],
+            "Volume": {
+                "Q1_23": 136.33333333333334,
+                "Q1_24": 146.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.2065656565656566,
+                "Q1_24": 0.2222222222222222
+            },
+            "Discount": {
+                "Q1_23": 418.0801142076462,
+                "Q1_24": 328.1594419818738
+            },
+            "HeatMap": {
+                "Volume_mt": 440,
+                "Cont_rs_t": 3945,
+                "Cont_value_l": 17,
+                "DSP_percent": "14%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7030617,
+            "DealerName": "ROYALA ENTERPRISES",
+            "Position": [
+                27.1009335,
+                93.6862536
+            ],
+            "Volume": {
+                "Q1_23": 109.16666666666667,
+                "Q1_24": 183.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.08462532299741603,
+                "Q1_24": 0.14211886304909563
+            },
+            "Discount": {
+                "Q1_23": 331.16193893129764,
+                "Q1_24": 282.75004090909096
+            },
+            "HeatMap": {
+                "Volume_mt": 550,
+                "Cont_rs_t": 4077,
+                "Cont_value_l": 22,
+                "DSP_percent": "15%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7038836,
+            "DealerName": "M/S TANYA HARDWARE",
+            "Position": [
+                27.1104404,
+                93.8256188
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 178.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.22863247863247865
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 300.06210280373836
+            },
+            "HeatMap": {
+                "Volume_mt": 535,
+                "Cont_rs_t": 3967,
+                "Cont_value_l": 21,
+                "DSP_percent": "28%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7032029,
+            "DealerName": "D L BROS ENTERPRISES",
+            "Position": [
+                28.177342,
+                94.8050545
+            ],
+            "Volume": {
+                "Q1_23": 213.13333333333335,
+                "Q1_24": 320.73333333333335
+            },
+            "SOW": {
+                "Q1_23": 0.15787654320987657,
+                "Q1_24": 0.23758024691358023
+            },
+            "Discount": {
+                "Q1_23": 407.57403027354195,
+                "Q1_24": 399.6295403573775
+            },
+            "HeatMap": {
+                "Volume_mt": 962,
+                "Cont_rs_t": 2303,
+                "Cont_value_l": 22,
+                "DSP_percent": "9%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7039886,
+            "DealerName": "M/S M.B.TRADING CO.",
+            "Position": [
+                28.05868947,
+                95.33195827
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 184.66666666666666
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.30777777777777776
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 278.9997924187726
+            },
+            "HeatMap": {
+                "Volume_mt": 554,
+                "Cont_rs_t": 3390,
+                "Cont_value_l": 19,
+                "DSP_percent": "5%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "CHANGLANG",
+            "Code": 7027527,
+            "DealerName": "CHOEPHEL-LING TIBETAN SERVICE",
+            "Position": [
+                27.4747749,
+                96.1872393
+            ],
+            "Volume": {
+                "Q1_23": 112.33333333333333,
+                "Q1_24": 93.33333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.22693602693602694,
+                "Q1_24": 0.18855218855218855
+            },
+            "Discount": {
+                "Q1_23": 357.44541172106824,
+                "Q1_24": 249.8099553571428
+            },
+            "HeatMap": {
+                "Volume_mt": 280,
+                "Cont_rs_t": 3116,
+                "Cont_value_l": 9,
+                "DSP_percent": "17%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "TIRAP",
+            "Code": 7037142,
+            "DealerName": "M/S ROWAH TRADERS",
+            "Position": [
+                27.1970349,
+                95.4621904
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 215.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.15925925925925927
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 286.8607906976745
+            },
+            "HeatMap": {
+                "Volume_mt": 645,
+                "Cont_rs_t": 2961,
+                "Cont_value_l": 19,
+                "DSP_percent": "27%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7027292,
+            "DealerName": "IR ENTERPRISE",
+            "Position": [
+                28.169478,
+                94.7965099
+            ],
+            "Volume": {
+                "Q1_23": 112.18333333333334,
+                "Q1_24": 171.0666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.09971851851851853,
+                "Q1_24": 0.15205925925925928
+            },
+            "Discount": {
+                "Q1_23": 401.64664805869944,
+                "Q1_24": 396.8858758474316
+            },
+            "HeatMap": {
+                "Volume_mt": 513,
+                "Cont_rs_t": 2297,
+                "Cont_value_l": 12,
+                "DSP_percent": "9%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7033819,
+            "DealerName": "M/S HOO TRADING AGENCY",
+            "Position": [
+                28.177659,
+                94.8049999
+            ],
+            "Volume": {
+                "Q1_23": 128.66666666666666,
+                "Q1_24": 290.01666666666665
+            },
+            "SOW": {
+                "Q1_23": 0.19494949494949493,
+                "Q1_24": 0.4394191919191919
+            },
+            "Discount": {
+                "Q1_23": 408.0337560361246,
+                "Q1_24": 352.22419352289285
+            },
+            "HeatMap": {
+                "Volume_mt": 870,
+                "Cont_rs_t": 2244,
+                "Cont_value_l": 20,
+                "DSP_percent": "6%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7025668,
+            "DealerName": "SHREE GANESH TRADE CENTRE",
+            "Position": [
+                27.1108759,
+                93.8235526
+            ],
+            "Volume": {
+                "Q1_23": 94.08333333333333,
+                "Q1_24": 21.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.16082621082621082,
+                "Q1_24": 0.037037037037037035
+            },
+            "Discount": {
+                "Q1_23": 543.2377395874272,
+                "Q1_24": 376.9186368757014
+            },
+            "HeatMap": {
+                "Volume_mt": 65,
+                "Cont_rs_t": 3988,
+                "Cont_value_l": 3,
+                "DSP_percent": "46%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7015054,
+            "DealerName": "K.K. ENTERPRISES",
+            "Position": [
+                28.1773136,
+                94.804656
+            ],
+            "Volume": {
+                "Q1_23": 221.0,
+                "Q1_24": 212.83333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.16742424242424245,
+                "Q1_24": 0.16123737373737373
+            },
+            "Discount": {
+                "Q1_23": 429.95581999052655,
+                "Q1_24": 341.54419292104933
+            },
+            "HeatMap": {
+                "Volume_mt": 639,
+                "Cont_rs_t": 2367,
+                "Cont_value_l": 15,
+                "DSP_percent": "5%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7037285,
+            "DealerName": "M/S NUNG ENTERPRISE",
+            "Position": [
+                28.166041,
+                95.4051
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 129.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.15087719298245614
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 213.1581912144703
+            },
+            "HeatMap": {
+                "Volume_mt": 387,
+                "Cont_rs_t": 3638,
+                "Cont_value_l": 14,
+                "DSP_percent": "12%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7033308,
+            "DealerName": "N.N.N ENTERPRISES",
+            "Position": [
+                28.0607929,
+                95.3215238
+            ],
+            "Volume": {
+                "Q1_23": 118.33333333333333,
+                "Q1_24": 145.33333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.1095679012345679,
+                "Q1_24": 0.1345679012345679
+            },
+            "Discount": {
+                "Q1_23": 316.9831866197183,
+                "Q1_24": 306.90811353211006
+            },
+            "HeatMap": {
+                "Volume_mt": 436,
+                "Cont_rs_t": 3324,
+                "Cont_value_l": 14,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7024935,
+            "DealerName": "BHARAT INFRASTRUCTURE",
+            "Position": [
+                28.0566413,
+                95.3318369
+            ],
+            "Volume": {
+                "Q1_23": 60.0,
+                "Q1_24": 97.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.125,
+                "Q1_24": 0.20347222222222222
+            },
+            "Discount": {
+                "Q1_23": 381.29165757070416,
+                "Q1_24": 271.9870644724864
+            },
+            "HeatMap": {
+                "Volume_mt": 293,
+                "Cont_rs_t": 3506,
+                "Cont_value_l": 10,
+                "DSP_percent": "17%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7040043,
+            "DealerName": "M/S TAGGU  ENTERPRISES",
+            "Position": [
+                28.03885933,
+                95.33433706
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 110.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.16666666666666666
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 203.82083333333333
+            },
+            "HeatMap": {
+                "Volume_mt": 330,
+                "Cont_rs_t": 3535,
+                "Cont_value_l": 12,
+                "DSP_percent": "2%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7007339,
+            "DealerName": "ARUNACHAL TRADERS",
+            "Position": [
+                27.5385923,
+                93.8131393
+            ],
+            "Volume": {
+                "Q1_23": 87.66666666666667,
+                "Q1_24": 56.833333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.07690058479532165,
+                "Q1_24": 0.04985380116959065
+            },
+            "Discount": {
+                "Q1_23": 387.9280272875576,
+                "Q1_24": 344.6898614701786
+            },
+            "HeatMap": {
+                "Volume_mt": 171,
+                "Cont_rs_t": 3820,
+                "Cont_value_l": 7,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7032301,
+            "DealerName": "KIPA STEEL",
+            "Position": [
+                27.119244053583,
+                93.716195896268
+            ],
+            "Volume": {
+                "Q1_23": 20.0,
+                "Q1_24": 53.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.028985507246376812,
+                "Q1_24": 0.07729468599033817
+            },
+            "Discount": {
+                "Q1_23": 163.26533333333333,
+                "Q1_24": 245.25253125
+            },
+            "HeatMap": {
+                "Volume_mt": 160,
+                "Cont_rs_t": 4407,
+                "Cont_value_l": 7,
+                "DSP_percent": "53%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7022894,
+            "DealerName": "ARUNI HARDWARE & ELECTRICAL",
+            "Position": [
+                28.060189219805,
+                95.333334580064
+            ],
+            "Volume": {
+                "Q1_23": 25.0,
+                "Q1_24": 35.0
+            },
+            "SOW": {
+                "Q1_23": 0.02777777777777778,
+                "Q1_24": 0.03888888888888889
+            },
+            "Discount": {
+                "Q1_23": 358.4267794017317,
+                "Q1_24": 570.6056222588747
+            },
+            "HeatMap": {
+                "Volume_mt": 105,
+                "Cont_rs_t": 3061,
+                "Cont_value_l": 3,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7034167,
+            "DealerName": "M/S KSP ENTERPRISES",
+            "Position": [
+                28.176244569666,
+                94.806134663522
+            ],
+            "Volume": {
+                "Q1_23": 138.66666666666666,
+                "Q1_24": 221.11666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.13206349206349205,
+                "Q1_24": 0.2105873015873016
+            },
+            "Discount": {
+                "Q1_23": 396.68940728812237,
+                "Q1_24": 411.49834046022113
+            },
+            "HeatMap": {
+                "Volume_mt": 663,
+                "Cont_rs_t": 2233,
+                "Cont_value_l": 15,
+                "DSP_percent": "4%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7024853,
+            "DealerName": "KEYIES ENTERPRISES",
+            "Position": [
+                27.1289308,
+                93.7360089
+            ],
+            "Volume": {
+                "Q1_23": 56.666666666666664,
+                "Q1_24": 106.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.03373015873015873,
+                "Q1_24": 0.06349206349206349
+            },
+            "Discount": {
+                "Q1_23": 307.93208823529415,
+                "Q1_24": 328.330078125
+            },
+            "HeatMap": {
+                "Volume_mt": 320,
+                "Cont_rs_t": 3936,
+                "Cont_value_l": 13,
+                "DSP_percent": "25%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "CHANGLANG",
+            "Code": 7032479,
+            "DealerName": "CHANGLANG HARDWARE",
+            "Position": [
+                27.1379683,
+                95.7347278
+            ],
+            "Volume": {
+                "Q1_23": 120.0,
+                "Q1_24": 90.5
+            },
+            "SOW": {
+                "Q1_23": 0.2,
+                "Q1_24": 0.15083333333333335
+            },
+            "Discount": {
+                "Q1_23": 463.6580482628342,
+                "Q1_24": 273.5587253653511
+            },
+            "HeatMap": {
+                "Volume_mt": 272,
+                "Cont_rs_t": 2676,
+                "Cont_value_l": 7,
+                "DSP_percent": "44%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7030390,
+            "DealerName": "PERA ENTERPRISE",
+            "Position": [
+                27.0711741,
+                93.5949454
+            ],
+            "Volume": {
+                "Q1_23": 25.0,
+                "Q1_24": 43.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.022831050228310504,
+                "Q1_24": 0.0395738203957382
+            },
+            "Discount": {
+                "Q1_23": 189.51495,
+                "Q1_24": 305.1040576923077
+            },
+            "HeatMap": {
+                "Volume_mt": 130,
+                "Cont_rs_t": 3704,
+                "Cont_value_l": 5,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7007699,
+            "DealerName": "MARUTI TRADE CENTRE",
+            "Position": [
+                27.0858594,
+                93.6133966
+            ],
+            "Volume": {
+                "Q1_23": 66.66666666666667,
+                "Q1_24": 63.333333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.047281323877068564,
+                "Q1_24": 0.04491725768321513
+            },
+            "Discount": {
+                "Q1_23": 367.2685108108108,
+                "Q1_24": 321.08774502133707
+            },
+            "HeatMap": {
+                "Volume_mt": 190,
+                "Cont_rs_t": 4008,
+                "Cont_value_l": 8,
+                "DSP_percent": "3%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7036742,
+            "DealerName": "JKL ENTERPRISE",
+            "Position": [
+                28.1685454,
+                94.7990544
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 144.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.6
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 279.20231481481477
+            },
+            "HeatMap": {
+                "Volume_mt": 432,
+                "Cont_rs_t": 2236,
+                "Cont_value_l": 10,
+                "DSP_percent": "4%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7035159,
+            "DealerName": "OM ENTERPRISES",
+            "Position": [
+                27.143713261368,
+                93.749262839556
+            ],
+            "Volume": {
+                "Q1_23": 41.666666666666664,
+                "Q1_24": 61.666666666666664
+            },
+            "SOW": {
+                "Q1_23": 0.029239766081871343,
+                "Q1_24": 0.043274853801169584
+            },
+            "Discount": {
+                "Q1_23": 235.38728999999998,
+                "Q1_24": 283.1646013513514
+            },
+            "HeatMap": {
+                "Volume_mt": 185,
+                "Cont_rs_t": 4069,
+                "Cont_value_l": 8,
+                "DSP_percent": "57%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "LONGDING",
+            "Code": 7035248,
+            "DealerName": "M/S LOVELEE ENTERPRISES",
+            "Position": [
+                26.9127926,
+                95.3659855
+            ],
+            "Volume": {
+                "Q1_23": 58.333333333333336,
+                "Q1_24": 76.66666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.19444444444444448,
+                "Q1_24": 0.2555555555555556
+            },
+            "Discount": {
+                "Q1_23": 315.44327399697835,
+                "Q1_24": 268.35537896592245
+            },
+            "HeatMap": {
+                "Volume_mt": 230,
+                "Cont_rs_t": 2790,
+                "Cont_value_l": 6,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7024716,
+            "DealerName": "RAJ STEEL",
+            "Position": [
+                27.1307478,
+                93.7358884
+            ],
+            "Volume": {
+                "Q1_23": 66.66666666666667,
+                "Q1_24": 10.0
+            },
+            "SOW": {
+                "Q1_23": 0.041152263374485604,
+                "Q1_24": 0.00617283950617284
+            },
+            "Discount": {
+                "Q1_23": 287.91650000000004,
+                "Q1_24": 336.487
+            },
+            "HeatMap": {
+                "Volume_mt": 30,
+                "Cont_rs_t": 4001,
+                "Cont_value_l": 1,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "BHARAT DAS",
+            "ASO": "ARUNAVA DAS",
+            "District": "TIRAP",
+            "Code": 7036670,
+            "DealerName": "M/S PSK CONSTRUCTION & SUPPLY",
+            "Position": [
+                27.0244357468,
+                95.184216834605
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 50.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.08333333333333334
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 119.78666666666666
+            },
+            "HeatMap": {
+                "Volume_mt": 150,
+                "Cont_rs_t": 3705,
+                "Cont_value_l": 6,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7036905,
+            "DealerName": "M/S B.S. ENTERPRISE",
+            "Position": [
+                28.597334,
+                94.137143
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 69.13333333333333
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 1.0
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 232.7632292671167
+            },
+            "HeatMap": {
+                "Volume_mt": 207,
+                "Cont_rs_t": 3234,
+                "Cont_value_l": 7,
+                "DSP_percent": "42%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "LOWER SUBANSIRI",
+            "Code": 7030070,
+            "DealerName": "YOPU ENTERPRISES",
+            "Position": [
+                27.7919789,
+                94.0748157
+            ],
+            "Volume": {
+                "Q1_23": 26.0,
+                "Q1_24": 49.833333333333336
+            },
+            "SOW": {
+                "Q1_23": 0.2476190476190476,
+                "Q1_24": 0.4746031746031746
+            },
+            "Discount": {
+                "Q1_23": 178.98076923076923,
+                "Q1_24": 128.67496655518394
+            },
+            "HeatMap": {
+                "Volume_mt": 150,
+                "Cont_rs_t": 4038,
+                "Cont_value_l": 6,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7034522,
+            "DealerName": "MARPI WIRE PRODUCTS",
+            "Position": [
+                28.1697145,
+                94.7979801
+            ],
+            "Volume": {
+                "Q1_23": 121.66666666666667,
+                "Q1_24": 95.16666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.11587301587301588,
+                "Q1_24": 0.09063492063492064
+            },
+            "Discount": {
+                "Q1_23": 307.31158219178076,
+                "Q1_24": 197.28317425569173
+            },
+            "HeatMap": {
+                "Volume_mt": 286,
+                "Cont_rs_t": 2299,
+                "Cont_value_l": 7,
+                "DSP_percent": "4%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "CHANCHAL CHETRY",
+            "District": "PAPUM PARE",
+            "Code": 7039327,
+            "DealerName": "M/S UA TRADERS",
+            "Position": [
+                26.94466632,
+                93.59218497
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 8.333333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.11111111111111112
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.0
+            },
+            "HeatMap": {
+                "Volume_mt": 25,
+                "Cont_rs_t": 4924,
+                "Cont_value_l": 1,
+                "DSP_percent": "100%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7034604,
+            "DealerName": "T.M.G HARDWARE",
+            "Position": [
+                27.9807159,
+                94.6887544
+            ],
+            "Volume": {
+                "Q1_23": 67.33333333333333,
+                "Q1_24": 18.666666666666668
+            },
+            "SOW": {
+                "Q1_23": 0.08566581849024596,
+                "Q1_24": 0.02374893977947413
+            },
+            "Discount": {
+                "Q1_23": 278.2541584158416,
+                "Q1_24": 215.99803571428575
+            },
+            "HeatMap": {
+                "Volume_mt": 56,
+                "Cont_rs_t": 2495,
+                "Cont_value_l": 1,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7040278,
+            "DealerName": "OYANG ENTERPRISE",
+            "Position": [
+                28.00985009,
+                95.34186166
+            ],
+            "Volume": {
+                "Q1_23": 0.0,
+                "Q1_24": 35.0
+            },
+            "SOW": {
+                "Q1_23": 0.0,
+                "Q1_24": 0.4666666666666666
+            },
+            "Discount": {
+                "Q1_23": 0.0,
+                "Q1_24": 171.1238095238095
+            },
+            "HeatMap": {
+                "Volume_mt": 105,
+                "Cont_rs_t": 3638,
+                "Cont_value_l": 4,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7009006,
+            "DealerName": "DDDDD ENTERPRISE",
+            "Position": [
+                28.176167,
+                94.8046561
+            ],
+            "Volume": {
+                "Q1_23": 29.666666666666668,
+                "Q1_24": 48.0
+            },
+            "SOW": {
+                "Q1_23": 0.16481481481481483,
+                "Q1_24": 0.26666666666666666
+            },
+            "Discount": {
+                "Q1_23": 230.25668539325844,
+                "Q1_24": 231.2991666666667
+            },
+            "HeatMap": {
+                "Volume_mt": 144,
+                "Cont_rs_t": 2196,
+                "Cont_value_l": 3,
+                "DSP_percent": "0%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7030858,
+            "DealerName": "TAGA ENTERPRISES",
+            "Position": [
+                28.062225644363,
+                95.334998890758
+            ],
+            "Volume": {
+                "Q1_23": 18.333333333333332,
+                "Q1_24": 45.0
+            },
+            "SOW": {
+                "Q1_23": 0.03216374269005848,
+                "Q1_24": 0.07894736842105263
+            },
+            "Discount": {
+                "Q1_23": 239.7138181818182,
+                "Q1_24": 230.98185185185184
+            },
+            "HeatMap": {
+                "Volume_mt": 135,
+                "Cont_rs_t": 3311,
+                "Cont_value_l": 4,
+                "DSP_percent": "4%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7034457,
+            "DealerName": "M/S ARUNACHAL APEX TRADERS",
+            "Position": [
+                27.9871354,
+                94.6865398
+            ],
+            "Volume": {
+                "Q1_23": 57.5,
+                "Q1_24": 36.36666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.10648148148148148,
+                "Q1_24": 0.06734567901234567
+            },
+            "Discount": {
+                "Q1_23": 322.69769927536237,
+                "Q1_24": 286.6920657653529
+            },
+            "HeatMap": {
+                "Volume_mt": 109,
+                "Cont_rs_t": 2376,
+                "Cont_value_l": 3,
+                "DSP_percent": "11%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "EAST SIANG",
+            "Code": 7030389,
+            "DealerName": "M.M ENTERPRISES",
+            "Position": [
+                28.3180274,
+                94.9557072
+            ],
+            "Volume": {
+                "Q1_23": 28.0,
+                "Q1_24": 20.833333333333332
+            },
+            "SOW": {
+                "Q1_23": 0.26666666666666666,
+                "Q1_24": 0.1984126984126984
+            },
+            "Discount": {
+                "Q1_23": 280.1197619047619,
+                "Q1_24": 228.79988
+            },
+            "HeatMap": {
+                "Volume_mt": 63,
+                "Cont_rs_t": 2206,
+                "Cont_value_l": 1,
+                "DSP_percent": "18%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7025572,
+            "DealerName": "MAHARAJA STORE",
+            "Position": [
+                28.1759949,
+                94.8026484
+            ],
+            "Volume": {
+                "Q1_23": 52.333333333333336,
+                "Q1_24": 26.233333333333334
+            },
+            "SOW": {
+                "Q1_23": 0.07753086419753087,
+                "Q1_24": 0.0388641975308642
+            },
+            "Discount": {
+                "Q1_23": 223.4746496815287,
+                "Q1_24": 212.05632147395167
+            },
+            "HeatMap": {
+                "Volume_mt": 79,
+                "Cont_rs_t": 2357,
+                "Cont_value_l": 2,
+                "DSP_percent": "11%"
+            }
+        },
+        {
+            "Reg": "NE",
+            "Zone": "arunachalpradesh",
+            "ZH": "SANJAY R",
+            "State": " AP ",
+            "SH": "AJITESH BHATTACHARJEE",
+            "ASM": "APURBA SAIKIA",
+            "ASO": "ARJUN KUMAR BISWAS",
+            "District": "WEST SIANG",
+            "Code": 7030357,
+            "DealerName": "YAYING ENTERPRISES",
+            "Position": [
+                28.412694,
+                94.6781393
+            ],
+            "Volume": {
+                "Q1_23": 10.0,
+                "Q1_24": 35.36666666666667
+            },
+            "SOW": {
+                "Q1_23": 0.03703703703703704,
+                "Q1_24": 0.13098765432098766
+            },
+            "Discount": {
+                "Q1_23": 250.78866666666667,
+                "Q1_24": 281.47031102733274
+            },
+            "HeatMap": {
+                "Volume_mt": 106,
+                "Cont_rs_t": 2100,
+                "Cont_value_l": 2,
+                "DSP_percent": "0%"
+            }
+        }
+    ]

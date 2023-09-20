@@ -25,6 +25,12 @@
         "Discount": {
             "Q1_23": 339.9917987185359,
             "Q1_24": 275.89216781074737
+        },
+        "HeatMap": {
+            "Volume_mt": 1356,
+            "Cont_rs_t": 1997,
+            "Cont_value_l": 27,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -53,6 +59,12 @@
         "Discount": {
             "Q1_23": 317.7863170163171,
             "Q1_24": 289.369101569388
+        },
+        "HeatMap": {
+            "Volume_mt": 1418,
+            "Cont_rs_t": 2400,
+            "Cont_value_l": 34,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -81,6 +93,12 @@
         "Discount": {
             "Q1_23": 321.3430016976933,
             "Q1_24": 291.5167994483078
+        },
+        "HeatMap": {
+            "Volume_mt": 1322,
+            "Cont_rs_t": 2391,
+            "Cont_value_l": 32,
+            "DSP_percent": "10%"
         }
     },
     {
@@ -109,6 +127,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 224.94910574070843
+        },
+        "HeatMap": {
+            "Volume_mt": 1146,
+            "Cont_rs_t": 2787,
+            "Cont_value_l": 32,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -137,6 +161,12 @@
         "Discount": {
             "Q1_23": 216.40080130739636,
             "Q1_24": 144.94696045576404
+        },
+        "HeatMap": {
+            "Volume_mt": 373,
+            "Cont_rs_t": 2596,
+            "Cont_value_l": 10,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -165,6 +195,12 @@
         "Discount": {
             "Q1_23": 219.83815517241376,
             "Q1_24": 217.45030646642684
+        },
+        "HeatMap": {
+            "Volume_mt": 877,
+            "Cont_rs_t": 2442,
+            "Cont_value_l": 21,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -193,6 +229,12 @@
         "Discount": {
             "Q1_23": 421.8371994322571,
             "Q1_24": 382.1642102183424
+        },
+        "HeatMap": {
+            "Volume_mt": 570,
+            "Cont_rs_t": 2962,
+            "Cont_value_l": 17,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -221,6 +263,12 @@
         "Discount": {
             "Q1_23": 426.83774260282087,
             "Q1_24": 326.0118302628188
+        },
+        "HeatMap": {
+            "Volume_mt": 664,
+            "Cont_rs_t": 2444,
+            "Cont_value_l": 16,
+            "DSP_percent": "1%"
         }
     },
     {
@@ -249,6 +297,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 215.56164526779165
+        },
+        "HeatMap": {
+            "Volume_mt": 682,
+            "Cont_rs_t": 2424,
+            "Cont_value_l": 17,
+            "DSP_percent": "1%"
         }
     },
     {
@@ -277,6 +331,12 @@
         "Discount": {
             "Q1_23": 302.97045136650667,
             "Q1_24": 165.4915206361905
+        },
+        "HeatMap": {
+            "Volume_mt": 310,
+            "Cont_rs_t": 1910,
+            "Cont_value_l": 6,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -305,6 +365,12 @@
         "Discount": {
             "Q1_23": 231.46760892116185,
             "Q1_24": 220.9570766577659
+        },
+        "HeatMap": {
+            "Volume_mt": 562,
+            "Cont_rs_t": 2412,
+            "Cont_value_l": 14,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -333,6 +399,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 186.5889879759519
+        },
+        "HeatMap": {
+            "Volume_mt": 499,
+            "Cont_rs_t": 1974,
+            "Cont_value_l": 10,
+            "DSP_percent": "1%"
         }
     },
     {
@@ -361,6 +433,12 @@
         "Discount": {
             "Q1_23": 431.85752447709416,
             "Q1_24": 258.65493032617076
+        },
+        "HeatMap": {
+            "Volume_mt": 232,
+            "Cont_rs_t": 1846,
+            "Cont_value_l": 4,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -389,34 +467,12 @@
         "Discount": {
             "Q1_23": 284.07791809689127,
             "Q1_24": 294.19164509306614
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "AIZAWL",
-        "Code": 7008014,
-        "DealerName": "HAUZEL ENTERPRISE",
-        "Position": [
-            23.7512559,
-            92.7335912
-        ],
-        "Volume": {
-            "Q1_23": 199.08333333333334,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 282.44520719966516,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 279,
+            "Cont_rs_t": 1985,
+            "Cont_value_l": 6,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -445,6 +501,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 250.1136632057106
+        },
+        "HeatMap": {
+            "Volume_mt": 385,
+            "Cont_rs_t": 2569,
+            "Cont_value_l": 10,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -473,6 +535,12 @@
         "Discount": {
             "Q1_23": 173.55037199124723,
             "Q1_24": 78.28311359026368
+        },
+        "HeatMap": {
+            "Volume_mt": 247,
+            "Cont_rs_t": 2653,
+            "Cont_value_l": 7,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -501,6 +569,12 @@
         "Discount": {
             "Q1_23": 316.6816235472055,
             "Q1_24": 276.09520652946713
+        },
+        "HeatMap": {
+            "Volume_mt": 300,
+            "Cont_rs_t": 1966,
+            "Cont_value_l": 6,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -529,6 +603,12 @@
         "Discount": {
             "Q1_23": 309.4708803562265,
             "Q1_24": 246.7890417875736
+        },
+        "HeatMap": {
+            "Volume_mt": 193,
+            "Cont_rs_t": 2695,
+            "Cont_value_l": 5,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -557,6 +637,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 313.00444444444446
+        },
+        "HeatMap": {
+            "Volume_mt": 54,
+            "Cont_rs_t": 2733,
+            "Cont_value_l": 1,
+            "DSP_percent": "9%"
         }
     },
     {
@@ -585,6 +671,12 @@
         "Discount": {
             "Q1_23": 228.04403330249767,
             "Q1_24": 139.14909787735849
+        },
+        "HeatMap": {
+            "Volume_mt": 212,
+            "Cont_rs_t": 2781,
+            "Cont_value_l": 6,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -613,6 +705,12 @@
         "Discount": {
             "Q1_23": 318.087190295955,
             "Q1_24": 203.80462892231424
+        },
+        "HeatMap": {
+            "Volume_mt": 180,
+            "Cont_rs_t": 2272,
+            "Cont_value_l": 4,
+            "DSP_percent": "1%"
         }
     },
     {
@@ -641,6 +739,12 @@
         "Discount": {
             "Q1_23": 217.2140432098765,
             "Q1_24": 23.437500000000004
+        },
+        "HeatMap": {
+            "Volume_mt": 40,
+            "Cont_rs_t": 2621,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -669,6 +773,12 @@
         "Discount": {
             "Q1_23": 278.2072594501718,
             "Q1_24": 225.91601968503937
+        },
+        "HeatMap": {
+            "Volume_mt": 318,
+            "Cont_rs_t": 2021,
+            "Cont_value_l": 6,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -697,6 +807,12 @@
         "Discount": {
             "Q1_23": 231.2150547808765,
             "Q1_24": 199.42929761904765
+        },
+        "HeatMap": {
+            "Volume_mt": 210,
+            "Cont_rs_t": 2583,
+            "Cont_value_l": 5,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -725,6 +841,12 @@
         "Discount": {
             "Q1_23": 353.0725768249315,
             "Q1_24": 331.53726387638966
+        },
+        "HeatMap": {
+            "Volume_mt": 354,
+            "Cont_rs_t": 1715,
+            "Cont_value_l": 6,
+            "DSP_percent": "4%"
         }
     },
     {
@@ -753,6 +875,12 @@
         "Discount": {
             "Q1_23": 314.5291622304996,
             "Q1_24": 263.3816468421657
+        },
+        "HeatMap": {
+            "Volume_mt": 290,
+            "Cont_rs_t": 1957,
+            "Cont_value_l": 6,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -781,6 +909,12 @@
         "Discount": {
             "Q1_23": 274.3565417256012,
             "Q1_24": 210.16626776907447
+        },
+        "HeatMap": {
+            "Volume_mt": 172,
+            "Cont_rs_t": 2589,
+            "Cont_value_l": 4,
+            "DSP_percent": "22%"
         }
     },
     {
@@ -809,6 +943,12 @@
         "Discount": {
             "Q1_23": 208.70828787878787,
             "Q1_24": 227.8235
+        },
+        "HeatMap": {
+            "Volume_mt": 30,
+            "Cont_rs_t": 2179,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -837,6 +977,12 @@
         "Discount": {
             "Q1_23": 255.54167681358558,
             "Q1_24": 297.2759741422731
+        },
+        "HeatMap": {
+            "Volume_mt": 215,
+            "Cont_rs_t": 1652,
+            "Cont_value_l": 4,
+            "DSP_percent": "2%"
         }
     },
     {
@@ -865,6 +1011,12 @@
         "Discount": {
             "Q1_23": 214.53712121212124,
             "Q1_24": 295.52865079365085
+        },
+        "HeatMap": {
+            "Volume_mt": 126,
+            "Cont_rs_t": 2031,
+            "Cont_value_l": 3,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -893,6 +1045,12 @@
         "Discount": {
             "Q1_23": 297.2927027521002,
             "Q1_24": 321.3329571377908
+        },
+        "HeatMap": {
+            "Volume_mt": 57,
+            "Cont_rs_t": 1396,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -921,6 +1079,12 @@
         "Discount": {
             "Q1_23": 188.3981713973799,
             "Q1_24": 171.90730714285712
+        },
+        "HeatMap": {
+            "Volume_mt": 175,
+            "Cont_rs_t": 2006,
+            "Cont_value_l": 4,
+            "DSP_percent": "3%"
         }
     },
     {
@@ -949,6 +1113,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 190.4153333333333
+        },
+        "HeatMap": {
+            "Volume_mt": 180,
+            "Cont_rs_t": 2012,
+            "Cont_value_l": 4,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -977,6 +1147,12 @@
         "Discount": {
             "Q1_23": 362.78890223050985,
             "Q1_24": 300.3291815224623
+        },
+        "HeatMap": {
+            "Volume_mt": 182,
+            "Cont_rs_t": 1947,
+            "Cont_value_l": 4,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1005,6 +1181,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 280.4580487804878
+        },
+        "HeatMap": {
+            "Volume_mt": 164,
+            "Cont_rs_t": 1382,
+            "Cont_value_l": 2,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1033,34 +1215,12 @@
         "Discount": {
             "Q1_23": 186.93075980392157,
             "Q1_24": 191.31360294117647
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "AIZAWL",
-        "Code": 7032140,
-        "DealerName": "RUAT RUATI ENTERPRISE",
-        "Position": [
-            23.757523162197,
-            92.730502188206
-        ],
-        "Volume": {
-            "Q1_23": 33.333333333333336,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.03174603174603175,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 147.5512,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 136,
+            "Cont_rs_t": 1873,
+            "Cont_value_l": 3,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1089,34 +1249,12 @@
         "Discount": {
             "Q1_23": 254.99946666666665,
             "Q1_24": 267.2826790281329
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "KOLASIB",
-        "Code": 7035215,
-        "DealerName": "M/S CHHAKCHHUAK ENTERPRISE",
-        "Position": [
-            22.892125219582,
-            92.746070735157
-        ],
-        "Volume": {
-            "Q1_23": 25.0,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.08333333333333334,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 187.46800000000002,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 196,
+            "Cont_rs_t": 1728,
+            "Cont_value_l": 3,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1145,6 +1283,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 190.29582089552238
+        },
+        "HeatMap": {
+            "Volume_mt": 67,
+            "Cont_rs_t": 2192,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1173,6 +1317,12 @@
         "Discount": {
             "Q1_23": 103.52564102564102,
             "Q1_24": 107.79734374999998
+        },
+        "HeatMap": {
+            "Volume_mt": 32,
+            "Cont_rs_t": 1589,
+            "Cont_value_l": 1,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1201,62 +1351,12 @@
         "Discount": {
             "Q1_23": 186.2478260869565,
             "Q1_24": 206.73888888888888
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "SERCHHIP",
-        "Code": 7036003,
-        "DealerName": "MS TRADERS",
-        "Position": [
-            23.1297843,
-            93.0608868
-        ],
-        "Volume": {
-            "Q1_23": 17.666666666666668,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 245.43396226415095,
-            "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "AIZAWL",
-        "Code": 7033613,
-        "DealerName": "VINCO ENTERPRISE",
-        "Position": [
-            23.755249891207,
-            92.717089802027
-        ],
-        "Volume": {
-            "Q1_23": 2.0,
-            "Q1_24": 0.0
-        },
-        "SOW": {
-            "Q1_23": 0.006666666666666666,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 18,
+            "Cont_rs_t": 1676,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1285,34 +1385,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 160.71371428571427
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "SERCHHIP",
-        "Code": 7027693,
-        "DealerName": "L&C HARDWARE STORE",
-        "Position": [
-            23.3360607,
-            92.854803
-        ],
-        "Volume": {
-            "Q1_23": 12.333333333333334,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 211.54054054054058,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 35,
+            "Cont_rs_t": 1173,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1341,34 +1419,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "LUNGLEI",
-        "Code": 7008074,
-        "DealerName": "SANG SANG HARDWARE",
-        "Position": [
-            22.881149,
-            92.7486311
-        ],
-        "Volume": {
-            "Q1_23": 26.0,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 156.5623076923077,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 20,
+            "Cont_rs_t": 1497,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     },
     {
@@ -1397,34 +1453,12 @@
         "Discount": {
             "Q1_23": 0.0,
             "Q1_24": 0.0
-        }
-    },
-    {
-        "Reg": "NE",
-        "Zone": "mizoram",
-        "ZH": "NABARUN CHATTERJEE",
-        "State": "MIZ",
-        "SH": "GOPAL CHANDRA PARIDA",
-        "ASM": "DORENDRAJIT NONGMEIKAPAM",
-        "ASO": "SAIKAT DHAR",
-        "District": "AIZAWL",
-        "Code": 7023435,
-        "DealerName": "CHHANGTE TRADERS",
-        "Position": [
-            23.731298,
-            92.755659
-        ],
-        "Volume": {
-            "Q1_23": 0.8333333333333334,
-            "Q1_24": 0.0
         },
-        "SOW": {
-            "Q1_23": 0.002777777777777778,
-            "Q1_24": 0.0
-        },
-        "Discount": {
-            "Q1_23": 0.0,
-            "Q1_24": 0.0
+        "HeatMap": {
+            "Volume_mt": 9,
+            "Cont_rs_t": 2118,
+            "Cont_value_l": 0,
+            "DSP_percent": "0%"
         }
     }
 ]
