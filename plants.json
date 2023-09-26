@@ -1,0 +1,732 @@
+{
+    "plantdetails": [
+        {
+            "Region": "Central",
+            "Plantname": "ACC -Kymore",
+            "location": "Katni",
+            "StateCode": "MP",
+            "Company": "Adani",
+            "Clinker": 3.23,
+            "Cement": 2.43,
+            "State": "madhyapradesh",
+            "Position": [
+                "24.0534837",
+                "80.5953217"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "ACC Ametha",
+            "location": "Katni",
+            "StateCode": "MP",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.0,
+            "State": "madhyapradesh",
+            "Position": [
+                "24.0097275",
+                "80.5277502"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "ACC-Tikaria",
+            "location": "Amethi",
+            "StateCode": "UP",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 3.91,
+            "State": "uttarpradesh",
+            "Position": [
+                "26.2073127",
+                "81.6644023"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "Ambuja-Dadri",
+            "location": "Gautam Buddh",
+            "StateCode": "UP",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.95,
+            "State": "uttarpradesh",
+            "Position": [
+                "28.5713893",
+                "77.5312792"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "Chunar",
+            "location": "Mirzapur",
+            "StateCode": "UP",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 2.5,
+            "State": "uttarpradesh",
+            "Position": [
+                "25.0885347",
+                "82.89657"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "Churk",
+            "location": "Sonbhadra",
+            "StateCode": "UP",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 1.0,
+            "State": "uttarpradesh",
+            "Position": [
+                "24.6353607",
+                "83.102728"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "JP Babupur",
+            "location": "Babupur,Satna",
+            "StateCode": "MP",
+            "Company": "Dalmia",
+            "Clinker": 1.1,
+            "Cement": 0.0,
+            "State": "madhyapradesh",
+            "Position": [
+                "24.6401537",
+                "80.920727"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "Nigrie",
+            "location": "Singrauli",
+            "StateCode": "MP",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 2.0,
+            "State": "madhyapradesh",
+            "Position": [
+                "23.758608",
+                "81.72673"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "Rewa",
+            "location": "Rewa",
+            "StateCode": "MP",
+            "Company": "Adani",
+            "Clinker": 3.3,
+            "Cement": 1.1,
+            "State": "madhyapradesh",
+            "Position": [
+                "24.530727",
+                "81.29911"
+            ]
+        },
+        {
+            "Region": "Central",
+            "Plantname": "Sadva",
+            "location": "Allahabad",
+            "StateCode": "UP",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 0.6,
+            "State": "uttarpradesh",
+            "Position": [
+                "17.765882",
+                "83.19471"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "ACC Bhabua",
+            "location": "Kaimur",
+            "StateCode": "Bihar",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.18,
+            "State": "bihar",
+            "Position": [
+                "25\u00b003\u2032N 83\u00b037\u2032E\ufeff",
+                "25.05\u00b0N 83.62\u00b0E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Bargarh Cmt Works",
+            "location": "Bargarh",
+            "StateCode": "OD",
+            "Company": "Adani",
+            "Clinker": 0.9,
+            "Cement": 2.1,
+            "State": "odisha",
+            "Position": [
+                "21.3744415",
+                "81.3070679"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "BCW",
+            "location": "Medinipur",
+            "StateCode": "WB",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 4.6,
+            "State": "westbengal",
+            "Position": [
+                " 22\u00b031'40.44\"N",
+                " 87\u00b018'46.97\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Bhatapara",
+            "location": "Raipur",
+            "StateCode": "CHT",
+            "Company": "Adani",
+            "Clinker": 4.42,
+            "Cement": 3.13,
+            "State": "chhatisgarh",
+            "Position": [
+                "21.2411224",
+                "81.6121638"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Chaibasa",
+            "location": "West Singhbhu",
+            "StateCode": "JHK",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.0,
+            "State": "jharkhand",
+            "Position": [
+                "22.4235674",
+                "85.7481126"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Damodhar Cmt",
+            "location": "Purulia",
+            "StateCode": "WB",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 0.75,
+            "State": "westbengal",
+            "Position": [
+                "21.1623106",
+                "81.4257002"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Farakka",
+            "location": "Murshidabad",
+            "StateCode": "WB",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.25,
+            "State": "westbengal",
+            "Position": [
+                "24.7758138",
+                "87.884252"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "GCW",
+            "location": "Morigaon",
+            "StateCode": "Assam",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 0.5,
+            "State": "assam",
+            "Position": [
+                " 26\u00b010'8.37\"N",
+                " 92\u00b012'57.25\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "JCW",
+            "location": "Bokaro",
+            "StateCode": "JHK",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 6.8,
+            "State": "jharkhand",
+            "Position": [
+                " 23\u00b042'4.49\"N",
+                " 86\u00b0 3'40.82\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "JP Bhilai/ ACC Jamul",
+            "location": "Durg",
+            "StateCode": "CHT",
+            "Company": "Adani",
+            "Clinker": 2.79,
+            "Cement": 3.0,
+            "State": "chhatisgarh",
+            "Position": [
+                "23.6691438",
+                "86.4950057"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "KCW",
+            "location": "Dhenkanal",
+            "StateCode": "OD",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 4.3,
+            "State": "odisha",
+            "Position": [
+                " 20\u00b037'41.15\"N",
+                " 85\u00b059'48.88\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "LKA",
+            "location": "Nagaon",
+            "StateCode": "Assam",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 3.4,
+            "State": "assam",
+            "Position": [
+                " 25\u00b053'31.96\"N",
+                " 92\u00b058'34.79\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "MGH",
+            "location": "Jaintia Hills",
+            "StateCode": "MGH",
+            "Company": "Dalmia",
+            "Clinker": 1.2,
+            "Cement": 1.7,
+            "State": "meghalaya",
+            "Position": [
+                " 25\u00b011'28.30\"N",
+                " 92\u00b021'31.37\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "RCW",
+            "location": "Rohtas",
+            "StateCode": "BHR",
+            "Company": "Dalmia",
+            "Clinker": 1.09,
+            "Cement": 1.1,
+            "State": "bihar",
+            "Position": [
+                " 24\u00b040'15.37\"N",
+                " 83\u00b059'21.76\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "RGP",
+            "location": "Sundargarh",
+            "StateCode": "OD",
+            "Company": "Dalmia",
+            "Clinker": 7.23,
+            "Cement": 4.3,
+            "State": "odisha",
+            "Position": [
+                " 22\u00b011'23.83\"N",
+                " 84\u00b034'47.15\"E"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Sankrail",
+            "location": "Howrah",
+            "StateCode": "WB",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 2.4,
+            "State": "westbengal",
+            "Position": [
+                "21.2989251",
+                "77.3260978"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "Sindri",
+            "location": "Dhanbad",
+            "StateCode": "JHK",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 4.0,
+            "State": "jharkhand",
+            "Position": [
+                "23.6693723",
+                "86.4953613"
+            ]
+        },
+        {
+            "Region": "East & NE",
+            "Plantname": "USO",
+            "location": "Umrangso",
+            "StateCode": "Assam",
+            "Company": "Dalmia",
+            "Clinker": 1.49,
+            "Cement": 0.0,
+            "State": "assam",
+            "Position": [
+                " 25\u00b030'43.80\"N",
+                " 92\u00b045'54.67\"E"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "ACC Gagal",
+            "location": "Bilaspur",
+            "StateCode": "HP",
+            "Company": "Adani",
+            "Clinker": 2.99,
+            "Cement": 4.4,
+            "State": "himachalpradesh",
+            "Position": [
+                "31.4131353",
+                "74.5295334"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "ACC Lakheri",
+            "location": "Bundi",
+            "StateCode": "RAJ",
+            "Company": "Adani",
+            "Clinker": 1.06,
+            "Cement": 1.6,
+            "State": "rajasthan",
+            "Position": [
+                "25.6712358",
+                "59.9825847"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Bhatinda",
+            "location": "Bhatinda",
+            "StateCode": "PB",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 0.8,
+            "State": "punjab",
+            "Position": [
+                "30.2351419",
+                "74.8778668"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Darlaghat",
+            "location": "Solan",
+            "StateCode": "HP",
+            "Company": "Adani",
+            "Clinker": 2.54,
+            "Cement": 1.6,
+            "State": "himachalpradesh",
+            "Position": [
+                "31.1770278",
+                "76.8181986"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Marwar",
+            "location": "Pali",
+            "StateCode": "RAJ",
+            "Company": "Adani",
+            "Clinker": 3.1,
+            "Cement": 1.8,
+            "State": "rajasthan",
+            "Position": [
+                "26.5932813",
+                "65.4331938"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Nalagarh",
+            "location": "Shimla",
+            "StateCode": "HP",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.9,
+            "State": "himachalpradesh",
+            "Position": [
+                "31.1143855",
+                "76.5720463"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Rabriyawas",
+            "location": "Pali",
+            "StateCode": "RAJ",
+            "Company": "Adani",
+            "Clinker": 2.4,
+            "Cement": 2.6,
+            "State": "rajasthan",
+            "Position": [
+                "26.3017734",
+                "66.0250529"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Roorkee",
+            "location": "Haridwar",
+            "StateCode": "UTK",
+            "Company": "Adani",
+            "Clinker": 2.6,
+            "Cement": 1.0,
+            "State": "uttrakhand",
+            "Position": [
+                "29.8297274",
+                "77.7683544"
+            ]
+        },
+        {
+            "Region": "North",
+            "Plantname": "Ambuja Ropar",
+            "location": "Rupnagar",
+            "StateCode": "PB",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 3.2,
+            "State": "punjab",
+            "Position": [
+                "31.0010879",
+                "76.5051953"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "ARY",
+            "location": "Ariyalur",
+            "StateCode": "TN",
+            "Company": "Dalmia",
+            "Clinker": 2.54,
+            "Cement": 3.6,
+            "State": "tamilnadu",
+            "Position": [
+                " 11\u00b0 8'23.91\"N",
+                " 79\u00b0 4'42.81\"E"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "Bellary",
+            "location": "Bellary",
+            "StateCode": "KN",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.65,
+            "State": "karnataka",
+            "Position": [
+                "15.2253683",
+                "76.768539"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "BGM",
+            "location": "Belgaum",
+            "StateCode": "KN",
+            "Company": "Dalmia",
+            "Clinker": 2.18,
+            "Cement": 3.6,
+            "State": "karnataka",
+            "Position": [
+                " 16\u00b012'30.43\"N",
+                " 75\u00b012'52.65\"E"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "DPM",
+            "location": "Dalmiapuram",
+            "StateCode": "TN",
+            "Company": "Dalmia",
+            "Clinker": 3.17,
+            "Cement": 4.2,
+            "State": "tamilnadu",
+            "Position": [
+                " 10\u00b058'21.87\"N",
+                " 78\u00b056'25.63\"E"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "KDP",
+            "location": "Kadappa",
+            "StateCode": "AP",
+            "Company": "Dalmia",
+            "Clinker": 2.54,
+            "Cement": 3.6,
+            "State": "andhrapradesh",
+            "Position": [
+                " 14\u00b028'21.53\"N",
+                " 78\u00b051'36.85\"E"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "Kolar",
+            "location": "Kolar",
+            "StateCode": "KN",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.98,
+            "State": "karnataka",
+            "Position": [
+                "13.1570303",
+                "78.1128097"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "Madukarai",
+            "location": "Coimbatore",
+            "StateCode": "TN",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.0,
+            "State": "tamilnadu",
+            "Position": [
+                "13.0576056",
+                "74.2195871"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "MCW",
+            "location": "Virudhunagar",
+            "StateCode": "TN",
+            "Company": "Dalmia",
+            "Clinker": 0.0,
+            "Cement": 2.0,
+            "State": "tamilnadu",
+            "Position": [
+                "  9\u00b016'13.85\"N",
+                " 77\u00b055'17.91\"E"
+            ]
+        },
+        {
+            "Region": "South",
+            "Plantname": "Wadi",
+            "location": "Gulbarga",
+            "StateCode": "KN",
+            "Company": "Adani",
+            "Clinker": 5.05,
+            "Cement": 4.65,
+            "State": "karnataka",
+            "Position": [
+                "15.0506315",
+                "74.5423856"
+            ]
+        },
+        {
+            "Region": "West",
+            "Plantname": "Ambuja -Magdalla",
+            "location": "Surat",
+            "StateCode": "GUJ",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.5,
+            "State": "gujarat",
+            "Position": [
+                "21.1395679",
+                "72.6539428"
+            ]
+        },
+        {
+            "Region": "West",
+            "Plantname": "Ambuja Cmt -Gujarat",
+            "location": "Amreli",
+            "StateCode": "GUJ",
+            "Company": "Adani",
+            "Clinker": 4.24,
+            "Cement": 5.0,
+            "State": "gujarat",
+            "Position": [
+                "21.5921499",
+                "71.230711"
+            ]
+        },
+        {
+            "Region": "West",
+            "Plantname": "CCW / ACC-Chanda\n/Ambuja Maratha",
+            "location": "Chandrapur",
+            "StateCode": "MAH",
+            "Company": "Adani",
+            "Clinker": 5.18,
+            "Cement": 7.3,
+            "State": "maharashtra",
+            "Position": [
+                "19.9217127",
+                "42.1984863"
+            ]
+        },
+        {
+            "Region": "West",
+            "Plantname": "CCW / ACC-Chanda\n/Ambuja Maratha",
+            "location": "Chandrapur",
+            "StateCode": "MAH",
+            "Company": "Dalmia",
+            "Clinker": 2.08,
+            "Cement": 2.87,
+            "State": "maharashtra",
+            "Position": [
+                " 19\u00b047'14.68\"N",
+                " 79\u00b0 3'55.30\"E"
+            ]
+        },
+        {
+            "Region": "West",
+            "Plantname": "Sanghi- Surat",
+            "location": "Surat",
+            "StateCode": "GUJ",
+            "Company": "Adani",
+            "Clinker": 0.0,
+            "Cement": 1.5,
+            "State": "gujarat",
+            "Position": [
+                "21.6963515",
+                "71.9891167"
+            ]
+        },
+        {
+            "Region": "West",
+            "Plantname": "Sanghi-Kutch",
+            "location": "Kutch",
+            "StateCode": "GUJ",
+            "Company": "Adani",
+            "Clinker": 6.44,
+            "Cement": 4.6,
+            "State": "gujarat",
+            "Position": [
+                "23.4194631",
+                "66.333046"
+            ]
+        }
+    ]
+}
