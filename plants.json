@@ -392,19 +392,6 @@
         },
         {
             "Region": "North",
-            "Plantname": "ACC Lakheri",
-            "location": "Bundi",
-            "StateCode": "RAJ",
-            "Company": "Adani",
-            "Clinker": 1.06,
-            "Cement": 1.6,
-            "Position": [
-                25.6712358,
-                59.9825847
-            ]
-        },
-        {
-            "Region": "North",
             "Plantname": "Ambuja Bhatinda",
             "location": "Bhatinda",
             "StateCode": "PB",
@@ -431,19 +418,6 @@
         },
         {
             "Region": "North",
-            "Plantname": "Ambuja Marwar",
-            "location": "Pali",
-            "StateCode": "RAJ",
-            "Company": "Adani",
-            "Clinker": 3.1,
-            "Cement": 1.8,
-            "Position": [
-                26.5932813,
-                65.4331938
-            ]
-        },
-        {
-            "Region": "North",
             "Plantname": "Ambuja Nalagarh",
             "location": "Shimla",
             "StateCode": "HP",
@@ -453,19 +427,6 @@
             "Position": [
                 31.1143855,
                 76.5720463
-            ]
-        },
-        {
-            "Region": "North",
-            "Plantname": "Ambuja Rabriyawas",
-            "location": "Pali",
-            "StateCode": "RAJ",
-            "Company": "Adani",
-            "Clinker": 2.4,
-            "Cement": 2.6,
-            "Position": [
-                26.3017734,
-                66.0250529
             ]
         },
         {
@@ -574,19 +535,6 @@
         },
         {
             "Region": "South",
-            "Plantname": "Madukarai",
-            "location": "Coimbatore",
-            "StateCode": "TN",
-            "Company": "Adani",
-            "Clinker": 0.0,
-            "Cement": 1.0,
-            "Position": [
-                13.0576056,
-                74.2195871
-            ]
-        },
-        {
-            "Region": "South",
             "Plantname": "MCW",
             "location": "Virudhunagar",
             "StateCode": "TN",
@@ -674,19 +622,6 @@
             "Position": [
                 21.6963515,
                 71.9891167
-            ]
-        },
-        {
-            "Region": "West",
-            "Plantname": "Sanghi-Kutch",
-            "location": "Kutch",
-            "StateCode": "GUJ",
-            "Company": "Adani",
-            "Clinker": 6.44,
-            "Cement": 4.6,
-            "Position": [
-                23.4194631,
-                66.333046
             ]
         }
     ]
