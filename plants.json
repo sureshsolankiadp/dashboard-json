@@ -124,8 +124,8 @@
             "Clinker": 0.0,
             "Cement": 2.0,
             "Position": [
-                23.758608,
-                81.72673
+                24.15048346,
+                81.91726503
             ]
         },
         {
@@ -786,7 +786,7 @@
         },
         {
             "Region": "West",
-            "Plantname": "ACC-Chandraour-Ambuja-Maratha",
+            "Plantname": "ACC-Chandrapur-Ambuja-Maratha",
             "location": "Chandrapur",
             "StateCode": "MAH",
             "sno": 58,
@@ -796,8 +796,8 @@
             "Clinker": 5.18,
             "Cement": 7.3,
             "Position": [
-                19.92252,
-                78.96965
+                20.02815021,
+                79.32734845
             ]
         },
         {
