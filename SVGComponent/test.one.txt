@@ -1,0 +1,72 @@
+import React, { useEffect, useRef } from 'react';
+import * as d3 from 'd3';
+
+interface TopologyData {
+    type: string;
+    arcs: number[][][];
+    transform: {
+        scale: number[];
+        translate: number[];
+    };
+    objects: {
+        districts: {
+            type: string;
+            geometries: Geometry[];
+        };
+    };
+    crs: {
+        type: string;
+        properties: {
+            name: string;
+        };
+    };
+}
+
+interface Geometry {
+    arcs: number[][];
+    type: string;
+    properties: {
+        dt_code: string;
+        district: string;
+        st_code: string;
+        year: string;
+        st_nm: string;
+    };
+}
+
+const SVGComponent: React.FC<{ topologyData: TopologyData }> = ({ topologyData }) => {
+    const svgRef = useRef<SVGSVGElement | null>(null);
+
+    useEffect(() => {
+        const svg = d3.select(svgRef.current);
+
+        const geoJsonData = {
+            type: 'FeatureCollection',
+            features: topologyData.objects.districts.geometries.map((geometry) => ({
+                type: 'Feature',
+                geometry: {
+                    type: geometry.type,
+                    coordinates: geometry.arcs.map((arc) => arc.map((i) => topologyData.arcs[i])),
+                },
+                properties: geometry.properties,
+            })),
+        };
+
+        const projection = d3.geoIdentity().reflectY(true).fitSize([500, 500], geoJsonData);
+        const pathGenerator = d3.geoPath().projection(projection);
+
+        svg
+            .selectAll('path')
+            .data(geoJsonData.features)
+            .enter()
+            .append('path')
+            .attr('d', (d: any) => pathGenerator(d))
+            .style('fill', 'none')
+            .style('stroke', 'blue');
+
+    }, [topologyData]);
+
+    return <svg ref={svgRef} width={500} height={500}></svg>;
+};
+
+export default SVGComponent;
