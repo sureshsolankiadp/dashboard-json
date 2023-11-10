@@ -848,5 +848,907 @@
                 68.57879035
             ]
         }
+    ],
+    "flyashslag": [
+        {
+            "Factory": "Hindal Co - Lapanga",
+            "DFA": 13.200000000000001,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                21.7324743412821,
+                84.0466179492715
+            ]
+        },
+        {
+            "Factory": "Vedanta_Sterlite- Jharsuguda",
+            "DFA": 47.400000000000006,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                21.8168519485937,
+                84.041875052694
+            ]
+        },
+        {
+            "Factory": "Hindal Co - Hirakud",
+            "DFA": 1.2000000000000002,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                21.5335236618934,
+                83.9007478001496
+            ]
+        },
+        {
+            "Factory": "IMFA-Choudwar",
+            "DFA": 5.16,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                20.5372424616897,
+                85.9131288531434
+            ]
+        },
+        {
+            "Factory": "GMR Energy",
+            "DFA": 23.16,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                20.8397216933094,
+                85.2521681797639
+            ]
+        },
+        {
+            "Factory": "DVC-Mezia ",
+            "DFA": 47.64,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.4639995541735,
+                87.1318401950738
+            ]
+        },
+        {
+            "Factory": "DVC- Andal",
+            "DFA": 19.32,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.5856241305942,
+                87.2067195527501
+            ]
+        },
+        {
+            "Factory": "DPL-Durgapur",
+            "DFA": 7.199999999999999,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.5879326922661,
+                87.2073796689506
+            ]
+        },
+        {
+            "Factory": "Tata Power - Jojobera",
+            "DFA": 10.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                22.755450417065,
+                86.2473376680678
+            ]
+        },
+        {
+            "Factory": "DVC-Raghunathpur ",
+            "DFA": 18.2,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.6222294950942,
+                86.6607010662429
+            ]
+        },
+        {
+            "Factory": "DVC - BTPS",
+            "DFA": 7.5600000000000005,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.8129881120003,
+                85.8796978044823
+            ]
+        },
+        {
+            "Factory": "DVC - CTPA",
+            "DFA": 10.56,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.7426693424289,
+                86.11999573828
+            ]
+        },
+        {
+            "Factory": "IPL - Gola",
+            "DFA": 1.44,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.4845033622022,
+                85.6578288239106
+            ]
+        },
+        {
+            "Factory": "HIL-Muri",
+            "DFA": 1.2000000000000002,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.3798337207384,
+                85.8729285895368
+            ]
+        },
+        {
+            "Factory": "Vedanta - ESL",
+            "DFA": 1.2000000000000002,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.6335505927798,
+                86.3010299206563
+            ]
+        },
+        {
+            "Factory": "BPSCL - Bokaro",
+            "DFA": 2.52,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.686024380023,
+                86.0933786239173
+            ]
+        },
+        {
+            "Factory": "WBPDCL - Santhaldih",
+            "DFA": 3.5999999999999996,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.6012633014206,
+                86.4666402662422
+            ]
+        },
+        {
+            "Factory": "Maithan Power",
+            "DFA": 18.5,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.8212726919143,
+                86.7596092233553
+            ]
+        },
+        {
+            "Factory": "NPGC - Ankhora",
+            "DFA": 12.600000000000001,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.7748427641734,
+                84.1573099681352
+            ]
+        },
+        {
+            "Factory": "BRBCL - Nabinagar",
+            "DFA": 10.2,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.7774485094574,
+                84.1568808143876
+            ]
+        },
+        {
+            "Factory": "Grasim Inds - Rehela",
+            "DFA": 2.4000000000000004,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.2342076926157,
+                83.8700795179616
+            ]
+        },
+        {
+            "Factory": "DVC - Koderma",
+            "DFA": 19.6,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.3903127902596,
+                85.5610943239411
+            ]
+        },
+        {
+            "Factory": "NTPC Kahalgaon (BH)",
+            "DFA": 42.36,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                25.2404417771909,
+                87.2668253662985
+            ]
+        },
+        {
+            "Factory": "WPDCL Sagardighi (WB)",
+            "DFA": 23.64,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.372908888798,
+                88.1060707575107
+            ]
+        },
+        {
+            "Factory": "WPDCL Sagardighi",
+            "DFA": 23.64,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.3704238915933,
+                88.1054268738272
+            ]
+        },
+        {
+            "Factory": "NTPC Kahalgaon (new)",
+            "DFA": 42.36,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                25.237484322594,
+                87.2672973945857
+            ]
+        },
+        {
+            "Factory": "WPDCL Santaldih",
+            "DFA": 14.04,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                23.6306067769418,
+                86.4694404650162
+            ]
+        },
+        {
+            "Factory": "NTPC Kahalgaon (old) (BH)",
+            "DFA": 42.36,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                25.2392060812602,
+                87.2674394813484
+            ]
+        },
+        {
+            "Factory": "NTPC Bongaigaon",
+            "DFA": 7.5,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                26.4445102405048,
+                90.3671517577097
+            ]
+        },
+        {
+            "Factory": "NTPC Kahalgaon (BH)",
+            "DFA": 42.36,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                25.2375865281932,
+                87.2673097011637
+            ]
+        },
+        {
+            "Factory": "NTPC Bongaigaon (AS)",
+            "DFA": 7.5,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                26.4444860502993,
+                90.3671401399439
+            ]
+        },
+        {
+            "Factory": "WPDCL Sagardighi (WB)",
+            "DFA": 23.64,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                24.3634856611895,
+                88.1209197728318
+            ]
+        },
+        {
+            "Factory": "CSTPS, Mahagenco",
+            "DFA": 17.28,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                20.0154922358668,
+                79.2923641228718
+            ]
+        },
+        {
+            "Factory": "Dhariwal (DIL)",
+            "DFA": 7.199999999999999,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                20.009831126306,
+                79.2035568506021
+            ]
+        },
+        {
+            "Factory": "Sai Wardha Refex Industries",
+            "DFA": 4.32,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                20.2718289313409,
+                78.9814853949765
+            ]
+        },
+        {
+            "Factory": "GMR Warora",
+            "DFA": 7.199999999999999,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                20.2798568914704,
+                78.9765192568677
+            ]
+        },
+        {
+            "Factory": "Coastal - Tuticorin",
+            "DFA": 1.5,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                8.92026693944492,
+                78.1459663849469
+            ]
+        },
+        {
+            "Factory": "DPM CPP",
+            "DFA": 0.09,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                10.9727416666666,
+                78.9404527777777
+            ]
+        },
+        {
+            "Factory": "ILFS - Cuddalore",
+            "DFA": 0.72,
+            "WFA": 0.24,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                11.522630305261,
+                79.7521031000093
+            ]
+        },
+        {
+            "Factory": "NCTPS1 - Chennai",
+            "DFA": 3.6,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                13.2548070279886,
+                80.326625168869
+            ]
+        },
+        {
+            "Factory": "NCTPS2 - Chennai",
+            "DFA": 9.96,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                13.2573147733977,
+                80.3288028364418
+            ]
+        },
+        {
+            "Factory": "NLC NNTPP(New)- Neyvelli",
+            "DFA": 4.8,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                11.6444983251344,
+                79.4503305082092
+            ]
+        },
+        {
+            "Factory": "NLC TS I Exp - Neyvelli",
+            "DFA": 2.025,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                11.594227472396,
+                79.4684460002992
+            ]
+        },
+        {
+            "Factory": "NLC TS II - Neyvelli",
+            "DFA": 4.875,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                11.5669755412766,
+                79.4402579784403
+            ]
+        },
+        {
+            "Factory": "NTECL - Vallur",
+            "DFA": 15.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                13.2371403182826,
+                80.3063758381013
+            ]
+        },
+        {
+            "Factory": "NTPL - Tuticorin",
+            "DFA": 10.8,
+            "WFA": 1.98,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                8.75933576577874,
+                78.1830051543134
+            ]
+        },
+        {
+            "Factory": "OPG - Chennai",
+            "DFA": 1.1,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                13.0202915593078,
+                80.2216820788639
+            ]
+        },
+        {
+            "Factory": "TAQA - Uttangal",
+            "DFA": 1.2000000000000002,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                11.5421675618797,
+                79.4154399236271
+            ]
+        },
+        {
+            "Factory": "TTPS - Tuticorin",
+            "DFA": 12.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                8.76279848148323,
+                78.1765084966102
+            ]
+        },
+        {
+            "Factory": "JSW - Ratnagiri",
+            "DFA": 7.5,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                17.2964848088582,
+                73.2124256771089
+            ]
+        },
+        {
+            "Factory": "NTPC - Solapur",
+            "DFA": 6.959999999999999,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                17.5513506004196,
+                75.9826243949058
+            ]
+        },
+        {
+            "Factory": "BTPS Bellary",
+            "DFA": 7.2,
+            "WFA": 1.4000000000000001,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                15.1927881781049,
+                76.7108519525262
+            ]
+        },
+        {
+            "Factory": "JSW - Tornagallu",
+            "DFA": 7.5,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                15.1919142850832,
+                76.6446620705685
+            ]
+        },
+        {
+            "Factory": "NTPC - Kudgi",
+            "DFA": 16.68,
+            "WFA": 3.3600000000000003,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                16.4970204151151,
+                75.8426408660454
+            ]
+        },
+        {
+            "Factory": "RTPS - Raichur",
+            "DFA": 15.0,
+            "WFA": 3.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                16.3647013088383,
+                77.3528943390594
+            ]
+        },
+        {
+            "Factory": "APGENCO Nellore",
+            "DFA": 18.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                14.3282504736045,
+                80.1218168101835
+            ]
+        },
+        {
+            "Factory": "RTPP Muddanur",
+            "DFA": 16.7,
+            "WFA": 60.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                14.3281284737598,
+                80.1203714660009
+            ]
+        },
+        {
+            "Factory": "Sembcorp - P1 Nellore",
+            "DFA": 17.999999999999996,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                14.3301442146409,
+                80.1405520797714
+            ]
+        },
+        {
+            "Factory": "MTPS - Mettur",
+            "DFA": 0.0,
+            "WFA": 84.0,
+            "CFA": 0.0,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                11.7770217632402,
+                77.8261650236305
+            ]
+        },
+        {
+            "Factory": "Adani Power - Tiroda",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 2.4000000000000004,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                21.4154029734119,
+                79.96814346961
+            ]
+        },
+        {
+            "Factory": "Utkal Almuina-Direct",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 28.799999999999997,
+            "Slag": 0.0,
+            "Material": "flyash",
+            "Position": [
+                19.6632382033326,
+                83.0035053935442
+            ]
+        },
+        {
+            "Factory": "SMC Power",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.72,
+            "Material": "slag",
+            "Position": [
+                21.8168831085585,
+                83.9911651784506
+            ]
+        },
+        {
+            "Factory": "Suraj Product",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 0.24,
+            "Material": "slag",
+            "Position": [
+                22.2346245943546,
+                84.6297116527068
+            ]
+        },
+        {
+            "Factory": "SAIL RSP",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 18.0,
+            "Material": "slag",
+            "Position": [
+                22.2219293077395,
+                84.8604540616776
+            ]
+        },
+        {
+            "Factory": "JSW Rengali",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 7.199999999999999,
+            "Material": "slag",
+            "Position": [
+                21.7684293468818,
+                84.0140447526925
+            ]
+        },
+        {
+            "Factory": "TATA-M'mandali",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 16.200000000000003,
+            "Material": "slag",
+            "Position": [
+                20.8437622070619,
+                85.2585159479076
+            ]
+        },
+        {
+            "Factory": "JSPL-Angul",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 12.600000000000001,
+            "Material": "slag",
+            "Position": [
+                20.9071081645068,
+                85.0137406408542
+            ]
+        },
+        {
+            "Factory": "Tata Jamshedpur",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 40.32,
+            "Material": "slag",
+            "Position": [
+                22.7942689985512,
+                86.1980695731483
+            ]
+        },
+        {
+            "Factory": "Tata-Long Product",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 3.0,
+            "Material": "slag",
+            "Position": [
+                22.8121175527626,
+                86.1857815944627
+            ]
+        },
+        {
+            "Factory": "Tata Kalinganagar",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 9.959999999999999,
+            "Material": "slag",
+            "Position": [
+                20.976530272548,
+                86.0051409949966
+            ]
+        },
+        {
+            "Factory": "Tata Duburi",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 4.199999999999999,
+            "Material": "slag",
+            "Position": [
+                20.9801078735286,
+                85.9907553578219
+            ]
+        },
+        {
+            "Factory": "SAIL BSL",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 19.200000000000003,
+            "Material": "slag",
+            "Position": [
+                23.6802446990196,
+                86.0828375819337
+            ]
+        },
+        {
+            "Factory": "Vedanta-ESL",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 9.0,
+            "Material": "slag",
+            "Position": [
+                23.6373407390797,
+                86.3039609954423
+            ]
+        },
+        {
+            "Factory": "Jindal Raigarh",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 10.44,
+            "Material": "slag",
+            "Position": [
+                21.9394561618476,
+                83.3472205023941
+            ]
+        },
+        {
+            "Factory": "SAIL IISCO",
+            "DFA": 0.0,
+            "WFA": 0.0,
+            "CFA": 0.0,
+            "Slag": 9.84,
+            "Material": "slag",
+            "Position": [
+                23.6652206978509,
+                86.9164038308388
+            ]
+        }
     ]
 }
